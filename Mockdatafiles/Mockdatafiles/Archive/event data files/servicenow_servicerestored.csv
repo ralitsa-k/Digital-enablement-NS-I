@@ -1,0 +1,101 @@
+incident_id,created_timestamp,response_type
+INC1,31/12/2023 12:12,code_fix
+INC2,16/12/2023 10:03,datafix
+INC3,16/12/2023 00:31,datafix
+INC4,17/12/2023 06:49,No fault found
+INC5,27/12/2023 23:27,user_education
+INC6,07/12/2023 06:18,No fault found
+INC7,29/01/2024 07:57,code_fix
+INC8,12/12/2023 09:26,datafix
+INC9,20/01/2024 05:22,code_fix
+INC10,30/12/2023 13:24,code_fix
+INC11,28/12/2023 09:08,user_education
+INC12,21/01/2024 03:42,No fault found
+INC13,27/01/2024 03:11,user_education
+INC14,25/12/2023 10:42,No fault found
+INC15,28/01/2024 23:04,datafix
+INC16,21/12/2023 08:52,user_education
+INC17,10/12/2023 03:05,datafix
+INC18,17/01/2024 03:05,datafix
+INC19,25/12/2023 18:19,No fault found
+INC20,07/12/2023 12:32,No fault found
+INC21,15/01/2024 13:39,code_fix
+INC22,23/12/2023 13:44,No fault found
+INC23,14/12/2023 17:29,datafix
+INC24,14/01/2024 18:23,datafix
+INC25,14/12/2023 18:20,datafix
+INC26,24/01/2024 19:04,No fault found
+INC27,19/01/2024 04:24,code_fix
+INC28,01/01/2024 06:41,datafix
+INC29,02/01/2024 11:52,datafix
+INC30,10/01/2024 22:52,code_fix
+INC31,13/12/2023 23:38,No fault found
+INC32,28/01/2024 12:53,code_fix
+INC33,20/12/2023 12:57,datafix
+INC34,25/12/2023 21:04,datafix
+INC35,20/01/2024 22:10,No fault found
+INC36,18/01/2024 19:18,code_fix
+INC37,18/01/2024 14:10,user_education
+INC38,06/12/2023 22:34,No fault found
+INC39,10/01/2024 03:58,user_education
+INC40,10/12/2023 10:12,datafix
+INC41,08/01/2024 00:30,No fault found
+INC42,06/12/2023 12:43,code_fix
+INC43,27/01/2024 13:01,user_education
+INC44,17/01/2024 21:02,datafix
+INC45,09/01/2024 16:42,code_fix
+INC46,08/12/2023 15:03,user_education
+INC47,22/01/2024 04:42,code_fix
+INC48,24/12/2023 08:52,user_education
+INC49,28/12/2023 03:26,user_education
+INC50,26/01/2024 17:48,user_education
+INC51,22/12/2023 06:11,code_fix
+INC52,24/01/2024 01:55,datafix
+INC53,15/12/2023 02:27,code_fix
+INC54,02/01/2024 08:52,user_education
+INC55,12/12/2023 17:44,user_education
+INC56,10/12/2023 11:12,user_education
+INC57,02/12/2023 14:19,datafix
+INC58,01/12/2023 08:01,No fault found
+INC59,08/01/2024 00:24,datafix
+INC60,31/12/2023 09:19,datafix
+INC61,13/01/2024 16:43,user_education
+INC62,11/01/2024 16:48,code_fix
+INC63,04/01/2024 15:43,code_fix
+INC64,13/01/2024 12:43,user_education
+INC65,15/12/2023 04:23,code_fix
+INC66,09/01/2024 10:15,datafix
+INC67,07/12/2023 16:56,No fault found
+INC68,03/12/2023 15:46,user_education
+INC69,04/01/2024 20:18,user_education
+INC70,06/01/2024 21:37,user_education
+INC71,02/12/2023 08:00,user_education
+INC72,18/01/2024 07:46,code_fix
+INC73,29/01/2024 14:45,datafix
+INC74,20/01/2024 16:49,user_education
+INC75,14/01/2024 23:56,user_education
+INC76,27/01/2024 08:17,datafix
+INC77,07/01/2024 01:27,No fault found
+INC78,05/12/2023 21:02,user_education
+INC79,11/01/2024 21:31,code_fix
+INC80,01/01/2024 05:41,No fault found
+INC81,29/01/2024 00:57,code_fix
+INC82,29/12/2023 20:03,code_fix
+INC83,24/12/2023 03:40,No fault found
+INC84,17/12/2023 01:47,No fault found
+INC85,03/01/2024 00:14,user_education
+INC86,23/12/2023 20:59,datafix
+INC87,06/12/2023 03:25,user_education
+INC88,17/12/2023 18:51,user_education
+INC89,05/01/2024 03:45,No fault found
+INC90,18/12/2023 23:52,No fault found
+INC91,31/12/2023 01:42,datafix
+INC92,15/12/2023 18:16,user_education
+INC93,17/12/2023 20:56,No fault found
+INC94,20/01/2024 06:50,No fault found
+INC95,06/01/2024 19:26,code_fix
+INC96,07/12/2023 01:56,datafix
+INC97,19/12/2023 12:28,No fault found
+INC98,31/12/2023 05:43,datafix
+INC99,24/12/2023 15:06,datafix
+INC100,21/12/2023 23:54,user_education

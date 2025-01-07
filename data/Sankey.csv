@@ -1,0 +1,25 @@
+Left axis,Right axis,
+Online,Online,50
+Online,Self-help,20
+Online,Webchat,10
+Online,Screenshare,5
+Online,PolyAI,5
+Online,Phone,10
+Webchat,Online,30
+Webchat,Self-help,20
+Webchat,Webchat,20
+Webchat,Screenshare,10
+Webchat,PolyAI,0
+Webchat,Phone,20
+PolyAI,Online,10
+PolyAI,Self-help,10
+PolyAI,Webchat,5
+PolyAI,Screenshare,NA
+PolyAI,PolyAI,40
+PolyAI,Phone,35
+Phone,Online,10
+Phone,Self-help,10
+Phone,Webchat,NA
+Phone,Screenshare,10
+Phone,PolyAI,NA
+Phone,Phone,70

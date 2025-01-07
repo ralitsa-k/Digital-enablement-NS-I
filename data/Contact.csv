@@ -1,0 +1,1510 @@
+Customer ID,Contact Date,Contact Channel,Number of JTBD,Interaction competence rating,Level of Support,Support Service Used,Deflection Provided,Digicare Case Open,Average CSAT,Deflection,JTBD,CSAT group
+Cust001,01/01/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,1,Other,Digital,Digicare
+Cust002,02/01/2024,Phone,3,Do it myself,Assisted digital,Self help,No,Yes,5,no deflection,Non-digital,Book
+Cust003,03/01/2024,Phone,3,Do it with me,Digicare,Digicare,No,No,3,screen share,Non-digital,Digicare
+Cust004,04/01/2024,Phone,4,Do it with me,Self help,Digicare,No,No,2,no deflection,Digital,Digicare
+Cust005,05/01/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,No,No,1,no deflection,Digital,Campaign
+Cust006,06/01/2024,Phone,4,Refer to Digicare,Digicare,Assisted digital,No,No,2,screen share,Digital,Libraries Connected
+Cust007,07/01/2024,Phone,3,Do it myself,Self help,Assisted digital,No,No,3,no deflection,Digital,Digicare
+Cust008,08/01/2024,Phone,1,Do it with me,Assisted digital,Self help,Yes,No,2,screen share,Non-digital,Digicare
+Cust009,09/01/2024,Webchat,2,Do it with me,Digicare,Digicare,Yes,No,3,Other,Digital,Digicare
+Cust010,10/01/2024,Webchat,4,Refer to Digicare,Self help,Libraries Connected,No,Yes,5,no deflection,Digital,Libraries Connected
+Cust011,11/01/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,No,No,2,no deflection,Digital,Book
+Cust012,12/01/2024,Webchat,4,Do it myself,Digicare,Self help,No,No,2,no deflection,Non-digital,Digicare
+Cust013,13/01/2024,Webchat,3,Do it myself,Self help,Assisted digital,No,No,4,Other,Non-digital,Libraries Connected
+Cust014,14/01/2024,Phone,1,Do it myself,Assisted digital,Digicare,No,Yes,3,no deflection,Digital,Book
+Cust015,15/01/2024,Phone,4,Do it myself,Digicare,Digicare,No,No,3,screen share,Digital,Digicare
+Cust016,16/01/2024,Phone,1,Do it with me,Self help,Libraries Connected,No,No,4,no deflection,Digital,Digicare
+Cust017,17/01/2024,Phone,1,Refer to Digicare,Assisted digital,Assisted digital,Yes,No,3,Other,Digital,Book
+Cust018,18/01/2024,Webchat,3,Do it with me,Digicare,Libraries Connected,Yes,No,5,no deflection,Digital,Book
+Cust019,19/01/2024,Social Media,1,Do it with me,Self help,Self help,No,No,4,screen share,Non-digital,Campaign
+Cust020,20/01/2024,Social Media,1,Do it with me,Assisted digital,Assisted digital,No,No,4,no deflection,Non-digital,Libraries Connected
+Cust021,21/01/2024,Social Media,4,Do it myself,Digicare,Digicare,Yes,No,1,no deflection,Digital,Book
+Cust022,22/01/2024,Social Media,1,Do it with me,Self help,Libraries Connected,Yes,No,3,no deflection,Digital,Digicare
+Cust023,23/01/2024,Social Media,3,Do it with me,Assisted digital,Self help,No,No,2,no deflection,Digital,Libraries Connected
+Cust024,24/01/2024,Social Media,4,Do it with me,Digicare,Self help,Yes,No,3,no deflection,Digital,Book
+Cust025,25/01/2024,Social Media,1,Refer to Digicare,Self help,Libraries Connected,Yes,No,1,Other,Digital,Campaign
+Cust026,26/01/2024,Social Media,1,Do it with me,Assisted digital,Self help,No,No,3,self help resources,Digital,Digicare
+Cust027,27/01/2024,Social Media,4,Do it myself,Digicare,Self help,Yes,Yes,3,screen share,Non-digital,Digicare
+Cust028,28/01/2024,Webchat,1,Do it myself,Self help,Assisted digital,Yes,Yes,3,no deflection,Non-digital,Book
+Cust029,29/01/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,No,No,5,no deflection,Digital,Digicare
+Cust030,30/01/2024,Webchat,2,Do it with me,Digicare,Assisted digital,No,No,2,screen share,Non-digital,Book
+Cust031,31/01/2024,Webchat,3,Refer to Digicare,Self help,Assisted digital,Yes,No,3,screen share,Digital,Digicare
+Cust032,01/02/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,No,No,5,screen share,Non-digital,Book
+Cust033,02/02/2024,Phone,1,Do it myself,Digicare,Libraries Connected,No,No,1,no deflection,Digital,Book
+Cust034,03/02/2024,Phone,1,Do it with me,Self help,Self help,Yes,Yes,5,screen share,Non-digital,Libraries Connected
+Cust035,04/02/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,Yes,Yes,3,no deflection,Digital,Libraries Connected
+Cust036,05/02/2024,Webchat,3,Refer to Digicare,Digicare,Libraries Connected,Yes,No,2,no deflection,Non-digital,Digicare
+Cust037,06/02/2024,Phone,2,Do it myself,Self help,Libraries Connected,No,No,4,Other,Non-digital,Libraries Connected
+Cust038,07/02/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,Yes,No,1,no deflection,Non-digital,Libraries Connected
+Cust039,08/02/2024,Phone,3,Do it myself,Digicare,Libraries Connected,No,No,4,screen share,Non-digital,Libraries Connected
+Cust040,09/02/2024,Webchat,1,Do it myself,Self help,Self help,No,No,5,no deflection,Non-digital,Campaign
+Cust041,10/02/2024,Phone,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,4,Other,Digital,Libraries Connected
+Cust042,11/02/2024,Webchat,4,Do it myself,Digicare,Assisted digital,No,No,2,screen share,Non-digital,Digicare
+Cust043,12/02/2024,Webchat,2,Do it myself,Self help,Libraries Connected,No,No,2,no deflection,Non-digital,Digicare
+Cust044,13/02/2024,Phone,1,Do it with me,Assisted digital,Self help,No,Yes,1,no deflection,Non-digital,Digicare
+Cust045,14/02/2024,Phone,1,Refer to Digicare,Digicare,Assisted digital,Yes,No,1,screen share,Digital,Campaign
+Cust046,15/02/2024,Webchat,4,Do it myself,Self help,Self help,Yes,No,5,self help resources,Digital,Digicare
+Cust047,16/02/2024,Phone,3,Do it with me,Assisted digital,Digicare,Yes,No,2,screen share,Digital,Campaign
+Cust048,17/02/2024,Phone,3,Refer to Digicare,Digicare,Libraries Connected,No,No,1,Other,Digital,Digicare
+Cust049,18/02/2024,Phone,3,Refer to Digicare,Self help,Libraries Connected,No,No,5,no deflection,Non-digital,Campaign
+Cust050,19/02/2024,Phone,4,Do it myself,Assisted digital,Self help,Yes,No,5,Other,Digital,Campaign
+Cust051,20/02/2024,Webchat,1,Refer to Digicare,Digicare,Digicare,Yes,No,4,screen share,Non-digital,Libraries Connected
+Cust052,21/02/2024,Webchat,3,Do it myself,Self help,Libraries Connected,Yes,No,4,no deflection,Non-digital,Libraries Connected
+Cust053,22/02/2024,Phone,4,Do it with me,Assisted digital,Digicare,No,No,3,screen share,Digital,Book
+Cust054,23/02/2024,Phone,4,Do it myself,Digicare,Self help,No,No,1,screen share,Digital,Campaign
+Cust055,24/02/2024,Phone,4,Do it myself,Self help,Assisted digital,No,No,4,no deflection,Digital,Book
+Cust056,25/02/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,No,No,5,no deflection,Non-digital,Libraries Connected
+Cust057,26/02/2024,Webchat,3,Do it myself,Digicare,Self help,Yes,No,3,screen share,Non-digital,Digicare
+Cust058,27/02/2024,Webchat,1,Do it with me,Self help,Libraries Connected,No,No,3,Other,Non-digital,Campaign
+Cust059,28/02/2024,Webchat,2,Do it with me,Assisted digital,Digicare,No,Yes,1,screen share,Digital,Book
+Cust060,29/02/2024,Phone,1,Do it with me,Digicare,Assisted digital,Yes,No,1,Other,Digital,Digicare
+Cust061,01/03/2024,Phone,3,Do it with me,Self help,Libraries Connected,Yes,No,3,no deflection,Digital,Book
+Cust062,02/03/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,No,No,4,no deflection,Digital,Libraries Connected
+Cust063,03/03/2024,Phone,2,Do it with me,Digicare,Digicare,No,No,1,self help resources,Non-digital,Libraries Connected
+Cust064,04/03/2024,Phone,4,Do it with me,Self help,Digicare,Yes,Yes,3,screen share,Digital,Book
+Cust065,05/03/2024,Webchat,1,Do it with me,Assisted digital,Libraries Connected,No,Yes,5,no deflection,Non-digital,Campaign
+Cust066,06/03/2024,Phone,4,Do it myself,Digicare,Digicare,No,No,3,screen share,Non-digital,Digicare
+Cust067,07/03/2024,Phone,2,Refer to Digicare,Self help,Digicare,No,No,2,screen share,Digital,Libraries Connected
+Cust068,08/03/2024,Phone,1,Do it myself,Assisted digital,Self help,Yes,No,2,screen share,Non-digital,Campaign
+Cust069,09/03/2024,Phone,3,Do it myself,Digicare,Digicare,Yes,Yes,4,screen share,Non-digital,Campaign
+Cust070,10/03/2024,Phone,4,Do it with me,Self help,Assisted digital,Yes,No,1,screen share,Non-digital,Digicare
+Cust071,11/03/2024,Phone,1,Do it myself,Assisted digital,Self help,No,No,3,Other,Digital,Libraries Connected
+Cust072,12/03/2024,Webchat,4,Do it with me,Digicare,Libraries Connected,No,No,5,no deflection,Digital,Digicare
+Cust073,13/03/2024,Phone,4,Do it with me,Self help,Self help,Yes,No,3,self help resources,Non-digital,Campaign
+Cust074,14/03/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,1,no deflection,Digital,Campaign
+Cust075,15/03/2024,Phone,1,Do it with me,Digicare,Assisted digital,No,Yes,3,no deflection,Non-digital,Digicare
+Cust076,16/03/2024,Webchat,3,Do it myself,Self help,Libraries Connected,Yes,No,2,screen share,Digital,Libraries Connected
+Cust077,17/03/2024,Phone,3,Do it myself,Assisted digital,Digicare,Yes,No,2,screen share,Non-digital,Libraries Connected
+Cust078,18/03/2024,Phone,4,Do it with me,Digicare,Assisted digital,Yes,No,5,Other,Non-digital,Libraries Connected
+Cust079,19/03/2024,Phone,3,Do it myself,Self help,Libraries Connected,Yes,No,5,no deflection,Digital,Libraries Connected
+Cust080,20/03/2024,Phone,1,Do it myself,Assisted digital,Digicare,Yes,No,1,no deflection,Non-digital,Book
+Cust081,21/03/2024,Phone,2,Refer to Digicare,Digicare,Digicare,Yes,No,2,no deflection,Non-digital,Campaign
+Cust082,22/03/2024,Webchat,3,Do it with me,Self help,Assisted digital,No,Yes,5,screen share,Non-digital,Digicare
+Cust083,23/03/2024,Webchat,1,Do it with me,Assisted digital,Libraries Connected,No,No,1,no deflection,Non-digital,Campaign
+Cust084,24/03/2024,Phone,1,Refer to Digicare,Digicare,Assisted digital,Yes,No,5,screen share,Digital,Campaign
+Cust085,25/03/2024,Phone,3,Do it with me,Self help,Libraries Connected,No,No,1,screen share,Digital,Libraries Connected
+Cust086,26/03/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,No,No,5,no deflection,Digital,Book
+Cust087,27/03/2024,Webchat,4,Do it with me,Digicare,Assisted digital,Yes,No,3,screen share,Digital,Libraries Connected
+Cust088,28/03/2024,Phone,1,Do it myself,Self help,Self help,No,No,5,Other,Digital,Book
+Cust089,29/03/2024,Phone,3,Refer to Digicare,Assisted digital,Digicare,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust090,30/03/2024,Webchat,4,Do it with me,Digicare,Assisted digital,Yes,No,1,Other,Non-digital,Digicare
+Cust091,31/03/2024,Phone,3,Do it with me,Self help,Libraries Connected,No,No,2,screen share,Non-digital,Digicare
+Cust092,01/04/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,No,No,3,no deflection,Non-digital,Libraries Connected
+Cust093,02/04/2024,Phone,4,Do it myself,Digicare,Libraries Connected,No,Yes,4,no deflection,Digital,Book
+Cust094,03/04/2024,Webchat,1,Do it with me,Self help,Libraries Connected,No,No,4,self help resources,Digital,Book
+Cust095,04/04/2024,Webchat,3,Refer to Digicare,Assisted digital,Self help,No,No,5,Other,Non-digital,Campaign
+Cust096,05/04/2024,Phone,1,Do it with me,Digicare,Assisted digital,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust097,06/04/2024,Phone,1,Do it with me,Self help,Assisted digital,No,No,2,screen share,Digital,Libraries Connected
+Cust098,07/04/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,Yes,No,1,screen share,Digital,Digicare
+Cust099,08/04/2024,Phone,3,Do it myself,Digicare,Libraries Connected,No,No,4,no deflection,Non-digital,Campaign
+Cust100,09/04/2024,Phone,2,Do it myself,Self help,Self help,No,No,2,screen share,Digital,Digicare
+Cust101,10/04/2024,Phone,2,Do it with me,Assisted digital,Digicare,Yes,No,4,screen share,Non-digital,Libraries Connected
+Cust102,11/04/2024,Phone,2,Refer to Digicare,Digicare,Digicare,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust103,12/04/2024,Phone,2,Do it with me,Self help,Digicare,No,No,5,no deflection,Digital,Digicare
+Cust104,13/04/2024,Phone,1,Do it with me,Assisted digital,Digicare,Yes,No,1,Other,Digital,Digicare
+Cust105,14/04/2024,Phone,2,Do it with me,Digicare,Self help,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust106,15/04/2024,Phone,2,Do it myself,Self help,Self help,Yes,No,5,Other,Non-digital,Campaign
+Cust107,16/04/2024,Webchat,2,Do it myself,Assisted digital,Libraries Connected,No,No,4,screen share,Digital,Book
+Cust108,17/04/2024,Webchat,3,Do it myself,Digicare,Assisted digital,Yes,No,1,screen share,Digital,Book
+Cust109,18/04/2024,Webchat,1,Do it with me,Self help,Self help,No,No,1,Other,Non-digital,Campaign
+Cust110,19/04/2024,Phone,3,Do it myself,Assisted digital,Digicare,Yes,No,1,no deflection,Non-digital,Digicare
+Cust111,20/04/2024,Phone,2,Do it with me,Digicare,Assisted digital,No,No,2,no deflection,Digital,Libraries Connected
+Cust112,21/04/2024,Social Media,4,Do it with me,Self help,Digicare,Yes,No,1,Other,Digital,Campaign
+Cust113,22/04/2024,Social Media,1,Do it myself,Assisted digital,Digicare,No,No,5,Other,Digital,Libraries Connected
+Cust114,23/04/2024,Social Media,4,Do it myself,Digicare,Libraries Connected,No,No,5,no deflection,Non-digital,Libraries Connected
+Cust115,24/04/2024,Social Media,1,Do it myself,Self help,Self help,No,No,1,screen share,Non-digital,Digicare
+Cust116,25/04/2024,Social Media,3,Do it with me,Assisted digital,Libraries Connected,Yes,No,5,screen share,Digital,Campaign
+Cust117,26/04/2024,Phone,1,Do it myself,Digicare,Assisted digital,No,No,1,no deflection,Digital,Libraries Connected
+Cust118,27/04/2024,Phone,2,Do it myself,Self help,Libraries Connected,No,No,5,no deflection,Digital,Digicare
+Cust119,28/04/2024,Webchat,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,5,self help resources,Digital,Campaign
+Cust120,29/04/2024,Webchat,4,Do it myself,Digicare,Assisted digital,Yes,No,5,no deflection,Non-digital,Book
+Cust121,30/04/2024,Phone,4,Do it myself,Self help,Assisted digital,No,No,5,no deflection,Digital,Libraries Connected
+Cust122,01/05/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,No,No,2,screen share,Non-digital,Digicare
+Cust123,02/05/2024,Phone,4,Do it with me,Digicare,Digicare,Yes,No,4,screen share,Non-digital,Campaign
+Cust124,03/05/2024,Phone,2,Do it myself,Self help,Self help,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust125,04/05/2024,Poly AI,1,Do it with me,Assisted digital,Assisted digital,No,No,2,no deflection,Digital,Digicare
+Cust126,05/05/2024,Poly AI,3,Do it myself,Digicare,Digicare,No,No,1,Other,Digital,Digicare
+Cust127,06/05/2024,Poly AI,2,Refer to Digicare,Self help,Digicare,No,Yes,2,no deflection,Digital,Libraries Connected
+Cust128,07/05/2024,Poly AI,4,Do it with me,Assisted digital,Assisted digital,No,No,3,screen share,Non-digital,Libraries Connected
+Cust129,08/05/2024,Poly AI,1,Do it myself,Digicare,Assisted digital,No,No,2,Other,Digital,Campaign
+Cust130,09/05/2024,Poly AI,4,Do it with me,Self help,Libraries Connected,Yes,No,1,screen share,Digital,Libraries Connected
+Cust131,10/05/2024,Poly AI,3,Do it with me,Assisted digital,Digicare,No,No,3,no deflection,Non-digital,Campaign
+Cust132,11/05/2024,Poly AI,4,Do it myself,Digicare,Assisted digital,No,No,1,screen share,Non-digital,Digicare
+Cust133,12/05/2024,Poly AI,3,Do it myself,Self help,Digicare,No,No,3,self help resources,Non-digital,Campaign
+Cust134,13/05/2024,Poly AI,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,Other,Non-digital,Book
+Cust135,14/05/2024,Poly AI,4,Do it with me,Digicare,Libraries Connected,No,No,3,Other,Non-digital,Campaign
+Cust136,15/05/2024,Poly AI,2,Do it myself,Self help,Assisted digital,Yes,No,3,Other,Digital,Libraries Connected
+Cust137,16/05/2024,Poly AI,1,Do it with me,Assisted digital,Digicare,No,No,1,screen share,Digital,Digicare
+Cust138,17/05/2024,Poly AI,1,Do it myself,Digicare,Libraries Connected,No,No,4,Other,Digital,Book
+Cust139,18/05/2024,Poly AI,4,Do it with me,Self help,Self help,Yes,No,4,screen share,Non-digital,Digicare
+Cust140,19/05/2024,Phone,2,Refer to Digicare,Assisted digital,Digicare,Yes,No,4,no deflection,Digital,Libraries Connected
+Cust141,20/05/2024,Phone,4,Do it with me,Digicare,Libraries Connected,No,No,1,self help resources,Digital,Libraries Connected
+Cust142,21/05/2024,Phone,4,Do it myself,Self help,Digicare,No,Yes,3,no deflection,Digital,Libraries Connected
+Cust143,22/05/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,No,No,2,no deflection,Digital,Libraries Connected
+Cust144,23/05/2024,Webchat,2,Do it with me,Digicare,Assisted digital,No,No,2,no deflection,Non-digital,Digicare
+Cust145,24/05/2024,Phone,4,Do it myself,Self help,Digicare,Yes,No,1,Other,Non-digital,Digicare
+Cust146,25/05/2024,Webchat,4,Do it with me,Assisted digital,Assisted digital,No,No,3,no deflection,Non-digital,Digicare
+Cust147,26/05/2024,Phone,3,Do it myself,Digicare,Self help,Yes,No,2,Other,Non-digital,Digicare
+Cust148,27/05/2024,Phone,3,Do it with me,Self help,Digicare,Yes,No,1,Other,Digital,Digicare
+Cust149,28/05/2024,Phone,2,Do it with me,Assisted digital,Self help,Yes,No,1,no deflection,Non-digital,Libraries Connected
+Cust150,29/05/2024,Webchat,2,Refer to Digicare,Digicare,Self help,Yes,No,1,screen share,Digital,Libraries Connected
+Cust151,30/05/2024,Phone,3,Refer to Digicare,Self help,Digicare,No,Yes,1,no deflection,Digital,Book
+Cust152,31/05/2024,Phone,2,Do it myself,Assisted digital,Digicare,No,No,4,no deflection,Digital,Campaign
+Cust153,01/06/2024,Phone,3,Refer to Digicare,Digicare,Digicare,No,No,2,no deflection,Digital,Digicare
+Cust154,02/06/2024,Phone,2,Do it myself,Self help,Libraries Connected,Yes,No,4,no deflection,Non-digital,Book
+Cust155,03/06/2024,Phone,2,Do it with me,Assisted digital,Digicare,Yes,No,3,no deflection,Non-digital,Digicare
+Cust156,04/06/2024,Phone,4,Refer to Digicare,Digicare,Digicare,No,No,2,screen share,Non-digital,Book
+Cust157,05/06/2024,Phone,4,Do it with me,Self help,Libraries Connected,Yes,No,1,Other,Non-digital,Digicare
+Cust158,06/06/2024,Webchat,4,Do it myself,Assisted digital,Libraries Connected,No,No,3,no deflection,Digital,Campaign
+Cust159,07/06/2024,Phone,4,Do it with me,Digicare,Assisted digital,No,No,3,no deflection,Non-digital,Digicare
+Cust160,08/06/2024,Webchat,1,Do it with me,Self help,Digicare,Yes,No,1,Other,Non-digital,Digicare
+Cust161,09/06/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,Yes,No,2,no deflection,Non-digital,Digicare
+Cust162,10/06/2024,Phone,3,Do it with me,Digicare,Digicare,No,No,2,no deflection,Non-digital,Campaign
+Cust163,11/06/2024,Webchat,2,Refer to Digicare,Self help,Assisted digital,Yes,No,5,screen share,Non-digital,Book
+Cust164,12/06/2024,Phone,4,Do it myself,Assisted digital,Assisted digital,No,No,5,screen share,Digital,Libraries Connected
+Cust165,13/06/2024,Phone,4,Do it myself,Digicare,Digicare,No,No,1,no deflection,Digital,Book
+Cust166,14/06/2024,Phone,1,Do it myself,Self help,Self help,No,No,1,screen share,Non-digital,Campaign
+Cust167,15/06/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,No,No,3,self help resources,Digital,Libraries Connected
+Cust168,16/06/2024,Phone,2,Do it myself,Digicare,Libraries Connected,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust169,17/06/2024,Phone,3,Do it with me,Self help,Assisted digital,No,No,3,Other,Non-digital,Campaign
+Cust170,18/06/2024,Webchat,3,Refer to Digicare,Assisted digital,Self help,Yes,No,3,screen share,Non-digital,Book
+Cust171,19/06/2024,Phone,1,Refer to Digicare,Digicare,Assisted digital,Yes,No,1,Other,Non-digital,Digicare
+Cust172,20/06/2024,Webchat,3,Do it with me,Self help,Libraries Connected,No,No,1,screen share,Non-digital,Digicare
+Cust173,21/06/2024,Social Media,1,Refer to Digicare,Assisted digital,Libraries Connected,Yes,No,2,no deflection,Non-digital,Libraries Connected
+Cust174,22/06/2024,Social Media,3,Do it myself,Digicare,Assisted digital,Yes,No,2,no deflection,Non-digital,Campaign
+Cust175,23/06/2024,Social Media,2,Do it with me,Self help,Digicare,Yes,Yes,2,no deflection,Digital,Libraries Connected
+Cust176,24/06/2024,Social Media,4,Do it myself,Assisted digital,Assisted digital,Yes,No,4,Other,Non-digital,Book
+Cust177,25/06/2024,Social Media,4,Do it with me,Digicare,Self help,No,No,5,screen share,Digital,Libraries Connected
+Cust178,26/06/2024,Phone,1,Do it with me,Self help,Assisted digital,Yes,No,2,no deflection,Digital,Digicare
+Cust179,27/06/2024,Webchat,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust180,28/06/2024,Phone,4,Do it myself,Digicare,Digicare,No,No,4,no deflection,Non-digital,Digicare
+Cust181,29/06/2024,Phone,3,Do it myself,Self help,Libraries Connected,No,No,5,screen share,Digital,Libraries Connected
+Cust182,30/06/2024,Webchat,3,Do it myself,Assisted digital,Digicare,No,Yes,4,screen share,Digital,Libraries Connected
+Cust183,01/07/2024,Phone,1,Do it with me,Digicare,Assisted digital,No,No,1,self help resources,Digital,Book
+Cust184,02/07/2024,Phone,1,Do it myself,Self help,Self help,Yes,No,2,screen share,Non-digital,Book
+Cust185,03/07/2024,Phone,1,Do it with me,Assisted digital,Self help,No,No,4,self help resources,Digital,Book
+Cust186,04/07/2024,Phone,2,Do it myself,Digicare,Self help,No,No,3,no deflection,Digital,Libraries Connected
+Cust187,05/07/2024,Phone,3,Do it with me,Self help,Libraries Connected,Yes,No,3,Other,Digital,Book
+Cust188,06/07/2024,Phone,4,Refer to Digicare,Assisted digital,Digicare,Yes,No,3,no deflection,Non-digital,Campaign
+Cust189,07/07/2024,Phone,1,Do it with me,Digicare,Libraries Connected,Yes,No,3,no deflection,Non-digital,Campaign
+Cust190,08/07/2024,Phone,4,Do it with me,Self help,Assisted digital,Yes,No,1,no deflection,Non-digital,Digicare
+Cust191,09/07/2024,Webchat,1,Do it myself,Assisted digital,Self help,Yes,No,4,screen share,Digital,Book
+Cust192,10/07/2024,Webchat,2,Do it myself,Digicare,Digicare,Yes,No,3,Other,Digital,Campaign
+Cust193,11/07/2024,Phone,2,Do it myself,Self help,Self help,Yes,No,4,Other,Non-digital,Libraries Connected
+Cust194,12/07/2024,Phone,2,Do it myself,Assisted digital,Digicare,No,No,4,screen share,Non-digital,Libraries Connected
+Cust195,13/07/2024,Phone,3,Do it myself,Digicare,Self help,Yes,No,1,no deflection,Non-digital,Book
+Cust196,14/07/2024,Phone,3,Do it myself,Self help,Assisted digital,Yes,No,2,Other,Digital,Campaign
+Cust197,15/07/2024,Phone,1,Do it with me,Assisted digital,Digicare,No,No,1,Other,Digital,Digicare
+Cust198,16/07/2024,Phone,3,Do it myself,Digicare,Self help,Yes,No,1,no deflection,Digital,Book
+Cust199,17/07/2024,Phone,3,Do it with me,Self help,Digicare,Yes,No,1,screen share,Digital,Digicare
+Cust200,18/07/2024,Phone,4,Do it with me,Assisted digital,Self help,No,Yes,5,no deflection,Digital,Libraries Connected
+Cust201,19/07/2024,Phone,2,Refer to Digicare,Digicare,Assisted digital,No,Yes,1,no deflection,Non-digital,Campaign
+Cust202,20/07/2024,Webchat,4,Do it with me,Self help,Digicare,Yes,No,1,screen share,Non-digital,Digicare
+Cust203,21/07/2024,Webchat,2,Do it with me,Assisted digital,Self help,No,No,5,no deflection,Digital,Campaign
+Cust204,22/07/2024,Phone,4,Refer to Digicare,Digicare,Libraries Connected,No,No,5,screen share,Non-digital,Libraries Connected
+Cust205,23/07/2024,Phone,3,Do it myself,Self help,Self help,No,Yes,3,no deflection,Non-digital,Libraries Connected
+Cust206,24/07/2024,Phone,3,Do it myself,Assisted digital,Self help,No,No,1,Other,Digital,Campaign
+Cust207,25/07/2024,Phone,2,Do it myself,Digicare,Digicare,Yes,No,2,no deflection,Non-digital,Libraries Connected
+Cust208,26/07/2024,Phone,3,Do it with me,Self help,Libraries Connected,No,No,2,screen share,Digital,Campaign
+Cust209,27/07/2024,Phone,2,Do it myself,Assisted digital,Digicare,Yes,No,4,screen share,Non-digital,Book
+Cust210,28/07/2024,Phone,4,Refer to Digicare,Digicare,Libraries Connected,Yes,Yes,1,self help resources,Non-digital,Libraries Connected
+Cust211,29/07/2024,Phone,4,Do it with me,Self help,Assisted digital,Yes,No,3,no deflection,Non-digital,Digicare
+Cust212,30/07/2024,Phone,4,Do it with me,Assisted digital,Digicare,No,No,5,no deflection,Non-digital,Libraries Connected
+Cust213,31/07/2024,Phone,3,Do it with me,Digicare,Digicare,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust214,01/08/2024,Phone,1,Do it myself,Self help,Assisted digital,No,Yes,4,screen share,Digital,Digicare
+Cust215,02/08/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,1,no deflection,Non-digital,Digicare
+Cust216,03/08/2024,Phone,2,Do it myself,Digicare,Libraries Connected,Yes,No,5,no deflection,Digital,Digicare
+Cust217,04/08/2024,Webchat,2,Refer to Digicare,Self help,Digicare,No,No,3,Other,Digital,Libraries Connected
+Cust218,05/08/2024,Phone,3,Refer to Digicare,Assisted digital,Self help,No,No,4,screen share,Non-digital,Digicare
+Cust219,06/08/2024,Phone,2,Do it with me,Digicare,Assisted digital,Yes,No,1,no deflection,Non-digital,Campaign
+Cust220,07/08/2024,Webchat,1,Do it myself,Self help,Libraries Connected,No,No,1,screen share,Digital,Campaign
+Cust221,08/08/2024,Phone,3,Do it with me,Assisted digital,Self help,No,No,3,no deflection,Digital,Digicare
+Cust222,09/08/2024,Phone,2,Do it myself,Digicare,Assisted digital,No,No,1,Other,Digital,Digicare
+Cust223,10/08/2024,Phone,4,Do it myself,Self help,Self help,No,No,4,no deflection,Digital,Digicare
+Cust224,11/08/2024,Webchat,3,Do it with me,Assisted digital,Assisted digital,Yes,No,1,Other,Non-digital,Libraries Connected
+Cust225,12/08/2024,Phone,4,Do it with me,Digicare,Self help,No,No,4,screen share,Non-digital,Digicare
+Cust226,13/08/2024,Social Media,2,Do it with me,Self help,Self help,Yes,Yes,3,no deflection,Digital,Libraries Connected
+Cust227,14/08/2024,Social Media,2,Do it myself,Assisted digital,Assisted digital,Yes,Yes,5,Other,Digital,Digicare
+Cust228,15/08/2024,Social Media,2,Do it with me,Digicare,Digicare,Yes,Yes,1,screen share,Non-digital,Campaign
+Cust229,16/08/2024,Social Media,4,Do it myself,Self help,Digicare,Yes,No,5,no deflection,Digital,Book
+Cust230,17/08/2024,Social Media,3,Do it myself,Assisted digital,Assisted digital,Yes,No,3,no deflection,Digital,Digicare
+Cust231,18/08/2024,Social Media,1,Do it with me,Digicare,Libraries Connected,Yes,No,5,Other,Digital,Digicare
+Cust232,19/08/2024,Social Media,2,Do it with me,Self help,Assisted digital,No,No,3,no deflection,Non-digital,Digicare
+Cust233,20/08/2024,Social Media,4,Refer to Digicare,Assisted digital,Self help,Yes,Yes,4,self help resources,Non-digital,Digicare
+Cust234,21/08/2024,Social Media,3,Do it with me,Digicare,Libraries Connected,Yes,No,2,Other,Digital,Digicare
+Cust235,22/08/2024,Social Media,3,Do it myself,Self help,Self help,Yes,No,5,no deflection,Digital,Book
+Cust236,23/08/2024,Social Media,1,Do it with me,Assisted digital,Libraries Connected,No,Yes,3,no deflection,Digital,Book
+Cust237,24/08/2024,Social Media,3,Do it myself,Digicare,Libraries Connected,Yes,No,1,no deflection,Digital,Digicare
+Cust238,25/08/2024,Social Media,1,Do it with me,Self help,Libraries Connected,No,No,2,screen share,Non-digital,Campaign
+Cust239,26/08/2024,Social Media,4,Do it with me,Assisted digital,Self help,Yes,No,4,self help resources,Non-digital,Campaign
+Cust240,27/08/2024,Phone,2,Refer to Digicare,Digicare,Self help,Yes,No,1,screen share,Digital,Libraries Connected
+Cust241,28/08/2024,Phone,3,Do it myself,Self help,Self help,No,No,2,no deflection,Digital,Campaign
+Cust242,29/08/2024,Webchat,4,Do it with me,Assisted digital,Libraries Connected,No,No,4,screen share,Digital,Campaign
+Cust243,30/08/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,No,4,screen share,Non-digital,Campaign
+Cust244,31/08/2024,Webchat,1,Do it with me,Self help,Self help,Yes,No,5,no deflection,Digital,Book
+Cust245,01/09/2024,Phone,3,Refer to Digicare,Assisted digital,Libraries Connected,Yes,No,5,no deflection,Digital,Book
+Cust246,02/09/2024,Webchat,1,Do it myself,Digicare,Libraries Connected,No,No,2,no deflection,Non-digital,Campaign
+Cust247,03/09/2024,Phone,3,Do it myself,Self help,Digicare,No,No,5,Other,Non-digital,Campaign
+Cust248,04/09/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,No,No,3,Other,Digital,Libraries Connected
+Cust249,05/09/2024,Webchat,4,Do it with me,Digicare,Self help,No,No,2,no deflection,Non-digital,Book
+Cust250,06/09/2024,Webchat,4,Do it myself,Self help,Assisted digital,No,No,2,Other,Digital,Libraries Connected
+Cust251,07/09/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,No,No,1,no deflection,Non-digital,Book
+Cust252,08/09/2024,Phone,2,Do it myself,Digicare,Self help,Yes,No,2,no deflection,Non-digital,Book
+Cust253,09/09/2024,Webchat,2,Do it myself,Self help,Assisted digital,No,No,1,no deflection,Digital,Libraries Connected
+Cust254,10/09/2024,Phone,4,Do it with me,Assisted digital,Self help,Yes,No,5,self help resources,Digital,Book
+Cust255,11/09/2024,Phone,1,Do it myself,Digicare,Digicare,Yes,No,2,no deflection,Digital,Campaign
+Cust256,12/09/2024,Webchat,1,Do it with me,Self help,Self help,Yes,No,5,screen share,Digital,Campaign
+Cust257,13/09/2024,Webchat,2,Do it myself,Assisted digital,Digicare,Yes,No,5,no deflection,Digital,Digicare
+Cust258,14/09/2024,Phone,3,Do it with me,Digicare,Digicare,Yes,Yes,3,no deflection,Digital,Campaign
+Cust259,15/09/2024,Phone,4,Do it with me,Self help,Digicare,Yes,Yes,2,no deflection,Non-digital,Digicare
+Cust260,16/09/2024,Phone,2,Do it with me,Assisted digital,Digicare,No,No,4,screen share,Digital,Digicare
+Cust261,17/09/2024,Phone,2,Do it myself,Digicare,Assisted digital,No,No,4,no deflection,Digital,Libraries Connected
+Cust262,18/09/2024,Webchat,1,Do it with me,Self help,Digicare,No,No,2,Other,Digital,Campaign
+Cust263,19/09/2024,Phone,1,Refer to Digicare,Assisted digital,Self help,No,No,4,screen share,Digital,Campaign
+Cust264,20/09/2024,Phone,2,Do it myself,Digicare,Assisted digital,No,No,5,Other,Non-digital,Digicare
+Cust265,21/09/2024,Phone,2,Do it with me,Self help,Assisted digital,Yes,No,2,Other,Non-digital,Libraries Connected
+Cust266,22/09/2024,Phone,1,Do it myself,Assisted digital,Self help,No,No,3,screen share,Digital,Libraries Connected
+Cust267,23/09/2024,Phone,2,Do it myself,Digicare,Libraries Connected,Yes,No,4,no deflection,Non-digital,Digicare
+Cust268,24/09/2024,Phone,3,Do it myself,Self help,Libraries Connected,Yes,No,3,self help resources,Digital,Campaign
+Cust269,25/09/2024,Phone,1,Do it with me,Assisted digital,Self help,Yes,No,2,Other,Digital,Book
+Cust270,26/09/2024,Phone,1,Do it myself,Digicare,Digicare,Yes,Yes,5,no deflection,Digital,Book
+Cust271,27/09/2024,Phone,2,Do it with me,Self help,Digicare,Yes,No,3,self help resources,Digital,Digicare
+Cust272,28/09/2024,Phone,3,Do it myself,Assisted digital,Self help,Yes,No,3,screen share,Non-digital,Digicare
+Cust273,29/09/2024,Phone,3,Do it with me,Digicare,Assisted digital,Yes,No,1,Other,Non-digital,Book
+Cust274,30/09/2024,Phone,1,Refer to Digicare,Self help,Libraries Connected,No,No,4,no deflection,Non-digital,Book
+Cust275,01/10/2024,Phone,4,Do it myself,Assisted digital,Self help,No,No,2,no deflection,Non-digital,Book
+Cust276,02/10/2024,Phone,1,Do it myself,Digicare,Self help,Yes,Yes,5,screen share,Non-digital,Digicare
+Cust277,03/10/2024,Webchat,4,Do it myself,Self help,Digicare,No,No,4,no deflection,Non-digital,Campaign
+Cust278,04/10/2024,Phone,2,Do it myself,Assisted digital,Digicare,Yes,Yes,4,no deflection,Digital,Campaign
+Cust279,05/10/2024,Webchat,3,Do it myself,Digicare,Assisted digital,Yes,Yes,2,no deflection,Non-digital,Campaign
+Cust280,06/10/2024,Phone,3,Do it with me,Self help,Self help,No,No,3,screen share,Non-digital,Campaign
+Cust281,07/10/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,Yes,No,4,no deflection,Non-digital,Libraries Connected
+Cust282,08/10/2024,Phone,4,Do it myself,Digicare,Libraries Connected,No,No,1,no deflection,Non-digital,Campaign
+Cust283,09/10/2024,Phone,2,Do it with me,Self help,Libraries Connected,No,No,1,no deflection,Digital,Digicare
+Cust284,10/10/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,No,No,3,no deflection,Non-digital,Digicare
+Cust285,11/10/2024,Webchat,3,Do it myself,Digicare,Assisted digital,Yes,No,3,no deflection,Digital,Book
+Cust286,12/10/2024,Phone,3,Do it myself,Self help,Assisted digital,Yes,No,4,screen share,Non-digital,Libraries Connected
+Cust287,13/10/2024,Phone,1,Do it myself,Assisted digital,Digicare,Yes,No,3,no deflection,Non-digital,Book
+Cust288,14/10/2024,Phone,1,Do it myself,Digicare,Assisted digital,No,Yes,1,no deflection,Digital,Book
+Cust289,15/10/2024,Phone,3,Do it with me,Self help,Self help,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust290,16/10/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,no deflection,Non-digital,Libraries Connected
+Cust291,17/10/2024,Phone,3,Do it myself,Digicare,Assisted digital,Yes,No,1,self help resources,Non-digital,Campaign
+Cust292,18/10/2024,Phone,2,Do it with me,Self help,Digicare,Yes,No,3,no deflection,Digital,Campaign
+Cust293,19/10/2024,Webchat,4,Refer to Digicare,Assisted digital,Assisted digital,No,Yes,5,no deflection,Digital,Campaign
+Cust294,20/10/2024,Phone,2,Refer to Digicare,Digicare,Assisted digital,No,No,2,no deflection,Digital,Book
+Cust295,21/10/2024,Phone,3,Do it with me,Self help,Libraries Connected,Yes,Yes,1,screen share,Non-digital,Book
+Cust296,22/10/2024,Webchat,2,Do it myself,Assisted digital,Assisted digital,Yes,No,5,Other,Digital,Campaign
+Cust297,23/10/2024,Phone,1,Do it with me,Digicare,Digicare,No,No,2,no deflection,Digital,Libraries Connected
+Cust298,24/10/2024,Phone,1,Do it with me,Self help,Self help,Yes,No,4,no deflection,Digital,Book
+Cust299,25/10/2024,Webchat,4,Do it myself,Assisted digital,Assisted digital,No,No,3,screen share,Digital,Digicare
+Cust300,26/10/2024,Phone,4,Do it myself,Digicare,Self help,No,No,2,no deflection,Digital,Book
+Cust301,27/10/2024,Webchat,3,Do it with me,Self help,Libraries Connected,No,No,5,screen share,Digital,Book
+Cust302,28/10/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,No,No,5,Other,Digital,Digicare
+Cust303,29/10/2024,Phone,3,Do it myself,Digicare,Assisted digital,No,No,5,no deflection,Digital,Book
+Cust304,30/10/2024,Phone,1,Do it with me,Self help,Libraries Connected,No,No,5,self help resources,Non-digital,Digicare
+Cust305,31/10/2024,Webchat,2,Do it myself,Assisted digital,Digicare,Yes,No,5,screen share,Digital,Campaign
+Cust306,01/11/2024,Social Media,2,Do it myself,Digicare,Assisted digital,Yes,No,1,Other,Digital,Digicare
+Cust307,02/11/2024,Social Media,3,Do it myself,Self help,Self help,No,No,5,Other,Digital,Libraries Connected
+Cust308,03/11/2024,Social Media,1,Do it with me,Assisted digital,Self help,Yes,No,4,self help resources,Digital,Campaign
+Cust309,04/11/2024,Social Media,3,Do it with me,Digicare,Digicare,No,No,5,no deflection,Digital,Libraries Connected
+Cust310,05/11/2024,Social Media,3,Do it myself,Self help,Assisted digital,Yes,No,3,Other,Non-digital,Digicare
+Cust311,06/11/2024,Social Media,1,Do it myself,Assisted digital,Libraries Connected,No,No,1,Other,Digital,Book
+Cust312,07/11/2024,Social Media,4,Do it with me,Digicare,Libraries Connected,No,No,4,self help resources,Non-digital,Digicare
+Cust313,08/11/2024,Social Media,1,Do it myself,Self help,Self help,No,Yes,1,no deflection,Non-digital,Libraries Connected
+Cust314,09/11/2024,Social Media,3,Refer to Digicare,Assisted digital,Self help,Yes,No,5,screen share,Digital,Libraries Connected
+Cust315,10/11/2024,Phone,3,Do it myself,Digicare,Self help,Yes,Yes,4,no deflection,Digital,Book
+Cust316,11/11/2024,Webchat,3,Do it with me,Self help,Assisted digital,Yes,No,4,no deflection,Non-digital,Digicare
+Cust317,12/11/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,5,self help resources,Digital,Digicare
+Cust318,13/11/2024,Phone,4,Do it myself,Digicare,Assisted digital,No,No,2,self help resources,Digital,Digicare
+Cust319,14/11/2024,Webchat,2,Do it myself,Self help,Digicare,No,No,2,no deflection,Digital,Campaign
+Cust320,15/11/2024,Webchat,4,Do it myself,Assisted digital,Digicare,Yes,No,3,no deflection,Non-digital,Book
+Cust321,16/11/2024,Webchat,3,Do it with me,Digicare,Libraries Connected,No,No,2,self help resources,Digital,Book
+Cust322,17/11/2024,Phone,3,Do it myself,Self help,Self help,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust323,18/11/2024,Phone,2,Do it myself,Assisted digital,Digicare,No,Yes,1,no deflection,Digital,Libraries Connected
+Cust324,19/11/2024,Webchat,1,Do it with me,Digicare,Digicare,Yes,No,2,Other,Digital,Book
+Cust325,20/11/2024,Phone,2,Do it with me,Self help,Digicare,No,No,5,Other,Digital,Libraries Connected
+Cust326,21/11/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,2,screen share,Non-digital,Campaign
+Cust327,22/11/2024,Phone,4,Refer to Digicare,Digicare,Self help,No,No,3,Other,Digital,Campaign
+Cust328,23/11/2024,Phone,1,Do it myself,Self help,Self help,No,No,1,Other,Non-digital,Libraries Connected
+Cust329,24/11/2024,Phone,3,Do it myself,Assisted digital,Self help,Yes,No,5,self help resources,Digital,Campaign
+Cust330,25/11/2024,Phone,3,Refer to Digicare,Digicare,Self help,Yes,Yes,3,no deflection,Digital,Digicare
+Cust331,26/11/2024,Phone,2,Do it myself,Self help,Libraries Connected,No,No,2,screen share,Non-digital,Book
+Cust332,27/11/2024,Phone,4,Refer to Digicare,Assisted digital,Self help,Yes,No,1,no deflection,Non-digital,Campaign
+Cust333,28/11/2024,Phone,2,Do it myself,Digicare,Self help,No,No,5,no deflection,Non-digital,Libraries Connected
+Cust334,29/11/2024,Phone,1,Do it with me,Self help,Assisted digital,No,No,4,no deflection,Digital,Campaign
+Cust335,30/11/2024,Webchat,1,Do it myself,Assisted digital,Digicare,Yes,No,1,screen share,Digital,Book
+Cust336,01/12/2024,Phone,2,Do it with me,Digicare,Libraries Connected,Yes,No,4,screen share,Digital,Book
+Cust337,02/12/2024,Phone,2,Do it myself,Self help,Assisted digital,Yes,No,1,Other,Digital,Digicare
+Cust338,03/12/2024,Webchat,2,Do it myself,Assisted digital,Self help,Yes,No,4,screen share,Non-digital,Campaign
+Cust339,04/12/2024,Phone,1,Refer to Digicare,Digicare,Assisted digital,Yes,No,5,no deflection,Non-digital,Libraries Connected
+Cust340,05/12/2024,Phone,1,Do it myself,Self help,Libraries Connected,Yes,No,1,screen share,Non-digital,Libraries Connected
+Cust341,06/12/2024,Webchat,3,Do it with me,Assisted digital,Self help,No,No,2,screen share,Non-digital,Digicare
+Cust342,07/12/2024,Webchat,4,Do it with me,Digicare,Assisted digital,Yes,No,2,self help resources,Digital,Book
+Cust343,08/12/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,2,Other,Non-digital,Book
+Cust344,09/12/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,Yes,No,5,Other,Digital,Digicare
+Cust345,10/12/2024,Phone,1,Do it myself,Digicare,Digicare,Yes,No,1,no deflection,Digital,Digicare
+Cust346,11/12/2024,Webchat,4,Do it myself,Self help,Assisted digital,No,No,1,no deflection,Digital,Book
+Cust347,12/12/2024,Phone,3,Do it with me,Assisted digital,Self help,Yes,No,2,no deflection,Non-digital,Book
+Cust348,13/12/2024,Phone,2,Do it myself,Digicare,Self help,No,No,1,Other,Non-digital,Digicare
+Cust349,14/12/2024,Phone,4,Do it with me,Self help,Self help,Yes,No,2,Other,Digital,Book
+Cust350,15/12/2024,Webchat,1,Do it myself,Assisted digital,Self help,No,No,4,no deflection,Non-digital,Digicare
+Cust351,16/12/2024,Webchat,2,Do it myself,Digicare,Digicare,Yes,No,5,no deflection,Non-digital,Digicare
+Cust352,17/12/2024,Social Media,3,Do it with me,Self help,Libraries Connected,No,No,5,no deflection,Non-digital,Book
+Cust353,18/12/2024,Social Media,1,Do it with me,Assisted digital,Libraries Connected,No,No,1,screen share,Digital,Campaign
+Cust354,19/12/2024,Social Media,2,Do it with me,Digicare,Digicare,Yes,No,1,no deflection,Non-digital,Digicare
+Cust355,20/12/2024,Social Media,1,Refer to Digicare,Self help,Self help,Yes,No,5,Other,Digital,Digicare
+Cust356,21/12/2024,Social Media,2,Do it with me,Assisted digital,Self help,Yes,No,5,Other,Digital,Campaign
+Cust357,22/12/2024,Social Media,2,Do it with me,Digicare,Libraries Connected,Yes,No,4,no deflection,Digital,Libraries Connected
+Cust358,23/12/2024,Social Media,1,Do it myself,Self help,Self help,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust359,24/12/2024,Social Media,3,Do it with me,Assisted digital,Digicare,Yes,No,2,no deflection,Non-digital,Digicare
+Cust360,25/12/2024,Social Media,4,Do it with me,Digicare,Assisted digital,Yes,No,1,self help resources,Non-digital,Book
+Cust361,26/12/2024,Social Media,1,Do it myself,Self help,Libraries Connected,Yes,No,2,screen share,Non-digital,Digicare
+Cust362,27/12/2024,Social Media,4,Do it with me,Assisted digital,Self help,Yes,No,1,screen share,Non-digital,Digicare
+Cust363,28/12/2024,Phone,4,Do it with me,Digicare,Self help,Yes,No,2,no deflection,Digital,Campaign
+Cust364,29/12/2024,Phone,1,Do it myself,Self help,Digicare,No,No,1,no deflection,Non-digital,Libraries Connected
+Cust365,30/12/2024,Webchat,1,Do it myself,Assisted digital,Digicare,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust366,31/12/2024,Webchat,1,Do it with me,Digicare,Self help,Yes,No,3,no deflection,Digital,Book
+Cust367,11/08/2024,Webchat,3,Do it myself,Self help,Libraries Connected,No,No,1,screen share,Non-digital,Book
+Cust368,12/08/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,3,Other,Digital,Campaign
+Cust369,13/08/2024,Phone,4,Do it myself,Digicare,Libraries Connected,Yes,No,2,no deflection,Digital,Campaign
+Cust370,14/08/2024,Phone,3,Refer to Digicare,Self help,Libraries Connected,Yes,No,4,Other,Digital,Digicare
+Cust371,15/08/2024,Phone,4,Do it with me,Assisted digital,Self help,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust372,16/08/2024,Phone,2,Do it with me,Digicare,Self help,Yes,No,4,no deflection,Non-digital,Libraries Connected
+Cust373,17/08/2024,Webchat,1,Do it with me,Self help,Libraries Connected,Yes,No,2,no deflection,Digital,Digicare
+Cust374,18/08/2024,Phone,4,Do it with me,Assisted digital,Self help,Yes,No,2,Other,Non-digital,Book
+Cust375,19/08/2024,Webchat,2,Do it with me,Digicare,Libraries Connected,Yes,No,5,no deflection,Non-digital,Libraries Connected
+Cust376,20/08/2024,Phone,3,Do it myself,Self help,Self help,Yes,No,3,Other,Digital,Book
+Cust377,21/08/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,No,No,4,no deflection,Digital,Book
+Cust378,22/08/2024,Phone,3,Do it myself,Digicare,Self help,No,No,3,self help resources,Non-digital,Digicare
+Cust379,23/08/2024,Webchat,1,Do it with me,Self help,Assisted digital,No,No,4,screen share,Non-digital,Campaign
+Cust380,24/08/2024,Webchat,1,Do it with me,Assisted digital,Digicare,Yes,No,2,screen share,Non-digital,Campaign
+Cust381,25/08/2024,Phone,3,Do it with me,Digicare,Self help,Yes,No,2,screen share,Non-digital,Book
+Cust382,26/08/2024,Phone,1,Do it with me,Self help,Digicare,Yes,No,5,no deflection,Digital,Book
+Cust383,27/08/2024,Webchat,1,Do it with me,Assisted digital,Digicare,Yes,No,1,no deflection,Digital,Campaign
+Cust384,28/08/2024,Webchat,4,Do it myself,Digicare,Assisted digital,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust385,29/08/2024,Phone,1,Do it myself,Self help,Digicare,No,No,4,no deflection,Digital,Book
+Cust386,30/08/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,Yes,No,3,screen share,Digital,Libraries Connected
+Cust387,31/08/2024,Phone,2,Do it myself,Digicare,Digicare,No,No,1,no deflection,Digital,Libraries Connected
+Cust388,01/09/2024,Webchat,3,Do it with me,Self help,Self help,Yes,Yes,1,screen share,Non-digital,Libraries Connected
+Cust389,02/09/2024,Phone,4,Do it myself,Assisted digital,Assisted digital,Yes,No,5,no deflection,Non-digital,Book
+Cust390,03/09/2024,Phone,1,Refer to Digicare,Digicare,Assisted digital,Yes,No,5,Other,Digital,Campaign
+Cust391,04/09/2024,Phone,2,Refer to Digicare,Self help,Digicare,Yes,Yes,1,Other,Digital,Book
+Cust392,05/09/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,No,No,3,no deflection,Non-digital,Campaign
+Cust393,06/09/2024,Phone,3,Do it with me,Digicare,Self help,No,No,5,no deflection,Digital,Libraries Connected
+Cust394,07/09/2024,Phone,3,Do it myself,Self help,Digicare,Yes,No,4,screen share,Non-digital,Book
+Cust395,08/09/2024,Webchat,1,Refer to Digicare,Assisted digital,Digicare,No,Yes,2,no deflection,Non-digital,Book
+Cust396,09/09/2024,Webchat,3,Refer to Digicare,Digicare,Assisted digital,Yes,No,3,self help resources,Digital,Digicare
+Cust397,10/09/2024,Phone,2,Do it myself,Self help,Digicare,Yes,Yes,4,no deflection,Digital,Campaign
+Cust398,11/09/2024,Webchat,3,Do it with me,Assisted digital,Digicare,Yes,No,5,self help resources,Non-digital,Book
+Cust399,12/09/2024,Phone,1,Do it myself,Digicare,Digicare,No,No,5,no deflection,Non-digital,Digicare
+Cust400,13/09/2024,Webchat,1,Do it myself,Self help,Self help,No,No,4,Other,Non-digital,Book
+Cust401,14/09/2024,Phone,3,Do it with me,Assisted digital,Self help,Yes,No,4,no deflection,Non-digital,Libraries Connected
+Cust402,15/09/2024,Phone,3,Do it with me,Digicare,Self help,No,No,4,Other,Non-digital,Digicare
+Cust403,16/09/2024,Phone,4,Do it with me,Self help,Libraries Connected,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust404,17/09/2024,Webchat,3,Do it with me,Assisted digital,Self help,Yes,No,1,screen share,Digital,Digicare
+Cust405,18/09/2024,Phone,2,Refer to Digicare,Digicare,Digicare,No,No,3,self help resources,Non-digital,Book
+Cust406,19/09/2024,Phone,3,Do it with me,Self help,Libraries Connected,Yes,No,3,no deflection,Non-digital,Book
+Cust407,20/09/2024,Webchat,1,Do it myself,Assisted digital,Libraries Connected,No,No,1,no deflection,Non-digital,Digicare
+Cust408,21/09/2024,Phone,2,Do it with me,Digicare,Self help,Yes,No,2,Other,Non-digital,Campaign
+Cust409,22/09/2024,Phone,2,Do it with me,Self help,Digicare,No,No,2,Other,Digital,Campaign
+Cust410,23/09/2024,Phone,3,Do it myself,Assisted digital,Self help,No,No,3,no deflection,Digital,Campaign
+Cust411,24/09/2024,Webchat,4,Do it myself,Digicare,Assisted digital,Yes,No,5,no deflection,Non-digital,Digicare
+Cust412,25/09/2024,Webchat,1,Do it with me,Self help,Assisted digital,No,Yes,2,no deflection,Non-digital,Campaign
+Cust413,26/09/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,Other,Digital,Book
+Cust414,27/09/2024,Phone,4,Do it with me,Digicare,Self help,No,Yes,5,screen share,Non-digital,Digicare
+Cust415,28/09/2024,Phone,4,Do it myself,Self help,Digicare,No,No,3,screen share,Non-digital,Book
+Cust416,29/09/2024,Webchat,1,Refer to Digicare,Assisted digital,Self help,No,No,4,no deflection,Digital,Campaign
+Cust417,30/09/2024,Phone,3,Do it myself,Digicare,Assisted digital,Yes,No,2,no deflection,Digital,Book
+Cust418,01/10/2024,Phone,3,Do it myself,Self help,Digicare,Yes,No,5,no deflection,Non-digital,Campaign
+Cust419,02/10/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,1,no deflection,Digital,Digicare
+Cust420,03/10/2024,Phone,1,Do it with me,Digicare,Libraries Connected,No,No,5,screen share,Digital,Book
+Cust421,04/10/2024,Webchat,3,Do it myself,Self help,Libraries Connected,Yes,No,1,Other,Non-digital,Campaign
+Cust422,05/10/2024,Webchat,3,Do it myself,Assisted digital,Assisted digital,No,No,2,no deflection,Non-digital,Digicare
+Cust423,06/10/2024,Webchat,3,Do it myself,Digicare,Self help,No,Yes,1,screen share,Non-digital,Digicare
+Cust424,07/10/2024,Webchat,1,Do it with me,Self help,Libraries Connected,Yes,No,3,self help resources,Non-digital,Digicare
+Cust425,08/10/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,Yes,Yes,3,Other,Digital,Campaign
+Cust426,09/10/2024,Phone,2,Do it with me,Digicare,Assisted digital,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust427,10/10/2024,Webchat,4,Refer to Digicare,Self help,Digicare,No,No,2,Other,Digital,Libraries Connected
+Cust428,11/10/2024,Phone,2,Do it with me,Assisted digital,Digicare,Yes,Yes,2,screen share,Digital,Campaign
+Cust429,12/10/2024,Webchat,1,Do it myself,Digicare,Digicare,Yes,Yes,1,no deflection,Digital,Digicare
+Cust430,13/10/2024,Webchat,2,Refer to Digicare,Self help,Libraries Connected,No,No,1,screen share,Non-digital,Libraries Connected
+Cust431,14/10/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,No,No,3,no deflection,Digital,Campaign
+Cust432,15/10/2024,Phone,2,Do it with me,Digicare,Assisted digital,No,No,5,Other,Digital,Libraries Connected
+Cust433,16/10/2024,Phone,3,Do it with me,Self help,Self help,No,No,3,Other,Digital,Libraries Connected
+Cust434,17/10/2024,Phone,3,Do it myself,Assisted digital,Libraries Connected,Yes,No,3,Other,Digital,Libraries Connected
+Cust435,18/10/2024,Phone,4,Do it myself,Digicare,Assisted digital,No,No,5,screen share,Non-digital,Libraries Connected
+Cust436,19/10/2024,Webchat,3,Do it with me,Self help,Digicare,Yes,Yes,2,screen share,Non-digital,Digicare
+Cust437,20/10/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,Yes,No,4,screen share,Digital,Libraries Connected
+Cust438,21/10/2024,Webchat,3,Do it with me,Digicare,Digicare,No,No,5,screen share,Digital,Libraries Connected
+Cust439,22/10/2024,Phone,1,Do it with me,Self help,Assisted digital,Yes,No,5,screen share,Non-digital,Campaign
+Cust440,23/10/2024,Phone,3,Do it myself,Assisted digital,Digicare,No,No,1,screen share,Digital,Book
+Cust441,24/10/2024,Phone,3,Do it with me,Digicare,Digicare,No,No,3,screen share,Non-digital,Campaign
+Cust442,25/10/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,3,screen share,Non-digital,Book
+Cust443,26/10/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,No,No,4,screen share,Non-digital,Book
+Cust444,27/10/2024,Webchat,3,Refer to Digicare,Digicare,Self help,No,No,4,self help resources,Non-digital,Digicare
+Cust445,28/10/2024,Webchat,3,Do it with me,Self help,Assisted digital,Yes,No,5,screen share,Non-digital,Libraries Connected
+Cust446,29/10/2024,Webchat,1,Do it myself,Assisted digital,Libraries Connected,Yes,No,4,no deflection,Non-digital,Campaign
+Cust447,30/10/2024,Phone,3,Do it with me,Digicare,Assisted digital,No,No,1,Other,Non-digital,Book
+Cust448,31/10/2024,Phone,4,Do it myself,Self help,Self help,No,Yes,1,no deflection,Non-digital,Campaign
+Cust449,01/11/2024,Phone,2,Refer to Digicare,Assisted digital,Digicare,Yes,Yes,5,self help resources,Digital,Book
+Cust450,02/11/2024,Phone,3,Do it with me,Digicare,Assisted digital,Yes,No,1,no deflection,Non-digital,Campaign
+Cust451,03/11/2024,Phone,3,Do it with me,Self help,Self help,No,No,3,no deflection,Digital,Digicare
+Cust452,04/11/2024,Phone,3,Do it myself,Assisted digital,Digicare,No,No,1,no deflection,Digital,Digicare
+Cust453,05/11/2024,Webchat,4,Do it with me,Digicare,Assisted digital,Yes,No,3,no deflection,Non-digital,Digicare
+Cust454,06/11/2024,Webchat,3,Do it myself,Self help,Self help,No,No,2,screen share,Digital,Campaign
+Cust455,07/11/2024,Phone,3,Do it with me,Assisted digital,Digicare,No,No,2,Other,Non-digital,Campaign
+Cust456,08/11/2024,Webchat,1,Do it with me,Digicare,Assisted digital,No,No,5,screen share,Digital,Campaign
+Cust457,09/11/2024,Phone,1,Do it with me,Self help,Self help,Yes,No,2,screen share,Non-digital,Campaign
+Cust458,10/11/2024,Webchat,3,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,self help resources,Non-digital,Book
+Cust459,11/11/2024,Webchat,3,Do it with me,Digicare,Self help,No,No,3,screen share,Digital,Campaign
+Cust460,12/11/2024,Phone,1,Do it myself,Self help,Assisted digital,Yes,No,4,screen share,Digital,Book
+Cust461,13/11/2024,Phone,4,Do it myself,Assisted digital,Self help,No,No,5,screen share,Non-digital,Book
+Cust462,14/11/2024,Phone,3,Refer to Digicare,Digicare,Digicare,No,No,5,screen share,Digital,Campaign
+Cust463,15/11/2024,Phone,4,Refer to Digicare,Self help,Self help,Yes,No,5,no deflection,Digital,Digicare
+Cust464,16/11/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,No,No,5,no deflection,Non-digital,Book
+Cust465,17/11/2024,Webchat,1,Do it with me,Digicare,Self help,Yes,No,3,no deflection,Digital,Book
+Cust466,18/11/2024,Phone,3,Refer to Digicare,Self help,Assisted digital,No,No,2,screen share,Non-digital,Libraries Connected
+Cust467,19/11/2024,Phone,4,Refer to Digicare,Assisted digital,Assisted digital,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust468,20/11/2024,Phone,3,Do it with me,Digicare,Assisted digital,Yes,No,5,screen share,Non-digital,Digicare
+Cust469,21/11/2024,Phone,2,Do it with me,Self help,Assisted digital,No,No,3,no deflection,Digital,Book
+Cust470,22/11/2024,Webchat,1,Do it with me,Assisted digital,Assisted digital,Yes,No,1,self help resources,Non-digital,Book
+Cust471,23/11/2024,Webchat,1,Do it with me,Digicare,Assisted digital,Yes,No,2,Other,Digital,Libraries Connected
+Cust472,24/11/2024,Webchat,1,Do it with me,Self help,Assisted digital,Yes,No,3,no deflection,Digital,Campaign
+Cust473,25/11/2024,Phone,1,Do it with me,Assisted digital,Digicare,No,No,2,no deflection,Non-digital,Campaign
+Cust474,26/11/2024,Phone,3,Do it myself,Digicare,Digicare,Yes,No,5,no deflection,Digital,Libraries Connected
+Cust475,27/11/2024,Phone,2,Do it myself,Self help,Libraries Connected,No,No,5,no deflection,Digital,Libraries Connected
+Cust476,28/11/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,screen share,Non-digital,Campaign
+Cust477,29/11/2024,Phone,2,Do it with me,Digicare,Self help,No,No,3,no deflection,Non-digital,Book
+Cust478,30/11/2024,Phone,2,Do it myself,Self help,Self help,No,No,5,no deflection,Digital,Digicare
+Cust479,01/12/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,No,No,5,Other,Non-digital,Campaign
+Cust480,02/12/2024,Webchat,4,Do it with me,Digicare,Libraries Connected,No,Yes,2,screen share,Non-digital,Campaign
+Cust481,03/12/2024,Phone,4,Refer to Digicare,Self help,Libraries Connected,No,Yes,5,self help resources,Digital,Digicare
+Cust482,04/12/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,No,No,5,screen share,Non-digital,Book
+Cust483,05/12/2024,Webchat,2,Do it with me,Digicare,Self help,No,No,4,no deflection,Digital,Campaign
+Cust484,06/12/2024,Webchat,4,Do it myself,Self help,Digicare,Yes,No,5,no deflection,Non-digital,Book
+Cust485,07/12/2024,Webchat,3,Do it myself,Assisted digital,Self help,Yes,Yes,3,screen share,Digital,Book
+Cust486,08/12/2024,Webchat,4,Do it myself,Digicare,Assisted digital,Yes,Yes,4,no deflection,Non-digital,Campaign
+Cust487,09/12/2024,Phone,2,Do it myself,Self help,Self help,No,No,3,screen share,Digital,Libraries Connected
+Cust488,10/12/2024,Webchat,1,Do it myself,Assisted digital,Digicare,Yes,No,1,Other,Digital,Campaign
+Cust489,11/12/2024,Phone,2,Do it myself,Digicare,Digicare,No,No,5,no deflection,Non-digital,Digicare
+Cust490,12/12/2024,Phone,3,Do it with me,Self help,Libraries Connected,No,No,4,Other,Non-digital,Campaign
+Cust491,13/12/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,Yes,No,4,no deflection,Digital,Digicare
+Cust492,14/12/2024,Webchat,3,Do it with me,Digicare,Libraries Connected,No,No,1,Other,Non-digital,Campaign
+Cust493,15/12/2024,Webchat,3,Do it with me,Self help,Self help,Yes,No,1,Other,Digital,Libraries Connected
+Cust494,16/12/2024,Webchat,4,Do it with me,Assisted digital,Self help,No,No,5,screen share,Non-digital,Digicare
+Cust495,17/12/2024,Phone,1,Do it with me,Digicare,Self help,Yes,No,5,screen share,Non-digital,Digicare
+Cust496,18/12/2024,Phone,2,Do it with me,Self help,Assisted digital,No,No,3,no deflection,Non-digital,Digicare
+Cust497,19/12/2024,Phone,1,Do it with me,Assisted digital,Self help,Yes,No,5,screen share,Digital,Book
+Cust498,20/12/2024,Phone,4,Do it with me,Digicare,Digicare,No,No,4,no deflection,Digital,Digicare
+Cust499,21/12/2024,Webchat,4,Do it myself,Self help,Assisted digital,Yes,No,5,screen share,Non-digital,Libraries Connected
+Cust500,22/12/2024,Webchat,2,Do it with me,Assisted digital,Libraries Connected,No,Yes,3,no deflection,Non-digital,Digicare
+Cust001,23/12/2024,Phone,3,Refer to Digicare,Digicare,Assisted digital,Yes,No,5,screen share,Digital,Book
+Cust002,24/12/2024,Phone,1,Do it with me,Self help,Assisted digital,Yes,Yes,5,screen share,Digital,Libraries Connected
+Cust003,25/12/2024,Webchat,4,Do it myself,Assisted digital,Digicare,Yes,No,3,no deflection,Non-digital,Book
+Cust004,26/12/2024,Phone,3,Do it with me,Digicare,Self help,No,No,1,screen share,Digital,Digicare
+Cust005,27/12/2024,Phone,3,Do it myself,Self help,Digicare,No,No,1,no deflection,Digital,Libraries Connected
+Cust006,28/12/2024,Phone,1,Do it with me,Assisted digital,Self help,Yes,No,1,no deflection,Digital,Campaign
+Cust007,29/12/2024,Phone,1,Do it myself,Digicare,Self help,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust008,30/12/2024,Phone,3,Do it with me,Self help,Self help,Yes,No,3,screen share,Non-digital,Libraries Connected
+Cust009,31/12/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,Yes,No,2,Other,Non-digital,Book
+Cust010,10/01/2024,Webchat,4,Do it with me,Digicare,Libraries Connected,Yes,No,3,no deflection,Non-digital,Book
+Cust011,11/01/2024,Webchat,3,Do it with me,Self help,Digicare,Yes,No,4,screen share,Digital,Book
+Cust012,12/01/2024,Webchat,3,Do it with me,Assisted digital,Self help,Yes,No,2,no deflection,Digital,Book
+Cust013,13/01/2024,Phone,1,Do it with me,Digicare,Digicare,No,No,3,no deflection,Non-digital,Libraries Connected
+Cust014,14/01/2024,Webchat,4,Do it with me,Self help,Digicare,No,No,2,Other,Non-digital,Campaign
+Cust015,15/01/2024,Phone,1,Refer to Digicare,Assisted digital,Assisted digital,No,No,4,Other,Digital,Campaign
+Cust016,16/01/2024,Phone,4,Do it with me,Digicare,Libraries Connected,Yes,No,4,screen share,Non-digital,Campaign
+Cust017,17/01/2024,Phone,4,Do it with me,Self help,Assisted digital,Yes,No,2,self help resources,Non-digital,Book
+Cust018,18/01/2024,Phone,1,Do it myself,Assisted digital,Self help,Yes,No,5,Other,Digital,Libraries Connected
+Cust019,19/01/2024,Phone,4,Do it myself,Digicare,Assisted digital,No,No,3,screen share,Non-digital,Book
+Cust020,20/01/2024,Phone,1,Refer to Digicare,Self help,Assisted digital,Yes,Yes,1,no deflection,Non-digital,Campaign
+Cust021,21/01/2024,Phone,1,Do it myself,Assisted digital,Self help,Yes,Yes,5,screen share,Non-digital,Digicare
+Cust022,22/01/2024,Phone,4,Do it myself,Digicare,Self help,No,No,2,no deflection,Digital,Digicare
+Cust023,23/01/2024,Phone,2,Do it with me,Self help,Self help,Yes,No,2,no deflection,Non-digital,Libraries Connected
+Cust024,24/01/2024,Phone,3,Do it myself,Assisted digital,Self help,Yes,No,5,no deflection,Non-digital,Digicare
+Cust025,25/01/2024,Phone,2,Do it with me,Digicare,Digicare,Yes,Yes,3,Other,Digital,Campaign
+Cust026,26/01/2024,Webchat,1,Refer to Digicare,Self help,Self help,No,No,3,screen share,Digital,Book
+Cust027,27/01/2024,Phone,4,Do it myself,Assisted digital,Assisted digital,No,Yes,4,no deflection,Non-digital,Campaign
+Cust028,28/01/2024,Webchat,1,Do it with me,Digicare,Digicare,No,No,2,no deflection,Digital,Book
+Cust029,29/01/2024,Phone,4,Do it myself,Self help,Self help,No,No,5,Other,Digital,Campaign
+Cust030,30/01/2024,Phone,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,no deflection,Non-digital,Book
+Cust031,31/01/2024,Phone,4,Do it with me,Digicare,Digicare,No,No,3,no deflection,Non-digital,Libraries Connected
+Cust032,01/02/2024,Webchat,3,Refer to Digicare,Self help,Digicare,No,No,3,screen share,Digital,Book
+Cust033,02/02/2024,Webchat,2,Refer to Digicare,Assisted digital,Self help,Yes,Yes,5,no deflection,Digital,Book
+Cust034,03/02/2024,Phone,1,Do it with me,Digicare,Digicare,Yes,No,2,no deflection,Digital,Book
+Cust035,04/02/2024,Webchat,2,Do it myself,Self help,Self help,Yes,No,3,self help resources,Digital,Campaign
+Cust036,05/02/2024,Phone,3,Do it myself,Assisted digital,Digicare,No,No,2,screen share,Non-digital,Digicare
+Cust037,06/02/2024,Webchat,2,Do it with me,Digicare,Digicare,No,No,1,Other,Digital,Campaign
+Cust038,07/02/2024,Social Media,1,Do it with me,Self help,Assisted digital,Yes,No,2,screen share,Non-digital,Book
+Cust039,08/02/2024,Social Media,3,Do it myself,Assisted digital,Self help,Yes,No,1,screen share,Digital,Book
+Cust040,09/02/2024,Social Media,4,Do it myself,Digicare,Assisted digital,No,No,3,Other,Non-digital,Book
+Cust041,10/02/2024,Social Media,1,Do it myself,Self help,Self help,Yes,No,1,screen share,Digital,Campaign
+Cust042,11/02/2024,Social Media,1,Do it with me,Assisted digital,Self help,Yes,Yes,4,Other,Digital,Book
+Cust043,12/02/2024,Social Media,2,Do it myself,Digicare,Assisted digital,Yes,No,3,Other,Non-digital,Libraries Connected
+Cust044,13/02/2024,Social Media,4,Do it with me,Self help,Self help,Yes,Yes,2,Other,Non-digital,Campaign
+Cust045,14/02/2024,Social Media,4,Do it myself,Assisted digital,Digicare,Yes,Yes,5,no deflection,Non-digital,Book
+Cust046,15/02/2024,Social Media,4,Do it with me,Digicare,Assisted digital,Yes,Yes,2,screen share,Digital,Book
+Cust047,16/02/2024,Social Media,3,Do it with me,Self help,Digicare,Yes,Yes,1,no deflection,Non-digital,Digicare
+Cust048,17/02/2024,Social Media,3,Do it with me,Assisted digital,Self help,No,No,2,no deflection,Non-digital,Campaign
+Cust049,18/02/2024,Social Media,3,Do it myself,Digicare,Assisted digital,No,No,2,Other,Digital,Libraries Connected
+Cust050,19/02/2024,Social Media,3,Do it with me,Self help,Assisted digital,No,No,4,screen share,Digital,Campaign
+Cust051,20/02/2024,Social Media,3,Do it myself,Assisted digital,Assisted digital,Yes,No,2,no deflection,Non-digital,Campaign
+Cust052,21/02/2024,Social Media,4,Do it with me,Digicare,Self help,No,No,3,no deflection,Digital,Campaign
+Cust053,22/02/2024,Social Media,3,Do it with me,Self help,Digicare,No,No,5,no deflection,Digital,Book
+Cust054,23/02/2024,Social Media,2,Do it myself,Assisted digital,Digicare,No,No,1,screen share,Non-digital,Book
+Cust055,24/02/2024,Social Media,2,Do it myself,Digicare,Libraries Connected,No,No,2,no deflection,Digital,Libraries Connected
+Cust056,25/02/2024,Social Media,2,Do it with me,Self help,Assisted digital,No,No,2,no deflection,Non-digital,Digicare
+Cust057,26/02/2024,Social Media,3,Do it with me,Assisted digital,Digicare,No,No,1,Other,Digital,Libraries Connected
+Cust058,27/02/2024,Social Media,3,Do it with me,Digicare,Self help,No,No,5,Other,Non-digital,Campaign
+Cust059,28/02/2024,Social Media,3,Do it myself,Self help,Assisted digital,No,No,3,no deflection,Digital,Libraries Connected
+Cust060,29/02/2024,Social Media,2,Do it myself,Assisted digital,Self help,Yes,No,2,no deflection,Non-digital,Campaign
+Cust061,01/03/2024,Phone,1,Do it with me,Digicare,Digicare,Yes,No,1,no deflection,Non-digital,Campaign
+Cust062,02/03/2024,Phone,2,Do it with me,Self help,Digicare,No,No,2,screen share,Non-digital,Campaign
+Cust063,03/03/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,Yes,No,3,Other,Non-digital,Digicare
+Cust064,04/03/2024,Phone,1,Do it with me,Digicare,Assisted digital,Yes,No,4,self help resources,Digital,Digicare
+Cust065,05/03/2024,Webchat,1,Do it myself,Self help,Libraries Connected,Yes,No,4,no deflection,Digital,Libraries Connected
+Cust066,06/03/2024,Phone,4,Do it with me,Assisted digital,Assisted digital,Yes,No,4,no deflection,Digital,Campaign
+Cust067,07/03/2024,Phone,2,Do it with me,Digicare,Digicare,No,No,2,Other,Digital,Campaign
+Cust068,08/03/2024,Phone,3,Do it myself,Self help,Assisted digital,No,No,4,no deflection,Digital,Campaign
+Cust069,09/03/2024,Webchat,1,Do it with me,Assisted digital,Libraries Connected,No,No,5,Other,Digital,Libraries Connected
+Cust070,10/03/2024,Phone,3,Refer to Digicare,Digicare,Libraries Connected,Yes,Yes,1,no deflection,Non-digital,Digicare
+Cust071,11/03/2024,Phone,4,Do it myself,Self help,Libraries Connected,Yes,Yes,2,Other,Digital,Book
+Cust072,12/03/2024,Phone,1,Do it with me,Assisted digital,Self help,Yes,Yes,2,self help resources,Digital,Campaign
+Cust073,13/03/2024,Phone,3,Do it myself,Digicare,Self help,No,No,5,self help resources,Digital,Book
+Cust074,14/03/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,3,no deflection,Digital,Book
+Cust075,15/03/2024,Phone,2,Refer to Digicare,Assisted digital,Digicare,Yes,Yes,5,self help resources,Digital,Book
+Cust076,16/03/2024,Webchat,3,Do it with me,Digicare,Digicare,No,No,4,screen share,Digital,Libraries Connected
+Cust077,17/03/2024,Phone,1,Do it with me,Self help,Libraries Connected,No,No,1,no deflection,Non-digital,Campaign
+Cust078,18/03/2024,Phone,4,Do it with me,Assisted digital,Digicare,No,No,1,screen share,Non-digital,Book
+Cust079,19/03/2024,Phone,4,Do it with me,Digicare,Libraries Connected,Yes,No,5,no deflection,Non-digital,Digicare
+Cust080,20/03/2024,Phone,3,Do it myself,Self help,Libraries Connected,No,No,4,screen share,Non-digital,Digicare
+Cust081,21/03/2024,Phone,2,Do it myself,Assisted digital,Digicare,No,No,4,no deflection,Non-digital,Campaign
+Cust082,22/03/2024,Phone,3,Do it with me,Digicare,Assisted digital,No,No,4,no deflection,Digital,Digicare
+Cust083,23/03/2024,Webchat,3,Do it myself,Self help,Assisted digital,Yes,No,2,no deflection,Non-digital,Digicare
+Cust084,24/03/2024,Webchat,4,Do it myself,Assisted digital,Assisted digital,Yes,No,1,screen share,Non-digital,Digicare
+Cust085,25/03/2024,Phone,4,Do it with me,Digicare,Self help,Yes,No,5,self help resources,Non-digital,Book
+Cust086,26/03/2024,Phone,2,Do it myself,Self help,Assisted digital,Yes,No,1,no deflection,Digital,Campaign
+Cust087,27/03/2024,Phone,4,Do it with me,Assisted digital,Digicare,Yes,No,2,Other,Non-digital,Libraries Connected
+Cust088,28/03/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,No,2,screen share,Digital,Digicare
+Cust089,29/03/2024,Phone,2,Do it with me,Self help,Self help,No,No,4,no deflection,Non-digital,Libraries Connected
+Cust090,30/03/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,Yes,Yes,2,self help resources,Digital,Libraries Connected
+Cust091,31/03/2024,Webchat,3,Do it myself,Digicare,Digicare,No,No,2,no deflection,Non-digital,Digicare
+Cust092,01/04/2024,Phone,4,Do it with me,Self help,Libraries Connected,Yes,No,1,screen share,Non-digital,Digicare
+Cust093,02/04/2024,Phone,1,Do it myself,Assisted digital,Libraries Connected,No,No,4,self help resources,Non-digital,Digicare
+Cust094,03/04/2024,Phone,4,Do it with me,Digicare,Assisted digital,No,Yes,3,screen share,Non-digital,Book
+Cust095,04/04/2024,Phone,3,Do it with me,Self help,Self help,Yes,No,1,no deflection,Non-digital,Campaign
+Cust096,05/04/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,No,No,5,no deflection,Non-digital,Book
+Cust097,06/04/2024,Phone,4,Refer to Digicare,Digicare,Self help,Yes,No,5,screen share,Digital,Book
+Cust098,07/04/2024,Phone,4,Do it myself,Self help,Libraries Connected,No,No,1,Other,Digital,Campaign
+Cust099,08/04/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,Yes,No,5,no deflection,Digital,Book
+Cust100,09/04/2024,Webchat,1,Refer to Digicare,Digicare,Assisted digital,Yes,No,2,Other,Digital,Book
+Cust101,10/04/2024,Webchat,4,Do it myself,Self help,Digicare,Yes,No,3,Other,Non-digital,Campaign
+Cust102,11/04/2024,Phone,3,Do it with me,Assisted digital,Self help,Yes,No,1,screen share,Non-digital,Libraries Connected
+Cust103,12/04/2024,Phone,3,Do it myself,Digicare,Libraries Connected,Yes,No,5,screen share,Non-digital,Book
+Cust104,13/04/2024,Phone,4,Do it with me,Self help,Libraries Connected,Yes,No,2,no deflection,Digital,Digicare
+Cust105,14/04/2024,Phone,1,Refer to Digicare,Assisted digital,Assisted digital,Yes,No,4,screen share,Digital,Libraries Connected
+Cust106,15/04/2024,Phone,2,Do it myself,Digicare,Assisted digital,No,No,4,no deflection,Non-digital,Digicare
+Cust107,16/04/2024,Webchat,2,Do it with me,Self help,Libraries Connected,No,No,2,Other,Digital,Digicare
+Cust108,17/04/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,No,No,1,Other,Digital,Book
+Cust109,18/04/2024,Webchat,4,Refer to Digicare,Digicare,Digicare,Yes,No,2,self help resources,Digital,Book
+Cust110,19/04/2024,Phone,1,Do it myself,Self help,Digicare,No,No,5,no deflection,Non-digital,Digicare
+Cust111,20/04/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,No,No,2,no deflection,Non-digital,Digicare
+Cust112,21/04/2024,Phone,2,Do it with me,Digicare,Libraries Connected,Yes,Yes,4,no deflection,Non-digital,Digicare
+Cust113,22/04/2024,Phone,1,Do it with me,Self help,Digicare,No,No,5,screen share,Digital,Libraries Connected
+Cust114,23/04/2024,Phone,3,Refer to Digicare,Assisted digital,Digicare,Yes,No,4,screen share,Digital,Book
+Cust115,24/04/2024,Webchat,2,Do it myself,Digicare,Self help,No,No,4,no deflection,Non-digital,Libraries Connected
+Cust116,25/04/2024,Phone,3,Do it myself,Self help,Digicare,No,No,5,no deflection,Non-digital,Campaign
+Cust117,26/04/2024,Phone,3,Refer to Digicare,Assisted digital,Libraries Connected,No,No,1,no deflection,Non-digital,Book
+Cust118,27/04/2024,Phone,3,Do it with me,Digicare,Assisted digital,No,No,1,self help resources,Digital,Book
+Cust119,28/04/2024,Phone,2,Do it myself,Self help,Libraries Connected,Yes,No,4,no deflection,Non-digital,Campaign
+Cust120,29/04/2024,Webchat,1,Do it with me,Assisted digital,Digicare,No,No,2,no deflection,Non-digital,Campaign
+Cust121,30/04/2024,Phone,3,Do it myself,Digicare,Assisted digital,Yes,No,3,self help resources,Digital,Digicare
+Cust122,01/05/2024,Webchat,1,Do it with me,Self help,Self help,No,No,2,Other,Non-digital,Digicare
+Cust123,02/05/2024,Webchat,3,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,no deflection,Non-digital,Campaign
+Cust124,03/05/2024,Phone,3,Do it with me,Digicare,Digicare,Yes,No,4,screen share,Digital,Book
+Cust125,04/05/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,1,self help resources,Digital,Campaign
+Cust126,05/05/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,Yes,No,2,screen share,Digital,Campaign
+Cust127,06/05/2024,Webchat,2,Do it myself,Digicare,Digicare,Yes,No,2,self help resources,Digital,Book
+Cust128,07/05/2024,Phone,1,Do it myself,Self help,Libraries Connected,No,No,4,screen share,Digital,Campaign
+Cust129,08/05/2024,Webchat,2,Do it with me,Assisted digital,Self help,No,No,4,no deflection,Digital,Libraries Connected
+Cust130,09/05/2024,Phone,4,Do it myself,Digicare,Libraries Connected,No,No,3,no deflection,Digital,Libraries Connected
+Cust131,10/05/2024,Webchat,3,Do it myself,Self help,Libraries Connected,No,No,2,no deflection,Non-digital,Campaign
+Cust132,11/05/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,2,no deflection,Non-digital,Campaign
+Cust133,12/05/2024,Phone,2,Do it myself,Digicare,Self help,No,No,4,no deflection,Digital,Digicare
+Cust134,13/05/2024,Webchat,2,Do it myself,Self help,Digicare,Yes,No,1,screen share,Digital,Book
+Cust135,14/05/2024,Phone,4,Do it myself,Assisted digital,Digicare,No,No,5,no deflection,Non-digital,Campaign
+Cust136,15/05/2024,Phone,3,Do it myself,Digicare,Digicare,Yes,No,1,no deflection,Non-digital,Campaign
+Cust137,16/05/2024,Phone,1,Refer to Digicare,Self help,Assisted digital,Yes,No,4,screen share,Non-digital,Digicare
+Cust138,17/05/2024,Webchat,3,Do it myself,Assisted digital,Assisted digital,No,No,5,no deflection,Digital,Digicare
+Cust139,18/05/2024,Webchat,1,Do it myself,Digicare,Self help,Yes,Yes,4,no deflection,Digital,Campaign
+Cust140,19/05/2024,Phone,2,Do it myself,Self help,Libraries Connected,No,No,2,self help resources,Digital,Book
+Cust141,20/05/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,Yes,No,4,screen share,Non-digital,Digicare
+Cust142,21/05/2024,Phone,3,Do it myself,Digicare,Libraries Connected,No,No,5,Other,Non-digital,Digicare
+Cust143,22/05/2024,Phone,3,Do it myself,Self help,Libraries Connected,No,No,2,no deflection,Non-digital,Digicare
+Cust144,23/05/2024,Phone,3,Do it with me,Assisted digital,Self help,No,No,1,screen share,Non-digital,Libraries Connected
+Cust145,24/05/2024,Phone,3,Do it with me,Digicare,Assisted digital,Yes,No,5,screen share,Non-digital,Campaign
+Cust146,25/05/2024,Phone,3,Do it myself,Self help,Assisted digital,No,Yes,3,screen share,Non-digital,Book
+Cust147,26/05/2024,Phone,2,Do it myself,Assisted digital,Self help,No,No,4,no deflection,Digital,Libraries Connected
+Cust148,27/05/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,No,2,screen share,Digital,Campaign
+Cust149,28/05/2024,Phone,1,Do it myself,Self help,Self help,Yes,No,2,screen share,Digital,Campaign
+Cust150,29/05/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,No,No,2,no deflection,Digital,Libraries Connected
+Cust151,30/05/2024,Phone,1,Do it myself,Digicare,Self help,Yes,No,3,Other,Digital,Book
+Cust152,31/05/2024,Phone,4,Do it with me,Self help,Assisted digital,No,No,2,no deflection,Digital,Book
+Cust153,01/06/2024,Webchat,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,no deflection,Digital,Libraries Connected
+Cust154,02/06/2024,Phone,2,Do it with me,Digicare,Libraries Connected,Yes,No,5,Other,Non-digital,Libraries Connected
+Cust155,03/06/2024,Phone,1,Do it with me,Self help,Self help,No,No,5,Other,Non-digital,Campaign
+Cust156,04/06/2024,Phone,1,Do it with me,Assisted digital,Self help,Yes,No,5,self help resources,Digital,Libraries Connected
+Cust157,05/06/2024,Webchat,3,Do it myself,Digicare,Libraries Connected,No,No,2,no deflection,Non-digital,Campaign
+Cust158,06/06/2024,Phone,4,Do it myself,Self help,Digicare,Yes,No,4,screen share,Digital,Digicare
+Cust159,07/06/2024,Webchat,4,Do it with me,Assisted digital,Libraries Connected,No,No,3,no deflection,Non-digital,Campaign
+Cust160,08/06/2024,Webchat,3,Do it myself,Digicare,Self help,Yes,No,4,screen share,Non-digital,Book
+Cust161,09/06/2024,Webchat,1,Do it with me,Self help,Digicare,No,No,4,self help resources,Non-digital,Digicare
+Cust162,10/06/2024,Phone,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,1,Other,Non-digital,Book
+Cust163,11/06/2024,Phone,3,Refer to Digicare,Digicare,Digicare,No,No,1,Other,Digital,Book
+Cust164,12/06/2024,Phone,3,Do it with me,Self help,Digicare,Yes,No,5,no deflection,Digital,Libraries Connected
+Cust165,13/06/2024,Phone,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,1,Other,Digital,Digicare
+Cust166,14/06/2024,Phone,1,Do it with me,Digicare,Self help,No,Yes,3,screen share,Digital,Digicare
+Cust167,15/06/2024,Phone,2,Do it myself,Self help,Assisted digital,No,No,4,Other,Non-digital,Campaign
+Cust168,16/06/2024,Phone,4,Refer to Digicare,Assisted digital,Digicare,Yes,No,2,no deflection,Non-digital,Campaign
+Cust169,17/06/2024,Phone,3,Do it with me,Digicare,Digicare,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust170,18/06/2024,Phone,4,Do it with me,Self help,Libraries Connected,No,No,3,Other,Digital,Libraries Connected
+Cust171,19/06/2024,Webchat,4,Do it with me,Assisted digital,Self help,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust172,20/06/2024,Webchat,2,Do it myself,Digicare,Libraries Connected,Yes,Yes,4,no deflection,Non-digital,Libraries Connected
+Cust173,21/06/2024,Phone,3,Do it myself,Self help,Libraries Connected,Yes,Yes,1,screen share,Non-digital,Digicare
+Cust174,22/06/2024,Phone,4,Do it with me,Assisted digital,Assisted digital,No,No,5,Other,Non-digital,Libraries Connected
+Cust175,23/06/2024,Phone,2,Refer to Digicare,Digicare,Libraries Connected,No,Yes,2,no deflection,Digital,Campaign
+Cust176,24/06/2024,Phone,1,Do it with me,Self help,Digicare,Yes,No,1,Other,Non-digital,Campaign
+Cust177,25/06/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,no deflection,Non-digital,Campaign
+Cust178,26/06/2024,Phone,1,Do it myself,Digicare,Assisted digital,No,No,1,no deflection,Non-digital,Book
+Cust179,27/06/2024,Phone,3,Do it myself,Self help,Self help,No,No,2,self help resources,Digital,Libraries Connected
+Cust180,28/06/2024,Webchat,3,Do it with me,Assisted digital,Self help,No,No,1,no deflection,Non-digital,Book
+Cust181,29/06/2024,Phone,2,Do it with me,Digicare,Self help,Yes,No,2,screen share,Non-digital,Libraries Connected
+Cust182,30/06/2024,Webchat,2,Do it with me,Self help,Digicare,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust183,01/07/2024,Webchat,2,Do it myself,Assisted digital,Digicare,No,No,2,Other,Non-digital,Book
+Cust184,02/07/2024,Webchat,4,Do it myself,Digicare,Digicare,No,No,2,no deflection,Digital,Campaign
+Cust185,03/07/2024,Phone,4,Do it myself,Self help,Assisted digital,No,Yes,1,screen share,Non-digital,Campaign
+Cust186,04/07/2024,Phone,2,Do it with me,Assisted digital,Self help,Yes,Yes,1,Other,Non-digital,Campaign
+Cust187,05/07/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,No,2,Other,Non-digital,Campaign
+Cust188,06/07/2024,Phone,2,Refer to Digicare,Self help,Assisted digital,Yes,No,4,Other,Digital,Campaign
+Cust189,07/07/2024,Webchat,1,Do it myself,Assisted digital,Libraries Connected,Yes,No,1,screen share,Non-digital,Digicare
+Cust190,08/07/2024,Phone,4,Do it with me,Digicare,Assisted digital,Yes,No,5,no deflection,Digital,Book
+Cust191,09/07/2024,Webchat,3,Do it myself,Self help,Assisted digital,Yes,No,2,no deflection,Digital,Digicare
+Cust192,10/07/2024,Webchat,4,Do it with me,Assisted digital,Digicare,No,No,1,no deflection,Non-digital,Digicare
+Cust193,11/07/2024,Phone,4,Do it myself,Digicare,Self help,No,No,3,no deflection,Digital,Libraries Connected
+Cust194,12/07/2024,Phone,2,Refer to Digicare,Self help,Self help,Yes,No,2,no deflection,Digital,Book
+Cust195,13/07/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,Other,Non-digital,Digicare
+Cust196,14/07/2024,Phone,3,Refer to Digicare,Digicare,Digicare,Yes,No,4,no deflection,Digital,Campaign
+Cust197,15/07/2024,Phone,3,Do it with me,Self help,Libraries Connected,Yes,Yes,3,no deflection,Non-digital,Libraries Connected
+Cust198,16/07/2024,Phone,4,Do it with me,Assisted digital,Assisted digital,Yes,No,4,no deflection,Digital,Book
+Cust199,17/07/2024,Poly AI,2,Do it with me,Digicare,Self help,Yes,No,4,no deflection,Non-digital,Campaign
+Cust200,18/07/2024,Poly AI,3,Do it myself,Self help,Assisted digital,No,No,1,no deflection,Non-digital,Book
+Cust201,19/07/2024,Poly AI,4,Do it myself,Assisted digital,Libraries Connected,No,No,1,no deflection,Digital,Book
+Cust202,20/07/2024,Poly AI,3,Refer to Digicare,Digicare,Libraries Connected,No,No,2,no deflection,Digital,Book
+Cust203,21/07/2024,Poly AI,2,Do it myself,Self help,Digicare,No,No,2,screen share,Digital,Libraries Connected
+Cust204,22/07/2024,Poly AI,1,Do it myself,Assisted digital,Digicare,Yes,No,1,screen share,Non-digital,Libraries Connected
+Cust205,23/07/2024,Poly AI,2,Refer to Digicare,Digicare,Libraries Connected,No,No,3,self help resources,Digital,Digicare
+Cust206,24/07/2024,Poly AI,1,Do it with me,Self help,Self help,No,No,1,Other,Non-digital,Libraries Connected
+Cust207,25/07/2024,Poly AI,3,Do it with me,Assisted digital,Assisted digital,Yes,No,5,Other,Digital,Digicare
+Cust208,26/07/2024,Poly AI,2,Do it with me,Digicare,Assisted digital,No,No,2,Other,Non-digital,Digicare
+Cust209,27/07/2024,Poly AI,3,Do it myself,Self help,Digicare,No,No,5,no deflection,Digital,Book
+Cust210,28/07/2024,Poly AI,1,Do it with me,Assisted digital,Assisted digital,No,Yes,2,no deflection,Digital,Campaign
+Cust211,29/07/2024,Poly AI,2,Do it with me,Digicare,Libraries Connected,Yes,No,2,Other,Digital,Digicare
+Cust212,30/07/2024,Poly AI,1,Do it with me,Self help,Assisted digital,No,No,4,self help resources,Non-digital,Digicare
+Cust213,31/07/2024,Poly AI,3,Do it myself,Assisted digital,Assisted digital,No,No,3,self help resources,Non-digital,Digicare
+Cust214,01/08/2024,Poly AI,2,Do it myself,Digicare,Assisted digital,No,No,3,no deflection,Digital,Book
+Cust215,02/08/2024,Poly AI,2,Do it myself,Self help,Assisted digital,No,No,1,no deflection,Digital,Book
+Cust216,03/08/2024,Poly AI,3,Do it myself,Assisted digital,Assisted digital,No,No,1,no deflection,Digital,Book
+Cust217,04/08/2024,Poly AI,2,Do it with me,Digicare,Libraries Connected,Yes,No,2,no deflection,Digital,Campaign
+Cust218,05/08/2024,Poly AI,2,Do it with me,Self help,Libraries Connected,Yes,No,5,no deflection,Digital,Campaign
+Cust219,06/08/2024,Poly AI,1,Do it with me,Assisted digital,Libraries Connected,No,No,3,screen share,Non-digital,Digicare
+Cust220,07/08/2024,Poly AI,4,Do it with me,Digicare,Self help,No,No,2,Other,Digital,Digicare
+Cust221,08/08/2024,Poly AI,3,Do it myself,Self help,Libraries Connected,No,No,5,no deflection,Digital,Libraries Connected
+Cust222,09/08/2024,Poly AI,2,Do it myself,Assisted digital,Self help,Yes,No,2,screen share,Digital,Campaign
+Cust223,10/08/2024,Poly AI,2,Do it myself,Digicare,Assisted digital,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust224,11/08/2024,Poly AI,4,Do it myself,Self help,Libraries Connected,No,No,4,Other,Non-digital,Book
+Cust225,12/08/2024,Poly AI,1,Do it myself,Assisted digital,Libraries Connected,No,No,4,Other,Digital,Book
+Cust226,13/08/2024,Poly AI,1,Do it with me,Digicare,Libraries Connected,Yes,Yes,5,self help resources,Digital,Book
+Cust227,14/08/2024,Poly AI,1,Refer to Digicare,Self help,Libraries Connected,Yes,No,5,screen share,Digital,Libraries Connected
+Cust228,15/08/2024,Poly AI,3,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,screen share,Non-digital,Digicare
+Cust229,16/08/2024,Poly AI,3,Do it myself,Digicare,Digicare,Yes,No,4,no deflection,Digital,Campaign
+Cust230,17/08/2024,Poly AI,4,Do it with me,Self help,Digicare,Yes,Yes,3,screen share,Non-digital,Book
+Cust231,18/08/2024,Poly AI,4,Do it with me,Assisted digital,Digicare,No,No,3,Other,Digital,Libraries Connected
+Cust232,19/08/2024,Poly AI,2,Do it myself,Digicare,Digicare,No,No,4,screen share,Non-digital,Libraries Connected
+Cust233,20/08/2024,Poly AI,3,Do it with me,Self help,Self help,Yes,No,2,self help resources,Non-digital,Campaign
+Cust234,21/08/2024,Poly AI,1,Do it with me,Assisted digital,Digicare,Yes,No,4,screen share,Digital,Libraries Connected
+Cust235,22/08/2024,Poly AI,2,Do it myself,Digicare,Assisted digital,No,No,2,Other,Digital,Book
+Cust236,23/08/2024,Poly AI,3,Do it myself,Self help,Libraries Connected,Yes,No,4,self help resources,Digital,Libraries Connected
+Cust237,24/08/2024,Poly AI,3,Do it with me,Assisted digital,Digicare,Yes,No,1,no deflection,Non-digital,Digicare
+Cust238,25/08/2024,Poly AI,1,Do it myself,Digicare,Assisted digital,Yes,No,5,screen share,Non-digital,Digicare
+Cust239,26/08/2024,Poly AI,2,Do it with me,Self help,Self help,No,No,3,no deflection,Non-digital,Book
+Cust240,27/08/2024,Poly AI,4,Do it with me,Assisted digital,Digicare,No,No,1,screen share,Non-digital,Book
+Cust241,28/08/2024,Poly AI,3,Do it myself,Digicare,Self help,No,No,4,screen share,Non-digital,Digicare
+Cust242,29/08/2024,Poly AI,3,Do it with me,Self help,Self help,No,No,2,screen share,Non-digital,Book
+Cust243,30/08/2024,Poly AI,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,1,Other,Non-digital,Campaign
+Cust244,31/08/2024,Poly AI,3,Do it with me,Digicare,Digicare,No,No,2,Other,Non-digital,Libraries Connected
+Cust245,01/09/2024,Poly AI,2,Do it myself,Self help,Assisted digital,Yes,No,1,no deflection,Digital,Book
+Cust246,02/09/2024,Poly AI,1,Do it myself,Assisted digital,Libraries Connected,Yes,Yes,2,no deflection,Non-digital,Campaign
+Cust247,03/09/2024,Poly AI,4,Do it myself,Digicare,Assisted digital,Yes,No,4,screen share,Digital,Libraries Connected
+Cust248,04/09/2024,Poly AI,1,Do it with me,Self help,Assisted digital,Yes,No,3,no deflection,Digital,Campaign
+Cust249,05/09/2024,Poly AI,3,Refer to Digicare,Assisted digital,Assisted digital,No,No,4,Other,Digital,Libraries Connected
+Cust250,06/09/2024,Poly AI,2,Do it myself,Digicare,Self help,No,No,1,screen share,Digital,Book
+Cust251,07/09/2024,Poly AI,2,Do it myself,Self help,Digicare,Yes,No,4,no deflection,Digital,Book
+Cust252,08/09/2024,Poly AI,4,Do it myself,Assisted digital,Self help,Yes,No,5,Other,Digital,Digicare
+Cust253,09/09/2024,Poly AI,4,Do it with me,Digicare,Assisted digital,Yes,No,2,screen share,Digital,Digicare
+Cust254,10/09/2024,Poly AI,4,Do it with me,Self help,Self help,No,No,3,Other,Non-digital,Campaign
+Cust255,11/09/2024,Poly AI,3,Do it with me,Assisted digital,Digicare,Yes,No,1,screen share,Non-digital,Book
+Cust256,12/09/2024,Poly AI,3,Do it myself,Digicare,Assisted digital,Yes,No,1,no deflection,Digital,Digicare
+Cust257,13/09/2024,Poly AI,4,Do it myself,Self help,Self help,Yes,Yes,4,no deflection,Digital,Campaign
+Cust258,14/09/2024,Poly AI,4,Do it with me,Assisted digital,Self help,No,No,2,Other,Non-digital,Libraries Connected
+Cust259,15/09/2024,Poly AI,1,Do it with me,Digicare,Digicare,Yes,No,2,screen share,Digital,Book
+Cust260,16/09/2024,Poly AI,3,Do it with me,Self help,Self help,Yes,No,2,screen share,Digital,Book
+Cust261,17/09/2024,Poly AI,3,Do it myself,Assisted digital,Digicare,Yes,No,3,no deflection,Digital,Digicare
+Cust262,18/09/2024,Poly AI,3,Do it with me,Digicare,Digicare,Yes,No,3,Other,Non-digital,Campaign
+Cust263,19/09/2024,Poly AI,3,Do it with me,Self help,Libraries Connected,No,No,1,no deflection,Non-digital,Libraries Connected
+Cust264,20/09/2024,Poly AI,3,Do it myself,Assisted digital,Assisted digital,No,No,2,screen share,Non-digital,Libraries Connected
+Cust265,21/09/2024,Poly AI,3,Do it myself,Digicare,Digicare,No,No,2,self help resources,Non-digital,Libraries Connected
+Cust266,22/09/2024,Poly AI,4,Do it myself,Self help,Assisted digital,Yes,No,3,screen share,Non-digital,Digicare
+Cust267,23/09/2024,Poly AI,3,Do it with me,Assisted digital,Digicare,Yes,No,2,Other,Non-digital,Libraries Connected
+Cust268,24/09/2024,Poly AI,1,Do it with me,Digicare,Assisted digital,Yes,No,2,self help resources,Digital,Digicare
+Cust269,25/09/2024,Poly AI,1,Do it myself,Self help,Libraries Connected,No,No,1,no deflection,Digital,Libraries Connected
+Cust270,26/09/2024,Poly AI,4,Do it with me,Assisted digital,Self help,No,No,1,screen share,Non-digital,Libraries Connected
+Cust271,27/09/2024,Poly AI,4,Do it with me,Digicare,Libraries Connected,No,No,1,screen share,Digital,Digicare
+Cust272,28/09/2024,Poly AI,2,Do it myself,Self help,Assisted digital,Yes,No,2,no deflection,Digital,Book
+Cust273,29/09/2024,Poly AI,1,Do it myself,Assisted digital,Assisted digital,No,No,2,Other,Non-digital,Campaign
+Cust274,30/09/2024,Poly AI,4,Do it with me,Digicare,Assisted digital,No,No,5,self help resources,Non-digital,Libraries Connected
+Cust275,01/10/2024,Poly AI,1,Do it with me,Self help,Digicare,Yes,No,1,screen share,Digital,Book
+Cust276,02/10/2024,Poly AI,4,Do it myself,Assisted digital,Self help,Yes,No,5,no deflection,Non-digital,Libraries Connected
+Cust277,03/10/2024,Poly AI,1,Do it with me,Digicare,Self help,Yes,No,3,no deflection,Digital,Campaign
+Cust278,04/10/2024,Poly AI,3,Do it with me,Self help,Libraries Connected,No,No,4,self help resources,Digital,Libraries Connected
+Cust279,05/10/2024,Poly AI,3,Do it myself,Assisted digital,Assisted digital,Yes,No,3,no deflection,Non-digital,Digicare
+Cust280,06/10/2024,Poly AI,1,Do it with me,Digicare,Libraries Connected,No,No,3,self help resources,Non-digital,Digicare
+Cust281,07/10/2024,Poly AI,2,Do it with me,Self help,Self help,Yes,No,2,no deflection,Non-digital,Campaign
+Cust282,08/10/2024,Poly AI,2,Do it with me,Assisted digital,Self help,No,No,1,Other,Non-digital,Libraries Connected
+Cust283,09/10/2024,Poly AI,2,Do it with me,Digicare,Assisted digital,No,No,2,self help resources,Digital,Campaign
+Cust284,10/10/2024,Poly AI,4,Do it with me,Self help,Self help,No,No,5,no deflection,Digital,Libraries Connected
+Cust285,11/10/2024,Poly AI,4,Do it with me,Assisted digital,Digicare,No,No,1,screen share,Digital,Libraries Connected
+Cust286,12/10/2024,Poly AI,3,Do it with me,Digicare,Self help,No,No,4,Other,Digital,Book
+Cust287,13/10/2024,Poly AI,2,Do it myself,Self help,Self help,Yes,No,5,no deflection,Non-digital,Book
+Cust288,14/10/2024,Poly AI,3,Do it myself,Assisted digital,Libraries Connected,No,No,2,screen share,Non-digital,Campaign
+Cust289,15/10/2024,Poly AI,3,Do it with me,Digicare,Libraries Connected,No,No,4,no deflection,Digital,Libraries Connected
+Cust290,16/10/2024,Poly AI,2,Do it myself,Self help,Digicare,Yes,No,4,no deflection,Non-digital,Libraries Connected
+Cust291,17/10/2024,Poly AI,3,Do it with me,Assisted digital,Libraries Connected,No,No,4,no deflection,Non-digital,Campaign
+Cust292,18/10/2024,Poly AI,2,Do it myself,Digicare,Digicare,Yes,No,5,no deflection,Digital,Digicare
+Cust293,19/10/2024,Poly AI,3,Do it myself,Self help,Self help,No,No,2,screen share,Digital,Book
+Cust294,20/10/2024,Poly AI,1,Do it myself,Assisted digital,Assisted digital,Yes,No,4,screen share,Non-digital,Libraries Connected
+Cust295,21/10/2024,Poly AI,3,Do it with me,Digicare,Assisted digital,Yes,No,2,no deflection,Non-digital,Campaign
+Cust296,22/10/2024,Poly AI,2,Do it with me,Self help,Assisted digital,Yes,No,1,Other,Non-digital,Libraries Connected
+Cust297,23/10/2024,Poly AI,2,Do it myself,Assisted digital,Assisted digital,No,No,1,screen share,Digital,Book
+Cust298,24/10/2024,Poly AI,3,Do it myself,Digicare,Libraries Connected,Yes,No,5,screen share,Digital,Campaign
+Cust299,25/10/2024,Poly AI,4,Do it with me,Self help,Self help,Yes,No,1,no deflection,Non-digital,Campaign
+Cust300,26/10/2024,Poly AI,2,Do it myself,Assisted digital,Assisted digital,Yes,No,1,Other,Non-digital,Digicare
+Cust301,27/10/2024,Poly AI,3,Do it myself,Digicare,Self help,Yes,No,4,Other,Digital,Libraries Connected
+Cust302,28/10/2024,Poly AI,2,Do it myself,Self help,Assisted digital,No,No,5,Other,Non-digital,Book
+Cust303,29/10/2024,Poly AI,1,Do it myself,Assisted digital,Self help,No,No,2,screen share,Digital,Libraries Connected
+Cust304,30/10/2024,Poly AI,4,Do it with me,Digicare,Assisted digital,Yes,No,2,screen share,Digital,Book
+Cust305,31/10/2024,Poly AI,2,Do it with me,Self help,Libraries Connected,No,No,3,Other,Non-digital,Campaign
+Cust306,01/11/2024,Poly AI,1,Do it myself,Assisted digital,Assisted digital,Yes,No,5,Other,Non-digital,Digicare
+Cust307,02/11/2024,Poly AI,4,Do it myself,Digicare,Self help,Yes,No,2,Other,Digital,Book
+Cust308,03/11/2024,Poly AI,3,Do it with me,Self help,Self help,No,No,2,Other,Non-digital,Book
+Cust309,04/11/2024,Poly AI,2,Do it myself,Assisted digital,Digicare,No,No,3,no deflection,Digital,Digicare
+Cust310,05/11/2024,Poly AI,3,Do it with me,Digicare,Self help,Yes,No,5,screen share,Digital,Book
+Cust311,06/11/2024,Poly AI,1,Do it with me,Self help,Assisted digital,No,No,1,self help resources,Non-digital,Digicare
+Cust312,07/11/2024,Phone,4,Refer to Digicare,Assisted digital,Assisted digital,No,No,3,no deflection,Digital,Digicare
+Cust313,08/11/2024,Webchat,2,Do it with me,Digicare,Assisted digital,No,No,2,no deflection,Non-digital,Digicare
+Cust314,09/11/2024,Phone,4,Do it with me,Self help,Digicare,No,No,2,no deflection,Non-digital,Digicare
+Cust315,10/11/2024,Phone,4,Do it with me,Assisted digital,Digicare,No,No,3,Other,Non-digital,Campaign
+Cust316,11/11/2024,Phone,1,Do it myself,Digicare,Assisted digital,Yes,No,1,screen share,Non-digital,Digicare
+Cust317,12/11/2024,Webchat,1,Do it with me,Self help,Self help,Yes,No,2,self help resources,Digital,Campaign
+Cust318,13/11/2024,Webchat,1,Do it myself,Assisted digital,Digicare,No,No,5,no deflection,Non-digital,Digicare
+Cust319,14/11/2024,Phone,4,Do it myself,Digicare,Assisted digital,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust320,15/11/2024,Webchat,4,Do it myself,Self help,Libraries Connected,Yes,No,5,no deflection,Non-digital,Digicare
+Cust321,16/11/2024,Phone,2,Do it myself,Assisted digital,Digicare,No,No,1,Other,Digital,Libraries Connected
+Cust322,17/11/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,No,4,no deflection,Non-digital,Book
+Cust323,18/11/2024,Phone,2,Do it myself,Self help,Assisted digital,Yes,No,1,self help resources,Non-digital,Book
+Cust324,19/11/2024,Webchat,3,Do it myself,Assisted digital,Self help,Yes,No,1,self help resources,Digital,Digicare
+Cust325,20/11/2024,Phone,1,Do it myself,Digicare,Digicare,Yes,No,3,no deflection,Digital,Campaign
+Cust326,21/11/2024,Phone,3,Do it with me,Self help,Libraries Connected,No,No,3,screen share,Digital,Digicare
+Cust327,22/11/2024,Phone,2,Do it myself,Assisted digital,Self help,Yes,No,5,Other,Non-digital,Digicare
+Cust328,23/11/2024,Phone,4,Do it with me,Digicare,Self help,Yes,No,1,Other,Non-digital,Book
+Cust329,24/11/2024,Phone,3,Do it with me,Self help,Assisted digital,Yes,Yes,3,no deflection,Digital,Libraries Connected
+Cust330,25/11/2024,Phone,4,Refer to Digicare,Assisted digital,Libraries Connected,Yes,No,3,Other,Non-digital,Campaign
+Cust331,26/11/2024,Webchat,1,Do it with me,Digicare,Assisted digital,Yes,No,3,Other,Digital,Digicare
+Cust332,27/11/2024,Webchat,4,Do it with me,Self help,Self help,Yes,No,4,screen share,Non-digital,Campaign
+Cust333,28/11/2024,Phone,1,Do it with me,Assisted digital,Digicare,Yes,No,3,screen share,Non-digital,Book
+Cust334,29/11/2024,Phone,4,Do it with me,Digicare,Self help,No,No,4,no deflection,Non-digital,Book
+Cust335,30/11/2024,Phone,3,Do it myself,Self help,Assisted digital,No,No,5,Other,Digital,Digicare
+Cust336,01/12/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,Yes,No,4,no deflection,Non-digital,Book
+Cust337,02/12/2024,Phone,4,Do it myself,Digicare,Libraries Connected,Yes,Yes,2,self help resources,Non-digital,Digicare
+Cust338,03/12/2024,Phone,1,Do it myself,Self help,Assisted digital,No,Yes,4,Other,Digital,Campaign
+Cust339,04/12/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,No,No,5,Other,Digital,Campaign
+Cust340,05/12/2024,Phone,3,Do it with me,Digicare,Digicare,No,No,1,no deflection,Digital,Campaign
+Cust341,06/12/2024,Phone,3,Do it myself,Self help,Assisted digital,No,No,5,no deflection,Digital,Libraries Connected
+Cust342,07/12/2024,Phone,1,Do it with me,Assisted digital,Digicare,Yes,Yes,4,screen share,Digital,Libraries Connected
+Cust343,08/12/2024,Phone,1,Do it with me,Digicare,Assisted digital,No,No,4,Other,Digital,Book
+Cust344,09/12/2024,Phone,4,Do it with me,Self help,Libraries Connected,No,No,1,no deflection,Digital,Digicare
+Cust345,10/12/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,No,No,1,no deflection,Digital,Book
+Cust346,11/12/2024,Phone,2,Refer to Digicare,Digicare,Libraries Connected,No,No,3,no deflection,Non-digital,Book
+Cust347,12/12/2024,Phone,4,Do it with me,Self help,Libraries Connected,Yes,No,4,screen share,Non-digital,Book
+Cust348,13/12/2024,Phone,2,Do it with me,Assisted digital,Self help,No,No,2,screen share,Digital,Campaign
+Cust349,14/12/2024,Phone,4,Do it with me,Digicare,Libraries Connected,No,No,5,no deflection,Non-digital,Libraries Connected
+Cust350,15/12/2024,Phone,2,Do it with me,Self help,Digicare,No,No,2,screen share,Non-digital,Campaign
+Cust351,16/12/2024,Phone,4,Do it with me,Assisted digital,Digicare,No,No,2,no deflection,Non-digital,Campaign
+Cust352,17/12/2024,Webchat,3,Do it myself,Digicare,Self help,Yes,No,1,Other,Non-digital,Libraries Connected
+Cust353,18/12/2024,Webchat,4,Do it with me,Self help,Assisted digital,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust354,19/12/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,no deflection,Non-digital,Digicare
+Cust355,20/12/2024,Phone,3,Do it with me,Digicare,Digicare,No,No,2,screen share,Non-digital,Digicare
+Cust356,21/12/2024,Webchat,4,Refer to Digicare,Self help,Self help,No,No,2,no deflection,Digital,Book
+Cust357,22/12/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,Yes,No,1,no deflection,Non-digital,Digicare
+Cust358,23/12/2024,Phone,1,Do it with me,Digicare,Assisted digital,Yes,No,2,Other,Digital,Book
+Cust359,24/12/2024,Phone,2,Do it myself,Self help,Assisted digital,No,No,3,self help resources,Digital,Libraries Connected
+Cust360,25/12/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,No,No,2,no deflection,Non-digital,Digicare
+Cust361,26/12/2024,Phone,4,Do it myself,Digicare,Self help,Yes,No,3,screen share,Non-digital,Libraries Connected
+Cust362,27/12/2024,Phone,2,Do it myself,Self help,Self help,Yes,No,1,Other,Digital,Campaign
+Cust363,28/12/2024,Webchat,2,Do it myself,Assisted digital,Self help,No,No,1,Other,Non-digital,Campaign
+Cust364,29/12/2024,Phone,4,Do it myself,Digicare,Digicare,Yes,No,1,screen share,Digital,Digicare
+Cust365,30/12/2024,Webchat,3,Do it with me,Self help,Assisted digital,Yes,No,1,Other,Non-digital,Libraries Connected
+Cust366,31/12/2024,Phone,2,Do it with me,Assisted digital,Digicare,Yes,No,4,screen share,Non-digital,Campaign
+Cust367,11/08/2024,Webchat,4,Do it myself,Digicare,Assisted digital,No,Yes,4,no deflection,Digital,Campaign
+Cust368,12/08/2024,Phone,2,Do it with me,Self help,Self help,No,Yes,2,no deflection,Digital,Campaign
+Cust369,13/08/2024,Webchat,1,Do it with me,Assisted digital,Self help,Yes,No,2,screen share,Non-digital,Book
+Cust370,14/08/2024,Phone,1,Do it myself,Digicare,Self help,Yes,Yes,1,no deflection,Digital,Digicare
+Cust371,15/08/2024,Webchat,4,Do it with me,Self help,Self help,No,No,4,screen share,Digital,Campaign
+Cust372,16/08/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,No,No,5,Other,Non-digital,Libraries Connected
+Cust373,17/08/2024,Webchat,4,Do it myself,Digicare,Self help,Yes,No,5,self help resources,Digital,Digicare
+Cust374,18/08/2024,Phone,1,Do it myself,Self help,Self help,Yes,No,5,screen share,Non-digital,Libraries Connected
+Cust375,19/08/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,Other,Non-digital,Libraries Connected
+Cust376,20/08/2024,Phone,3,Do it with me,Digicare,Digicare,Yes,No,1,self help resources,Non-digital,Libraries Connected
+Cust377,21/08/2024,Phone,1,Do it myself,Self help,Digicare,No,Yes,2,self help resources,Non-digital,Campaign
+Cust378,22/08/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,No,No,5,self help resources,Digital,Campaign
+Cust379,23/08/2024,Phone,2,Do it myself,Digicare,Digicare,Yes,No,2,Other,Non-digital,Campaign
+Cust380,24/08/2024,Phone,4,Do it with me,Self help,Libraries Connected,No,No,5,no deflection,Non-digital,Libraries Connected
+Cust381,25/08/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,2,no deflection,Digital,Campaign
+Cust382,26/08/2024,Webchat,1,Do it with me,Digicare,Digicare,No,Yes,2,Other,Digital,Book
+Cust383,27/08/2024,Webchat,4,Refer to Digicare,Self help,Libraries Connected,Yes,No,5,screen share,Digital,Digicare
+Cust384,28/08/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,No,Yes,1,Other,Non-digital,Digicare
+Cust385,29/08/2024,Phone,3,Do it myself,Digicare,Digicare,No,No,1,Other,Non-digital,Digicare
+Cust386,30/08/2024,Phone,4,Do it with me,Self help,Digicare,No,No,2,screen share,Non-digital,Libraries Connected
+Cust387,31/08/2024,Phone,3,Do it myself,Assisted digital,Self help,Yes,No,2,Other,Digital,Book
+Cust388,01/09/2024,Phone,3,Do it with me,Digicare,Self help,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust389,02/09/2024,Webchat,1,Do it myself,Self help,Libraries Connected,No,Yes,3,no deflection,Non-digital,Book
+Cust390,03/09/2024,Phone,1,Do it myself,Assisted digital,Self help,No,No,2,self help resources,Non-digital,Libraries Connected
+Cust391,04/09/2024,Phone,2,Do it with me,Digicare,Self help,No,No,3,self help resources,Non-digital,Campaign
+Cust392,05/09/2024,Phone,1,Do it with me,Self help,Digicare,Yes,No,3,no deflection,Digital,Campaign
+Cust393,06/09/2024,Webchat,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,self help resources,Non-digital,Digicare
+Cust394,07/09/2024,Webchat,4,Do it with me,Digicare,Digicare,No,No,4,screen share,Digital,Book
+Cust395,08/09/2024,Phone,2,Do it with me,Self help,Self help,Yes,No,1,screen share,Digital,Campaign
+Cust396,09/09/2024,Phone,1,Do it with me,Assisted digital,Digicare,No,No,2,no deflection,Non-digital,Book
+Cust397,10/09/2024,Phone,1,Do it myself,Digicare,Assisted digital,No,No,3,no deflection,Non-digital,Libraries Connected
+Cust398,11/09/2024,Phone,1,Do it myself,Self help,Libraries Connected,Yes,Yes,2,screen share,Non-digital,Libraries Connected
+Cust399,12/09/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,Yes,No,4,screen share,Digital,Campaign
+Cust400,13/09/2024,Phone,2,Refer to Digicare,Digicare,Self help,No,No,5,no deflection,Non-digital,Libraries Connected
+Cust401,14/09/2024,Webchat,4,Do it with me,Self help,Digicare,Yes,No,1,screen share,Digital,Book
+Cust402,15/09/2024,Webchat,2,Do it myself,Assisted digital,Libraries Connected,No,No,4,no deflection,Digital,Campaign
+Cust403,16/09/2024,Webchat,1,Do it with me,Digicare,Self help,No,No,2,Other,Non-digital,Digicare
+Cust404,17/09/2024,Webchat,1,Do it with me,Self help,Digicare,No,No,4,Other,Non-digital,Digicare
+Cust405,18/09/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,No,No,4,no deflection,Digital,Libraries Connected
+Cust406,19/09/2024,Phone,2,Refer to Digicare,Digicare,Digicare,Yes,No,2,no deflection,Non-digital,Book
+Cust407,20/09/2024,Phone,4,Do it myself,Self help,Assisted digital,No,Yes,5,screen share,Non-digital,Campaign
+Cust408,21/09/2024,Webchat,4,Do it myself,Assisted digital,Digicare,No,No,1,no deflection,Non-digital,Libraries Connected
+Cust409,22/09/2024,Webchat,1,Do it myself,Digicare,Assisted digital,No,Yes,4,screen share,Non-digital,Libraries Connected
+Cust410,23/09/2024,Phone,2,Do it myself,Self help,Assisted digital,Yes,No,4,Other,Non-digital,Campaign
+Cust411,24/09/2024,Webchat,4,Do it myself,Assisted digital,Assisted digital,No,No,2,screen share,Digital,Digicare
+Cust412,25/09/2024,Phone,1,Refer to Digicare,Digicare,Assisted digital,No,No,1,no deflection,Non-digital,Libraries Connected
+Cust413,26/09/2024,Phone,2,Do it with me,Self help,Self help,Yes,No,4,Other,Digital,Book
+Cust414,27/09/2024,Webchat,1,Do it with me,Assisted digital,Self help,No,No,4,screen share,Digital,Libraries Connected
+Cust415,28/09/2024,Webchat,2,Do it with me,Digicare,Self help,Yes,No,2,screen share,Digital,Book
+Cust416,29/09/2024,Phone,3,Do it with me,Self help,Self help,No,No,1,screen share,Digital,Book
+Cust417,30/09/2024,Phone,4,Do it with me,Assisted digital,Self help,Yes,No,1,screen share,Digital,Libraries Connected
+Cust418,01/10/2024,Phone,4,Do it with me,Digicare,Digicare,No,No,1,screen share,Digital,Book
+Cust419,02/10/2024,Webchat,1,Do it with me,Self help,Libraries Connected,Yes,No,2,screen share,Digital,Campaign
+Cust420,03/10/2024,Webchat,1,Do it myself,Assisted digital,Digicare,Yes,Yes,2,self help resources,Non-digital,Book
+Cust421,04/10/2024,Webchat,1,Do it myself,Digicare,Self help,Yes,No,1,screen share,Non-digital,Book
+Cust422,05/10/2024,Webchat,4,Do it myself,Self help,Assisted digital,No,No,3,no deflection,Non-digital,Campaign
+Cust423,06/10/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,No,No,2,no deflection,Digital,Digicare
+Cust424,07/10/2024,Webchat,2,Do it myself,Digicare,Digicare,No,No,4,no deflection,Non-digital,Campaign
+Cust425,08/10/2024,Phone,2,Do it myself,Self help,Digicare,No,No,3,Other,Non-digital,Digicare
+Cust426,09/10/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,No,No,4,no deflection,Digital,Book
+Cust427,10/10/2024,Phone,2,Do it myself,Digicare,Digicare,No,No,1,no deflection,Non-digital,Digicare
+Cust428,11/10/2024,Phone,2,Do it with me,Self help,Libraries Connected,Yes,No,5,screen share,Non-digital,Campaign
+Cust429,12/10/2024,Phone,3,Do it with me,Assisted digital,Self help,Yes,No,2,screen share,Non-digital,Book
+Cust430,13/10/2024,Phone,2,Do it myself,Digicare,Libraries Connected,No,No,4,Other,Non-digital,Libraries Connected
+Cust431,14/10/2024,Webchat,4,Do it myself,Self help,Assisted digital,Yes,Yes,3,no deflection,Digital,Book
+Cust432,15/10/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,No,Yes,2,screen share,Non-digital,Campaign
+Cust433,16/10/2024,Phone,4,Do it myself,Digicare,Digicare,Yes,No,5,screen share,Non-digital,Libraries Connected
+Cust434,17/10/2024,Phone,3,Do it myself,Self help,Assisted digital,No,No,4,Other,Digital,Book
+Cust435,18/10/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,No,No,4,screen share,Non-digital,Campaign
+Cust436,19/10/2024,Phone,3,Do it with me,Digicare,Libraries Connected,No,No,2,Other,Non-digital,Digicare
+Cust437,20/10/2024,Phone,3,Do it myself,Self help,Digicare,Yes,Yes,2,Other,Non-digital,Libraries Connected
+Cust438,21/10/2024,Webchat,3,Do it myself,Assisted digital,Libraries Connected,No,No,2,Other,Non-digital,Book
+Cust439,22/10/2024,Webchat,4,Refer to Digicare,Digicare,Assisted digital,Yes,No,2,no deflection,Digital,Digicare
+Cust440,23/10/2024,Webchat,3,Do it with me,Self help,Digicare,No,Yes,2,no deflection,Non-digital,Libraries Connected
+Cust441,24/10/2024,Phone,1,Do it myself,Assisted digital,Self help,Yes,Yes,4,no deflection,Digital,Digicare
+Cust442,25/10/2024,Webchat,1,Do it with me,Digicare,Self help,No,No,1,self help resources,Digital,Campaign
+Cust443,26/10/2024,Phone,3,Do it myself,Self help,Digicare,Yes,No,5,screen share,Non-digital,Libraries Connected
+Cust444,27/10/2024,Phone,1,Do it myself,Assisted digital,Digicare,Yes,No,4,Other,Non-digital,Libraries Connected
+Cust445,28/10/2024,Webchat,2,Do it myself,Digicare,Libraries Connected,No,No,3,no deflection,Non-digital,Libraries Connected
+Cust446,29/10/2024,Webchat,4,Do it with me,Self help,Libraries Connected,No,No,1,Other,Non-digital,Campaign
+Cust447,30/10/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,Yes,No,3,no deflection,Digital,Book
+Cust448,31/10/2024,Phone,1,Do it myself,Digicare,Self help,Yes,No,4,self help resources,Non-digital,Book
+Cust449,01/11/2024,Phone,4,Do it myself,Self help,Libraries Connected,Yes,No,5,Other,Non-digital,Digicare
+Cust450,02/11/2024,Phone,1,Do it with me,Assisted digital,Digicare,Yes,No,2,screen share,Non-digital,Book
+Cust451,03/11/2024,Webchat,4,Do it myself,Digicare,Assisted digital,No,No,3,Other,Non-digital,Campaign
+Cust452,04/11/2024,Phone,1,Do it with me,Self help,Assisted digital,No,No,4,Other,Non-digital,Book
+Cust453,05/11/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,Yes,No,2,no deflection,Non-digital,Digicare
+Cust454,06/11/2024,Webchat,1,Do it with me,Digicare,Assisted digital,No,Yes,2,no deflection,Digital,Book
+Cust455,07/11/2024,Phone,1,Do it with me,Self help,Assisted digital,No,No,2,no deflection,Non-digital,Campaign
+Cust456,08/11/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,Yes,No,2,screen share,Digital,Campaign
+Cust457,09/11/2024,Webchat,1,Do it myself,Digicare,Self help,Yes,No,4,no deflection,Non-digital,Digicare
+Cust458,10/11/2024,Phone,1,Do it myself,Self help,Libraries Connected,No,No,2,no deflection,Non-digital,Campaign
+Cust459,11/11/2024,Phone,2,Do it with me,Assisted digital,Self help,Yes,No,5,Other,Digital,Book
+Cust460,12/11/2024,Webchat,2,Do it with me,Digicare,Assisted digital,No,No,4,no deflection,Non-digital,Book
+Cust461,13/11/2024,Phone,3,Do it myself,Self help,Digicare,Yes,No,4,no deflection,Digital,Campaign
+Cust462,14/11/2024,Phone,1,Do it with me,Assisted digital,Digicare,No,No,5,no deflection,Non-digital,Digicare
+Cust463,15/11/2024,Phone,1,Do it with me,Digicare,Self help,Yes,No,3,self help resources,Digital,Campaign
+Cust464,16/11/2024,Webchat,1,Do it with me,Self help,Self help,Yes,Yes,4,screen share,Digital,Campaign
+Cust465,17/11/2024,Phone,4,Do it myself,Assisted digital,Assisted digital,No,No,2,no deflection,Digital,Book
+Cust466,18/11/2024,Phone,4,Refer to Digicare,Digicare,Self help,Yes,No,5,no deflection,Digital,Campaign
+Cust467,19/11/2024,Phone,2,Do it myself,Self help,Digicare,No,No,5,no deflection,Digital,Campaign
+Cust468,20/11/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,Yes,No,3,screen share,Non-digital,Libraries Connected
+Cust469,21/11/2024,Phone,1,Do it myself,Digicare,Assisted digital,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust470,22/11/2024,Phone,3,Do it with me,Self help,Self help,Yes,No,2,no deflection,Non-digital,Book
+Cust471,23/11/2024,Phone,3,Refer to Digicare,Assisted digital,Libraries Connected,No,No,4,no deflection,Digital,Digicare
+Cust472,24/11/2024,Webchat,4,Do it myself,Digicare,Self help,No,No,3,no deflection,Non-digital,Digicare
+Cust473,25/11/2024,Phone,3,Do it with me,Self help,Assisted digital,Yes,No,5,Other,Non-digital,Libraries Connected
+Cust474,26/11/2024,Phone,1,Do it myself,Assisted digital,Assisted digital,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust475,27/11/2024,Webchat,4,Do it with me,Digicare,Self help,Yes,No,5,no deflection,Digital,Book
+Cust476,28/11/2024,Phone,3,Do it with me,Self help,Digicare,Yes,No,2,self help resources,Non-digital,Libraries Connected
+Cust477,29/11/2024,Phone,1,Do it with me,Assisted digital,Self help,Yes,No,1,no deflection,Non-digital,Digicare
+Cust478,30/11/2024,Phone,3,Do it with me,Digicare,Libraries Connected,Yes,No,3,Other,Digital,Digicare
+Cust479,01/12/2024,Phone,4,Do it myself,Self help,Libraries Connected,No,No,5,no deflection,Digital,Campaign
+Cust480,02/12/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,No,No,5,screen share,Digital,Libraries Connected
+Cust481,03/12/2024,Phone,4,Do it with me,Digicare,Digicare,No,No,4,Other,Digital,Digicare
+Cust482,04/12/2024,Webchat,4,Do it with me,Self help,Digicare,Yes,No,5,Other,Digital,Campaign
+Cust483,05/12/2024,Phone,1,Do it myself,Assisted digital,Libraries Connected,No,No,4,no deflection,Digital,Campaign
+Cust484,06/12/2024,Webchat,4,Do it myself,Digicare,Libraries Connected,Yes,No,4,no deflection,Digital,Campaign
+Cust485,07/12/2024,Phone,2,Do it myself,Self help,Assisted digital,Yes,No,5,screen share,Digital,Digicare
+Cust486,08/12/2024,Phone,4,Refer to Digicare,Assisted digital,Assisted digital,Yes,No,3,no deflection,Digital,Digicare
+Cust487,09/12/2024,Phone,4,Do it with me,Digicare,Digicare,No,No,5,no deflection,Non-digital,Book
+Cust488,10/12/2024,Phone,2,Do it with me,Self help,Assisted digital,Yes,No,2,no deflection,Digital,Book
+Cust489,11/12/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,Yes,No,4,Other,Non-digital,Book
+Cust490,12/12/2024,Phone,2,Do it with me,Digicare,Digicare,No,No,3,Other,Non-digital,Libraries Connected
+Cust491,13/12/2024,Webchat,3,Do it myself,Self help,Libraries Connected,No,No,5,no deflection,Digital,Digicare
+Cust492,14/12/2024,Phone,1,Do it with me,Assisted digital,Self help,Yes,No,5,self help resources,Non-digital,Digicare
+Cust493,15/12/2024,Phone,4,Do it myself,Digicare,Digicare,No,No,1,self help resources,Digital,Digicare
+Cust494,16/12/2024,Phone,4,Do it myself,Self help,Self help,No,No,4,no deflection,Digital,Book
+Cust495,17/12/2024,Webchat,2,Do it myself,Assisted digital,Self help,Yes,No,3,no deflection,Non-digital,Digicare
+Cust496,18/12/2024,Phone,4,Do it with me,Digicare,Digicare,No,No,3,no deflection,Non-digital,Campaign
+Cust497,19/12/2024,Phone,3,Do it with me,Self help,Digicare,No,Yes,2,no deflection,Digital,Digicare
+Cust498,20/12/2024,Webchat,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,4,self help resources,Non-digital,Libraries Connected
+Cust499,21/12/2024,Phone,2,Do it with me,Digicare,Self help,No,Yes,5,no deflection,Non-digital,Book
+Cust500,22/12/2024,Phone,1,Do it myself,Self help,Libraries Connected,Yes,No,3,no deflection,Digital,Campaign
+Cust001,23/12/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,No,No,1,no deflection,Digital,Digicare
+Cust002,24/12/2024,Phone,3,Do it myself,Digicare,Assisted digital,Yes,No,2,Other,Non-digital,Libraries Connected
+Cust003,25/12/2024,Phone,1,Do it with me,Self help,Digicare,No,No,2,self help resources,Digital,Digicare
+Cust004,26/12/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,Yes,No,5,no deflection,Digital,Libraries Connected
+Cust005,27/12/2024,Webchat,1,Do it with me,Digicare,Self help,Yes,No,5,no deflection,Non-digital,Book
+Cust006,28/12/2024,Phone,3,Do it myself,Self help,Assisted digital,No,No,4,screen share,Digital,Campaign
+Cust007,29/12/2024,Phone,3,Do it with me,Assisted digital,Self help,No,No,3,screen share,Non-digital,Campaign
+Cust008,30/12/2024,Phone,1,Do it myself,Digicare,Digicare,No,No,2,no deflection,Non-digital,Book
+Cust009,31/12/2024,Phone,2,Do it with me,Self help,Self help,No,No,1,self help resources,Non-digital,Digicare
+Cust010,10/01/2024,Phone,1,Do it myself,Assisted digital,Digicare,Yes,No,3,no deflection,Digital,Digicare
+Cust011,11/01/2024,Webchat,3,Do it myself,Digicare,Self help,Yes,No,1,no deflection,Non-digital,Digicare
+Cust012,12/01/2024,Phone,3,Do it myself,Self help,Self help,No,No,3,Other,Non-digital,Campaign
+Cust013,13/01/2024,Phone,1,Do it with me,Assisted digital,Digicare,No,No,4,screen share,Non-digital,Libraries Connected
+Cust014,14/01/2024,Phone,3,Do it myself,Digicare,Self help,No,No,4,self help resources,Digital,Digicare
+Cust015,15/01/2024,Webchat,3,Do it myself,Self help,Assisted digital,Yes,No,1,self help resources,Non-digital,Book
+Cust016,16/01/2024,Phone,1,Do it myself,Assisted digital,Libraries Connected,Yes,No,3,screen share,Digital,Digicare
+Cust017,17/01/2024,Webchat,4,Do it with me,Digicare,Self help,Yes,No,4,Other,Digital,Digicare
+Cust018,18/01/2024,Phone,1,Do it with me,Self help,Libraries Connected,Yes,No,1,self help resources,Digital,Book
+Cust019,19/01/2024,Phone,4,Do it myself,Assisted digital,Libraries Connected,No,No,5,no deflection,Digital,Book
+Cust020,20/01/2024,Webchat,3,Do it with me,Digicare,Self help,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust021,21/01/2024,Phone,4,Do it with me,Self help,Assisted digital,No,Yes,4,no deflection,Digital,Book
+Cust022,22/01/2024,Webchat,1,Do it myself,Assisted digital,Self help,No,No,4,no deflection,Digital,Libraries Connected
+Cust023,23/01/2024,Phone,3,Do it with me,Digicare,Self help,Yes,No,4,screen share,Digital,Digicare
+Cust024,24/01/2024,Phone,2,Refer to Digicare,Self help,Assisted digital,Yes,No,1,no deflection,Non-digital,Libraries Connected
+Cust025,25/01/2024,Webchat,2,Do it with me,Assisted digital,Digicare,No,No,2,no deflection,Digital,Digicare
+Cust026,26/01/2024,Phone,1,Do it with me,Digicare,Digicare,No,Yes,2,Other,Non-digital,Digicare
+Cust027,27/01/2024,Phone,2,Do it with me,Self help,Digicare,No,No,2,no deflection,Digital,Libraries Connected
+Cust028,28/01/2024,Phone,4,Do it myself,Assisted digital,Digicare,Yes,Yes,5,self help resources,Non-digital,Digicare
+Cust029,29/01/2024,Webchat,4,Do it myself,Digicare,Digicare,No,No,5,no deflection,Non-digital,Book
+Cust030,30/01/2024,Phone,4,Do it myself,Self help,Libraries Connected,No,No,2,screen share,Non-digital,Digicare
+Cust031,31/01/2024,Phone,1,Do it myself,Assisted digital,Digicare,Yes,Yes,2,self help resources,Digital,Book
+Cust032,01/02/2024,Phone,3,Do it with me,Digicare,Self help,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust033,02/02/2024,Phone,4,Do it myself,Self help,Libraries Connected,Yes,No,3,screen share,Non-digital,Book
+Cust034,03/02/2024,Phone,4,Do it myself,Assisted digital,Assisted digital,No,No,3,no deflection,Digital,Digicare
+Cust035,04/02/2024,Webchat,3,Do it myself,Digicare,Libraries Connected,No,No,2,no deflection,Digital,Digicare
+Cust036,05/02/2024,Phone,3,Do it with me,Self help,Self help,Yes,No,2,no deflection,Digital,Campaign
+Cust037,06/02/2024,Webchat,1,Refer to Digicare,Assisted digital,Digicare,Yes,No,3,no deflection,Digital,Book
+Cust038,07/02/2024,Webchat,4,Do it with me,Digicare,Digicare,Yes,No,5,screen share,Non-digital,Campaign
+Cust039,08/02/2024,Webchat,3,Do it with me,Self help,Assisted digital,No,No,4,screen share,Digital,Book
+Cust040,09/02/2024,Phone,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,2,screen share,Non-digital,Libraries Connected
+Cust041,10/02/2024,Webchat,1,Do it with me,Digicare,Assisted digital,Yes,No,3,screen share,Digital,Digicare
+Cust042,11/02/2024,Phone,1,Do it myself,Self help,Assisted digital,Yes,No,4,Other,Non-digital,Libraries Connected
+Cust043,12/02/2024,Webchat,1,Do it myself,Assisted digital,Libraries Connected,Yes,No,4,Other,Non-digital,Book
+Cust044,13/02/2024,Phone,3,Do it with me,Digicare,Assisted digital,No,No,2,no deflection,Digital,Campaign
+Cust045,14/02/2024,Phone,3,Do it myself,Self help,Assisted digital,Yes,No,1,no deflection,Digital,Campaign
+Cust046,15/02/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,screen share,Non-digital,Digicare
+Cust047,16/02/2024,Webchat,4,Do it myself,Digicare,Digicare,No,No,5,no deflection,Non-digital,Campaign
+Cust048,17/02/2024,Phone,1,Do it myself,Self help,Self help,Yes,Yes,2,screen share,Digital,Digicare
+Cust049,18/02/2024,Phone,3,Refer to Digicare,Assisted digital,Digicare,Yes,No,3,Other,Digital,Campaign
+Cust050,19/02/2024,Phone,2,Do it myself,Digicare,Libraries Connected,Yes,No,2,no deflection,Digital,Digicare
+Cust051,20/02/2024,Phone,3,Do it myself,Self help,Libraries Connected,No,No,2,screen share,Digital,Libraries Connected
+Cust052,21/02/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,Yes,No,2,no deflection,Digital,Digicare
+Cust053,22/02/2024,Phone,4,Do it myself,Digicare,Digicare,Yes,No,5,screen share,Digital,Digicare
+Cust054,23/02/2024,Phone,1,Do it myself,Self help,Digicare,Yes,No,5,no deflection,Digital,Campaign
+Cust055,24/02/2024,Webchat,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,1,no deflection,Non-digital,Libraries Connected
+Cust056,25/02/2024,Webchat,4,Do it with me,Digicare,Assisted digital,Yes,No,1,Other,Digital,Libraries Connected
+Cust057,26/02/2024,Webchat,1,Do it with me,Self help,Digicare,No,No,5,self help resources,Non-digital,Digicare
+Cust058,27/02/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,No,No,5,no deflection,Digital,Book
+Cust059,28/02/2024,Phone,3,Refer to Digicare,Digicare,Digicare,No,No,1,screen share,Non-digital,Libraries Connected
+Cust060,29/02/2024,Phone,3,Do it myself,Self help,Assisted digital,Yes,No,5,screen share,Non-digital,Digicare
+Cust061,01/03/2024,Webchat,2,Do it with me,Assisted digital,Self help,Yes,Yes,3,screen share,Digital,Book
+Cust062,02/03/2024,Phone,1,Do it myself,Digicare,Assisted digital,Yes,No,5,no deflection,Digital,Digicare
+Cust063,03/03/2024,Phone,4,Do it with me,Self help,Digicare,Yes,No,1,screen share,Non-digital,Libraries Connected
+Cust064,04/03/2024,Phone,3,Do it myself,Assisted digital,Digicare,Yes,No,3,Other,Digital,Libraries Connected
+Cust065,05/03/2024,Phone,1,Refer to Digicare,Digicare,Assisted digital,No,No,4,screen share,Digital,Libraries Connected
+Cust066,06/03/2024,Phone,3,Do it with me,Self help,Digicare,Yes,No,1,Other,Digital,Campaign
+Cust067,07/03/2024,Phone,1,Do it myself,Assisted digital,Digicare,Yes,No,4,screen share,Digital,Book
+Cust068,08/03/2024,Webchat,1,Do it with me,Digicare,Libraries Connected,No,No,3,screen share,Digital,Libraries Connected
+Cust069,09/03/2024,Webchat,3,Do it with me,Self help,Assisted digital,No,No,3,no deflection,Digital,Book
+Cust070,10/03/2024,Webchat,3,Do it myself,Assisted digital,Self help,Yes,No,1,Other,Non-digital,Campaign
+Cust071,11/03/2024,Webchat,1,Do it myself,Digicare,Assisted digital,Yes,No,5,no deflection,Digital,Book
+Cust072,12/03/2024,Phone,4,Do it with me,Self help,Libraries Connected,Yes,No,5,screen share,Non-digital,Digicare
+Cust073,13/03/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,No,No,5,screen share,Digital,Libraries Connected
+Cust074,14/03/2024,Phone,2,Do it myself,Digicare,Assisted digital,No,No,1,self help resources,Non-digital,Digicare
+Cust075,15/03/2024,Phone,1,Do it myself,Self help,Assisted digital,No,No,3,no deflection,Digital,Libraries Connected
+Cust076,16/03/2024,Phone,1,Do it myself,Assisted digital,Self help,No,No,3,Other,Non-digital,Digicare
+Cust077,17/03/2024,Phone,3,Do it with me,Digicare,Self help,Yes,No,3,screen share,Non-digital,Book
+Cust078,18/03/2024,Phone,2,Do it myself,Self help,Assisted digital,Yes,No,5,self help resources,Digital,Libraries Connected
+Cust079,19/03/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,screen share,Non-digital,Digicare
+Cust080,20/03/2024,Phone,1,Do it with me,Digicare,Libraries Connected,Yes,Yes,5,no deflection,Non-digital,Digicare
+Cust081,21/03/2024,Webchat,1,Do it with me,Self help,Self help,Yes,No,3,screen share,Digital,Digicare
+Cust082,22/03/2024,Phone,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,3,no deflection,Non-digital,Book
+Cust083,23/03/2024,Phone,3,Do it with me,Digicare,Self help,No,No,3,Other,Digital,Campaign
+Cust084,24/03/2024,Phone,2,Refer to Digicare,Self help,Libraries Connected,Yes,No,3,no deflection,Non-digital,Campaign
+Cust085,25/03/2024,Phone,1,Refer to Digicare,Assisted digital,Self help,Yes,No,4,screen share,Non-digital,Campaign
+Cust086,26/03/2024,Webchat,1,Do it myself,Digicare,Libraries Connected,No,No,1,no deflection,Non-digital,Libraries Connected
+Cust087,27/03/2024,Phone,1,Do it myself,Self help,Libraries Connected,Yes,No,3,no deflection,Digital,Digicare
+Cust088,28/03/2024,Phone,4,Do it with me,Assisted digital,Assisted digital,Yes,No,3,no deflection,Non-digital,Campaign
+Cust089,29/03/2024,Phone,4,Do it myself,Digicare,Self help,Yes,No,2,self help resources,Digital,Campaign
+Cust090,30/03/2024,Webchat,3,Do it myself,Self help,Libraries Connected,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust091,31/03/2024,Webchat,2,Do it myself,Assisted digital,Self help,Yes,No,2,no deflection,Digital,Campaign
+Cust092,01/04/2024,Webchat,1,Do it with me,Digicare,Digicare,No,No,5,Other,Digital,Campaign
+Cust093,02/04/2024,Phone,1,Do it with me,Self help,Libraries Connected,No,No,5,self help resources,Digital,Campaign
+Cust094,03/04/2024,Webchat,3,Do it myself,Assisted digital,Assisted digital,Yes,Yes,1,no deflection,Non-digital,Libraries Connected
+Cust095,04/04/2024,Phone,4,Do it with me,Digicare,Assisted digital,No,No,2,screen share,Digital,Book
+Cust096,05/04/2024,Webchat,1,Do it with me,Self help,Self help,No,No,2,Other,Non-digital,Libraries Connected
+Cust097,06/04/2024,Webchat,1,Do it myself,Assisted digital,Digicare,No,No,3,no deflection,Digital,Book
+Cust098,07/04/2024,Webchat,2,Do it myself,Digicare,Assisted digital,No,No,4,no deflection,Non-digital,Book
+Cust099,08/04/2024,Phone,3,Do it with me,Self help,Self help,Yes,Yes,3,no deflection,Non-digital,Libraries Connected
+Cust100,09/04/2024,Webchat,4,Do it myself,Assisted digital,Libraries Connected,No,No,2,no deflection,Digital,Libraries Connected
+Cust101,10/04/2024,Phone,1,Refer to Digicare,Digicare,Self help,No,No,5,Other,Digital,Campaign
+Cust102,11/04/2024,Phone,4,Do it myself,Self help,Digicare,Yes,No,4,self help resources,Digital,Campaign
+Cust103,12/04/2024,Phone,3,Do it with me,Assisted digital,Digicare,Yes,Yes,5,screen share,Digital,Digicare
+Cust104,13/04/2024,Phone,4,Do it myself,Digicare,Libraries Connected,Yes,No,5,no deflection,Non-digital,Digicare
+Cust105,14/04/2024,Webchat,1,Do it myself,Self help,Assisted digital,No,No,2,Other,Non-digital,Libraries Connected
+Cust106,15/04/2024,Webchat,1,Refer to Digicare,Assisted digital,Assisted digital,Yes,Yes,3,screen share,Digital,Book
+Cust107,16/04/2024,Webchat,2,Do it with me,Digicare,Self help,No,No,5,screen share,Non-digital,Book
+Cust108,17/04/2024,Phone,1,Do it with me,Self help,Assisted digital,Yes,No,2,no deflection,Non-digital,Digicare
+Cust109,18/04/2024,Phone,1,Do it myself,Assisted digital,Self help,No,No,1,self help resources,Non-digital,Campaign
+Cust110,19/04/2024,Phone,4,Do it myself,Digicare,Self help,No,No,5,no deflection,Non-digital,Digicare
+Cust111,20/04/2024,Phone,3,Do it with me,Self help,Libraries Connected,No,No,5,no deflection,Non-digital,Book
+Cust112,21/04/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,No,No,1,no deflection,Non-digital,Book
+Cust113,22/04/2024,Webchat,2,Do it with me,Digicare,Digicare,Yes,No,2,screen share,Digital,Book
+Cust114,23/04/2024,Phone,2,Do it myself,Self help,Digicare,No,No,2,screen share,Non-digital,Campaign
+Cust115,24/04/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,No,No,1,screen share,Non-digital,Campaign
+Cust116,25/04/2024,Webchat,2,Do it with me,Digicare,Digicare,No,No,2,no deflection,Digital,Campaign
+Cust117,26/04/2024,Phone,3,Do it with me,Self help,Libraries Connected,No,No,5,no deflection,Non-digital,Book
+Cust118,27/04/2024,Webchat,4,Do it myself,Assisted digital,Digicare,Yes,No,4,no deflection,Digital,Libraries Connected
+Cust119,28/04/2024,Phone,1,Do it with me,Digicare,Self help,No,No,2,self help resources,Non-digital,Libraries Connected
+Cust120,29/04/2024,Phone,1,Refer to Digicare,Self help,Self help,Yes,No,4,Other,Non-digital,Digicare
+Cust121,30/04/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,No,No,1,no deflection,Non-digital,Campaign
+Cust122,01/05/2024,Webchat,1,Refer to Digicare,Digicare,Assisted digital,No,No,4,Other,Digital,Digicare
+Cust123,02/05/2024,Phone,1,Do it myself,Self help,Self help,Yes,No,1,Other,Non-digital,Campaign
+Cust124,03/05/2024,Phone,4,Do it with me,Assisted digital,Self help,No,No,3,no deflection,Digital,Libraries Connected
+Cust125,04/05/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,No,3,Other,Digital,Libraries Connected
+Cust126,05/05/2024,Phone,1,Do it myself,Self help,Digicare,No,No,5,no deflection,Digital,Book
+Cust127,06/05/2024,Webchat,4,Do it with me,Assisted digital,Digicare,Yes,No,3,screen share,Digital,Campaign
+Cust128,07/05/2024,Phone,2,Do it myself,Digicare,Digicare,Yes,No,4,no deflection,Non-digital,Book
+Cust129,08/05/2024,Phone,4,Do it myself,Self help,Assisted digital,No,No,2,Other,Digital,Libraries Connected
+Cust130,09/05/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,No,No,4,Other,Non-digital,Campaign
+Cust131,10/05/2024,Webchat,2,Do it myself,Digicare,Libraries Connected,Yes,No,1,no deflection,Digital,Campaign
+Cust132,11/05/2024,Webchat,2,Do it myself,Self help,Assisted digital,Yes,No,2,no deflection,Non-digital,Campaign
+Cust133,12/05/2024,Phone,1,Do it myself,Assisted digital,Assisted digital,Yes,No,4,no deflection,Digital,Libraries Connected
+Cust134,13/05/2024,Phone,1,Refer to Digicare,Digicare,Libraries Connected,No,No,4,self help resources,Non-digital,Book
+Cust135,14/05/2024,Phone,1,Do it myself,Self help,Assisted digital,No,No,1,no deflection,Digital,Digicare
+Cust136,15/05/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,Yes,No,5,screen share,Digital,Digicare
+Cust137,16/05/2024,Phone,3,Do it myself,Digicare,Assisted digital,Yes,No,4,self help resources,Digital,Libraries Connected
+Cust138,17/05/2024,Phone,2,Do it with me,Self help,Assisted digital,Yes,No,5,Other,Non-digital,Libraries Connected
+Cust139,18/05/2024,Phone,4,Do it with me,Assisted digital,Self help,Yes,Yes,5,screen share,Non-digital,Libraries Connected
+Cust140,19/05/2024,Phone,1,Do it with me,Digicare,Libraries Connected,No,No,4,self help resources,Digital,Book
+Cust141,20/05/2024,Phone,3,Do it myself,Self help,Libraries Connected,Yes,No,2,screen share,Non-digital,Campaign
+Cust142,21/05/2024,Webchat,3,Do it myself,Assisted digital,Libraries Connected,Yes,No,2,screen share,Non-digital,Libraries Connected
+Cust143,22/05/2024,Phone,3,Do it myself,Digicare,Assisted digital,Yes,No,4,screen share,Digital,Digicare
+Cust144,23/05/2024,Phone,2,Do it myself,Self help,Digicare,Yes,No,5,screen share,Digital,Campaign
+Cust145,24/05/2024,Webchat,2,Do it myself,Assisted digital,Digicare,No,No,2,screen share,Digital,Digicare
+Cust146,25/05/2024,Phone,2,Do it myself,Digicare,Digicare,No,No,4,screen share,Digital,Book
+Cust147,26/05/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,4,no deflection,Digital,Libraries Connected
+Cust148,27/05/2024,Phone,1,Do it with me,Assisted digital,Digicare,No,Yes,2,no deflection,Digital,Book
+Cust149,28/05/2024,Phone,3,Refer to Digicare,Digicare,Self help,No,No,2,screen share,Non-digital,Book
+Cust150,29/05/2024,Webchat,4,Do it with me,Self help,Digicare,Yes,No,4,no deflection,Non-digital,Book
+Cust151,30/05/2024,Webchat,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,no deflection,Digital,Book
+Cust152,31/05/2024,Webchat,2,Do it with me,Digicare,Digicare,Yes,No,4,no deflection,Non-digital,Digicare
+Cust153,01/06/2024,Phone,2,Do it with me,Self help,Self help,No,No,5,Other,Non-digital,Book
+Cust154,02/06/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,screen share,Non-digital,Campaign
+Cust155,03/06/2024,Webchat,1,Do it myself,Digicare,Libraries Connected,Yes,No,4,screen share,Non-digital,Campaign
+Cust156,04/06/2024,Phone,4,Do it with me,Self help,Digicare,No,No,4,self help resources,Non-digital,Digicare
+Cust157,05/06/2024,Webchat,3,Do it with me,Assisted digital,Self help,No,No,2,Other,Digital,Digicare
+Cust158,06/06/2024,Phone,2,Do it with me,Digicare,Libraries Connected,No,Yes,2,screen share,Non-digital,Campaign
+Cust159,07/06/2024,Phone,3,Do it with me,Self help,Digicare,Yes,No,5,no deflection,Digital,Libraries Connected
+Cust160,08/06/2024,Phone,1,Do it with me,Assisted digital,Digicare,Yes,No,3,screen share,Non-digital,Book
+Cust161,09/06/2024,Phone,4,Do it myself,Digicare,Libraries Connected,No,No,4,no deflection,Non-digital,Book
+Cust162,10/06/2024,Phone,2,Refer to Digicare,Self help,Libraries Connected,Yes,No,1,self help resources,Digital,Book
+Cust163,11/06/2024,Phone,1,Do it myself,Assisted digital,Libraries Connected,No,Yes,5,self help resources,Digital,Libraries Connected
+Cust164,12/06/2024,Phone,4,Do it with me,Digicare,Self help,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust165,13/06/2024,Phone,4,Do it myself,Self help,Assisted digital,No,No,5,no deflection,Non-digital,Digicare
+Cust166,14/06/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,No,No,2,self help resources,Digital,Libraries Connected
+Cust167,15/06/2024,Webchat,3,Refer to Digicare,Digicare,Assisted digital,Yes,No,3,screen share,Non-digital,Libraries Connected
+Cust168,16/06/2024,Phone,1,Do it myself,Self help,Assisted digital,Yes,No,5,screen share,Non-digital,Digicare
+Cust169,17/06/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,Yes,No,1,screen share,Digital,Libraries Connected
+Cust170,18/06/2024,Webchat,3,Do it with me,Digicare,Libraries Connected,No,No,3,Other,Digital,Campaign
+Cust171,19/06/2024,Phone,4,Do it myself,Self help,Digicare,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust172,20/06/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,screen share,Digital,Book
+Cust173,21/06/2024,Webchat,2,Do it myself,Digicare,Digicare,Yes,No,5,screen share,Non-digital,Libraries Connected
+Cust174,22/06/2024,Phone,2,Do it myself,Self help,Self help,Yes,No,3,Other,Digital,Digicare
+Cust175,23/06/2024,Phone,3,Do it myself,Assisted digital,Self help,No,No,4,Other,Non-digital,Campaign
+Cust176,24/06/2024,Webchat,3,Refer to Digicare,Digicare,Self help,No,No,4,screen share,Digital,Book
+Cust177,25/06/2024,Webchat,2,Do it myself,Self help,Self help,Yes,No,5,screen share,Non-digital,Digicare
+Cust178,26/06/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust179,27/06/2024,Phone,1,Do it with me,Digicare,Digicare,Yes,No,5,no deflection,Non-digital,Campaign
+Cust180,28/06/2024,Webchat,4,Do it with me,Self help,Assisted digital,Yes,No,5,self help resources,Digital,Book
+Cust181,29/06/2024,Phone,4,Do it myself,Assisted digital,Digicare,Yes,No,2,no deflection,Non-digital,Book
+Cust182,30/06/2024,Webchat,2,Do it with me,Digicare,Libraries Connected,Yes,No,5,no deflection,Non-digital,Digicare
+Cust183,01/07/2024,Phone,2,Do it myself,Self help,Digicare,No,No,2,Other,Non-digital,Book
+Cust184,02/07/2024,Phone,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,1,self help resources,Non-digital,Libraries Connected
+Cust185,03/07/2024,Webchat,1,Do it with me,Digicare,Digicare,Yes,No,1,screen share,Non-digital,Book
+Cust186,04/07/2024,Webchat,2,Refer to Digicare,Self help,Self help,Yes,Yes,2,screen share,Non-digital,Book
+Cust187,05/07/2024,Phone,4,Refer to Digicare,Assisted digital,Assisted digital,No,No,1,Other,Digital,Libraries Connected
+Cust188,06/07/2024,Webchat,2,Do it with me,Digicare,Self help,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust189,07/07/2024,Webchat,4,Refer to Digicare,Self help,Self help,No,No,3,screen share,Digital,Campaign
+Cust190,08/07/2024,Phone,3,Refer to Digicare,Assisted digital,Libraries Connected,No,No,3,no deflection,Non-digital,Campaign
+Cust191,09/07/2024,Phone,4,Do it myself,Digicare,Libraries Connected,Yes,No,1,self help resources,Digital,Libraries Connected
+Cust192,10/07/2024,Phone,4,Do it with me,Self help,Assisted digital,No,No,4,Other,Digital,Digicare
+Cust193,11/07/2024,Phone,2,Do it with me,Assisted digital,Digicare,No,No,1,screen share,Digital,Digicare
+Cust194,12/07/2024,Webchat,2,Do it with me,Digicare,Assisted digital,Yes,No,2,no deflection,Digital,Digicare
+Cust195,13/07/2024,Webchat,1,Do it with me,Self help,Self help,No,Yes,3,no deflection,Non-digital,Book
+Cust196,14/07/2024,Phone,2,Do it with me,Assisted digital,Digicare,No,No,3,screen share,Non-digital,Book
+Cust197,15/07/2024,Phone,1,Do it with me,Digicare,Self help,Yes,No,1,no deflection,Digital,Campaign
+Cust198,16/07/2024,Phone,2,Do it with me,Self help,Digicare,Yes,No,2,screen share,Non-digital,Digicare
+Cust199,17/07/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,No,No,5,no deflection,Non-digital,Book
+Cust200,18/07/2024,Phone,2,Do it with me,Digicare,Digicare,Yes,No,1,Other,Non-digital,Book
+Cust201,19/07/2024,Phone,4,Do it with me,Self help,Assisted digital,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust202,20/07/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,4,no deflection,Non-digital,Book
+Cust203,21/07/2024,Phone,3,Do it with me,Digicare,Libraries Connected,Yes,No,4,screen share,Digital,Libraries Connected
+Cust204,22/07/2024,Phone,3,Do it myself,Self help,Libraries Connected,No,Yes,2,Other,Non-digital,Libraries Connected
+Cust205,23/07/2024,Phone,2,Do it with me,Assisted digital,Digicare,No,No,5,Other,Non-digital,Digicare
+Cust206,24/07/2024,Phone,2,Do it with me,Digicare,Assisted digital,No,No,3,screen share,Non-digital,Digicare
+Cust207,25/07/2024,Webchat,3,Do it myself,Self help,Libraries Connected,No,No,2,no deflection,Digital,Campaign
+Cust208,26/07/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,screen share,Non-digital,Libraries Connected
+Cust209,27/07/2024,Webchat,1,Do it with me,Digicare,Self help,Yes,No,1,no deflection,Digital,Digicare
+Cust210,28/07/2024,Webchat,1,Do it myself,Self help,Self help,Yes,No,5,no deflection,Non-digital,Libraries Connected
+Cust211,29/07/2024,Phone,3,Do it with me,Assisted digital,Self help,Yes,No,1,self help resources,Digital,Book
+Cust212,30/07/2024,Webchat,2,Do it myself,Digicare,Digicare,Yes,No,2,screen share,Digital,Campaign
+Cust213,31/07/2024,Webchat,2,Do it myself,Self help,Digicare,No,No,3,Other,Non-digital,Book
+Cust214,01/08/2024,Phone,4,Do it myself,Assisted digital,Self help,No,No,5,screen share,Non-digital,Campaign
+Cust215,02/08/2024,Phone,2,Refer to Digicare,Digicare,Assisted digital,Yes,No,5,no deflection,Digital,Book
+Cust216,03/08/2024,Phone,2,Do it myself,Self help,Self help,No,No,5,no deflection,Digital,Campaign
+Cust217,04/08/2024,Webchat,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,1,no deflection,Non-digital,Digicare
+Cust218,05/08/2024,Webchat,3,Do it with me,Digicare,Libraries Connected,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust219,06/08/2024,Webchat,3,Do it with me,Self help,Assisted digital,Yes,No,3,no deflection,Non-digital,Campaign
+Cust220,07/08/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,3,no deflection,Non-digital,Libraries Connected
+Cust221,08/08/2024,Webchat,4,Do it with me,Digicare,Libraries Connected,Yes,No,4,Other,Non-digital,Libraries Connected
+Cust222,09/08/2024,Phone,4,Do it with me,Self help,Assisted digital,No,No,1,Other,Non-digital,Campaign
+Cust223,10/08/2024,Phone,1,Do it with me,Assisted digital,Self help,No,No,1,self help resources,Digital,Digicare
+Cust224,11/08/2024,Phone,4,Do it with me,Digicare,Self help,Yes,Yes,3,screen share,Digital,Digicare
+Cust225,12/08/2024,Webchat,1,Do it with me,Self help,Self help,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust226,13/08/2024,Webchat,2,Do it with me,Assisted digital,Self help,Yes,No,4,Other,Non-digital,Campaign
+Cust227,14/08/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,Yes,3,Other,Digital,Digicare
+Cust228,15/08/2024,Phone,2,Do it myself,Self help,Assisted digital,No,Yes,5,no deflection,Digital,Campaign
+Cust229,16/08/2024,Webchat,4,Do it myself,Assisted digital,Libraries Connected,No,No,4,self help resources,Non-digital,Campaign
+Cust230,17/08/2024,Phone,3,Do it with me,Digicare,Libraries Connected,Yes,No,4,no deflection,Digital,Digicare
+Cust231,18/08/2024,Phone,1,Do it with me,Self help,Self help,No,No,3,screen share,Digital,Book
+Cust232,19/08/2024,Phone,4,Do it with me,Assisted digital,Self help,Yes,Yes,2,no deflection,Digital,Campaign
+Cust233,20/08/2024,Phone,2,Do it myself,Digicare,Self help,Yes,No,3,Other,Digital,Libraries Connected
+Cust234,21/08/2024,Phone,2,Refer to Digicare,Self help,Self help,No,Yes,1,no deflection,Digital,Digicare
+Cust235,22/08/2024,Webchat,3,Refer to Digicare,Assisted digital,Self help,Yes,No,3,no deflection,Digital,Book
+Cust236,23/08/2024,Phone,2,Do it with me,Digicare,Libraries Connected,No,No,2,screen share,Digital,Digicare
+Cust237,24/08/2024,Phone,2,Do it with me,Self help,Assisted digital,No,No,1,no deflection,Digital,Digicare
+Cust238,25/08/2024,Webchat,1,Do it with me,Assisted digital,Assisted digital,No,No,1,no deflection,Digital,Book
+Cust239,26/08/2024,Phone,3,Do it with me,Digicare,Self help,No,No,2,screen share,Digital,Digicare
+Cust240,27/08/2024,Phone,2,Do it with me,Self help,Self help,No,No,1,Other,Non-digital,Campaign
+Cust241,28/08/2024,Webchat,3,Do it with me,Assisted digital,Digicare,No,No,3,no deflection,Digital,Libraries Connected
+Cust242,29/08/2024,Phone,2,Do it with me,Digicare,Libraries Connected,Yes,No,2,screen share,Non-digital,Libraries Connected
+Cust243,30/08/2024,Webchat,3,Do it with me,Self help,Self help,Yes,No,2,screen share,Non-digital,Libraries Connected
+Cust244,31/08/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,Yes,No,2,no deflection,Digital,Digicare
+Cust245,01/09/2024,Webchat,3,Do it myself,Digicare,Self help,No,No,5,no deflection,Non-digital,Digicare
+Cust246,02/09/2024,Phone,1,Do it with me,Self help,Assisted digital,Yes,No,5,screen share,Digital,Campaign
+Cust247,03/09/2024,Phone,4,Do it myself,Assisted digital,Assisted digital,Yes,No,5,no deflection,Digital,Campaign
+Cust248,04/09/2024,Webchat,2,Do it myself,Digicare,Digicare,No,No,5,no deflection,Non-digital,Libraries Connected
+Cust249,05/09/2024,Webchat,2,Do it myself,Self help,Libraries Connected,Yes,No,3,no deflection,Non-digital,Libraries Connected
+Cust250,06/09/2024,Phone,1,Do it myself,Assisted digital,Assisted digital,Yes,No,3,Other,Digital,Digicare
+Cust251,07/09/2024,Phone,2,Do it with me,Digicare,Self help,Yes,No,5,no deflection,Digital,Digicare
+Cust252,08/09/2024,Phone,1,Do it myself,Self help,Self help,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust253,09/09/2024,Webchat,1,Do it myself,Assisted digital,Self help,No,Yes,5,screen share,Non-digital,Digicare
+Cust254,10/09/2024,Phone,4,Do it myself,Digicare,Assisted digital,No,No,3,Other,Digital,Digicare
+Cust255,11/09/2024,Webchat,2,Refer to Digicare,Self help,Libraries Connected,Yes,No,3,screen share,Non-digital,Libraries Connected
+Cust256,12/09/2024,Phone,1,Do it myself,Assisted digital,Assisted digital,No,No,2,Other,Non-digital,Book
+Cust257,13/09/2024,Webchat,3,Do it with me,Digicare,Assisted digital,No,No,5,no deflection,Digital,Libraries Connected
+Cust258,14/09/2024,Phone,4,Do it with me,Self help,Assisted digital,No,No,3,Other,Digital,Libraries Connected
+Cust259,15/09/2024,Webchat,3,Do it myself,Assisted digital,Self help,No,No,1,Other,Non-digital,Campaign
+Cust260,16/09/2024,Phone,1,Do it with me,Digicare,Digicare,Yes,No,1,Other,Digital,Digicare
+Cust261,17/09/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,4,screen share,Non-digital,Campaign
+Cust262,18/09/2024,Webchat,2,Do it with me,Assisted digital,Digicare,No,No,5,no deflection,Non-digital,Campaign
+Cust263,19/09/2024,Phone,1,Do it with me,Digicare,Libraries Connected,Yes,No,5,no deflection,Non-digital,Digicare
+Cust264,20/09/2024,Phone,2,Do it with me,Self help,Assisted digital,Yes,No,5,no deflection,Digital,Digicare
+Cust265,21/09/2024,Phone,4,Do it with me,Assisted digital,Assisted digital,Yes,No,1,no deflection,Non-digital,Libraries Connected
+Cust266,22/09/2024,Phone,3,Do it with me,Digicare,Assisted digital,No,No,3,no deflection,Non-digital,Digicare
+Cust267,23/09/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,3,Other,Digital,Book
+Cust268,24/09/2024,Phone,4,Do it myself,Assisted digital,Self help,No,No,5,self help resources,Non-digital,Libraries Connected
+Cust269,25/09/2024,Phone,3,Do it with me,Digicare,Assisted digital,Yes,No,5,self help resources,Digital,Book
+Cust270,26/09/2024,Webchat,3,Do it myself,Self help,Self help,Yes,No,2,no deflection,Digital,Campaign
+Cust271,27/09/2024,Webchat,4,Do it with me,Assisted digital,Libraries Connected,No,No,2,Other,Non-digital,Campaign
+Cust272,28/09/2024,Phone,1,Do it myself,Digicare,Self help,Yes,No,3,Other,Digital,Campaign
+Cust273,29/09/2024,Webchat,1,Do it with me,Self help,Libraries Connected,No,No,5,self help resources,Non-digital,Campaign
+Cust274,30/09/2024,Webchat,3,Do it myself,Assisted digital,Digicare,No,No,5,screen share,Digital,Libraries Connected
+Cust275,01/10/2024,Phone,1,Do it with me,Digicare,Digicare,Yes,No,1,no deflection,Non-digital,Book
+Cust276,02/10/2024,Phone,3,Do it myself,Self help,Libraries Connected,Yes,Yes,2,no deflection,Non-digital,Book
+Cust277,03/10/2024,Phone,3,Do it myself,Assisted digital,Digicare,No,No,2,no deflection,Digital,Digicare
+Cust278,04/10/2024,Phone,1,Do it with me,Digicare,Self help,Yes,No,5,no deflection,Digital,Libraries Connected
+Cust279,05/10/2024,Webchat,4,Do it myself,Self help,Assisted digital,No,No,5,screen share,Digital,Book
+Cust280,06/10/2024,Phone,3,Do it myself,Assisted digital,Self help,Yes,Yes,3,no deflection,Digital,Book
+Cust281,07/10/2024,Phone,3,Do it myself,Digicare,Self help,Yes,Yes,1,Other,Non-digital,Digicare
+Cust282,08/10/2024,Phone,4,Do it with me,Self help,Assisted digital,Yes,No,2,no deflection,Non-digital,Digicare
+Cust283,09/10/2024,Phone,1,Do it myself,Assisted digital,Digicare,No,No,1,screen share,Non-digital,Campaign
+Cust284,10/10/2024,Phone,1,Do it with me,Digicare,Self help,Yes,No,4,no deflection,Digital,Libraries Connected
+Cust285,11/10/2024,Phone,1,Do it with me,Self help,Self help,No,No,2,self help resources,Digital,Campaign
+Cust286,12/10/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,No,No,3,no deflection,Non-digital,Libraries Connected
+Cust287,13/10/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,No,4,no deflection,Non-digital,Book
+Cust288,14/10/2024,Phone,3,Refer to Digicare,Self help,Assisted digital,No,No,1,self help resources,Non-digital,Libraries Connected
+Cust289,15/10/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,No,No,4,no deflection,Non-digital,Libraries Connected
+Cust290,16/10/2024,Phone,3,Do it myself,Digicare,Digicare,No,No,5,screen share,Digital,Libraries Connected
+Cust291,17/10/2024,Phone,3,Do it myself,Self help,Self help,Yes,No,3,Other,Digital,Campaign
+Cust292,18/10/2024,Webchat,2,Do it with me,Assisted digital,Self help,No,No,2,screen share,Non-digital,Campaign
+Cust293,19/10/2024,Phone,3,Do it with me,Digicare,Self help,No,No,2,screen share,Non-digital,Book
+Cust294,20/10/2024,Webchat,1,Do it with me,Self help,Assisted digital,No,No,5,no deflection,Digital,Book
+Cust295,21/10/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,3,no deflection,Non-digital,Digicare
+Cust296,22/10/2024,Phone,1,Do it myself,Digicare,Digicare,Yes,No,5,screen share,Digital,Digicare
+Cust297,23/10/2024,Phone,3,Do it myself,Self help,Assisted digital,Yes,No,4,screen share,Non-digital,Campaign
+Cust298,24/10/2024,Webchat,3,Do it myself,Assisted digital,Libraries Connected,Yes,No,2,self help resources,Digital,Digicare
+Cust299,25/10/2024,Phone,3,Refer to Digicare,Digicare,Self help,No,No,1,Other,Digital,Campaign
+Cust300,26/10/2024,Phone,4,Do it myself,Self help,Self help,Yes,Yes,2,screen share,Digital,Book
+Cust301,27/10/2024,Webchat,4,Do it with me,Assisted digital,Libraries Connected,No,No,3,Other,Non-digital,Campaign
+Cust302,28/10/2024,Phone,3,Do it with me,Digicare,Libraries Connected,No,No,2,no deflection,Digital,Digicare
+Cust303,29/10/2024,Webchat,2,Do it myself,Self help,Self help,No,No,5,Other,Digital,Book
+Cust304,30/10/2024,Phone,3,Do it myself,Assisted digital,Self help,Yes,No,5,no deflection,Non-digital,Book
+Cust305,31/10/2024,Phone,1,Do it myself,Digicare,Self help,Yes,No,3,screen share,Non-digital,Book
+Cust306,01/11/2024,Webchat,1,Do it myself,Self help,Digicare,No,No,5,screen share,Non-digital,Book
+Cust307,02/11/2024,Phone,2,Do it myself,Assisted digital,Assisted digital,Yes,No,2,no deflection,Non-digital,Libraries Connected
+Cust308,03/11/2024,Phone,1,Do it with me,Digicare,Self help,Yes,No,2,no deflection,Digital,Campaign
+Cust309,04/11/2024,Webchat,4,Do it with me,Self help,Digicare,Yes,No,3,Other,Non-digital,Digicare
+Cust310,05/11/2024,Webchat,3,Do it with me,Assisted digital,Self help,Yes,Yes,5,no deflection,Digital,Digicare
+Cust311,06/11/2024,Phone,3,Do it with me,Digicare,Assisted digital,Yes,No,5,no deflection,Non-digital,Libraries Connected
+Cust312,07/11/2024,Webchat,2,Refer to Digicare,Self help,Self help,Yes,No,4,self help resources,Digital,Libraries Connected
+Cust313,08/11/2024,Phone,4,Do it with me,Assisted digital,Self help,No,No,5,no deflection,Non-digital,Digicare
+Cust314,09/11/2024,Phone,4,Do it myself,Digicare,Digicare,Yes,No,5,screen share,Digital,Book
+Cust315,10/11/2024,Webchat,3,Do it with me,Self help,Libraries Connected,Yes,No,1,Other,Non-digital,Digicare
+Cust316,11/11/2024,Phone,3,Do it with me,Assisted digital,Libraries Connected,Yes,Yes,1,Other,Non-digital,Campaign
+Cust317,12/11/2024,Phone,1,Do it myself,Digicare,Digicare,Yes,No,2,screen share,Non-digital,Campaign
+Cust318,13/11/2024,Phone,2,Do it myself,Self help,Libraries Connected,Yes,Yes,3,no deflection,Digital,Campaign
+Cust319,14/11/2024,Phone,4,Do it with me,Assisted digital,Libraries Connected,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust320,15/11/2024,Phone,2,Do it myself,Digicare,Digicare,Yes,No,5,no deflection,Digital,Libraries Connected
+Cust321,16/11/2024,Phone,2,Do it with me,Self help,Digicare,Yes,No,5,Other,Digital,Digicare
+Cust322,17/11/2024,Phone,2,Do it with me,Assisted digital,Self help,Yes,No,3,Other,Digital,Libraries Connected
+Cust323,18/11/2024,Phone,3,Do it with me,Digicare,Self help,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust324,19/11/2024,Phone,1,Do it myself,Self help,Self help,No,Yes,4,no deflection,Non-digital,Digicare
+Cust325,20/11/2024,Phone,4,Do it myself,Assisted digital,Assisted digital,No,No,2,Other,Digital,Book
+Cust326,21/11/2024,Phone,1,Do it myself,Digicare,Assisted digital,No,No,5,screen share,Non-digital,Book
+Cust327,22/11/2024,Phone,2,Do it myself,Self help,Digicare,Yes,No,5,Other,Non-digital,Campaign
+Cust328,23/11/2024,Phone,1,Do it myself,Assisted digital,Self help,No,No,4,Other,Digital,Digicare
+Cust329,24/11/2024,Phone,2,Do it with me,Digicare,Libraries Connected,No,No,5,no deflection,Digital,Campaign
+Cust330,25/11/2024,Webchat,1,Do it with me,Self help,Libraries Connected,No,No,3,screen share,Non-digital,Campaign
+Cust331,26/11/2024,Webchat,1,Do it with me,Assisted digital,Assisted digital,Yes,No,1,no deflection,Non-digital,Campaign
+Cust332,27/11/2024,Phone,2,Do it with me,Digicare,Libraries Connected,Yes,No,5,no deflection,Non-digital,Book
+Cust333,28/11/2024,Webchat,3,Do it with me,Self help,Digicare,No,No,5,Other,Non-digital,Digicare
+Cust334,29/11/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,No,No,2,screen share,Digital,Libraries Connected
+Cust335,30/11/2024,Phone,3,Do it with me,Digicare,Self help,No,No,5,self help resources,Digital,Libraries Connected
+Cust336,01/12/2024,Webchat,1,Do it with me,Self help,Self help,No,No,5,self help resources,Digital,Campaign
+Cust337,02/12/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,No,No,5,Other,Digital,Libraries Connected
+Cust338,03/12/2024,Phone,2,Do it myself,Digicare,Digicare,Yes,No,1,self help resources,Non-digital,Libraries Connected
+Cust339,04/12/2024,Phone,2,Do it with me,Self help,Digicare,No,No,1,screen share,Non-digital,Campaign
+Cust340,05/12/2024,Phone,1,Do it myself,Assisted digital,Libraries Connected,Yes,No,4,no deflection,Non-digital,Digicare
+Cust341,06/12/2024,Webchat,4,Refer to Digicare,Digicare,Digicare,No,Yes,5,screen share,Digital,Campaign
+Cust342,07/12/2024,Phone,1,Do it myself,Self help,Assisted digital,Yes,No,2,Other,Digital,Book
+Cust343,08/12/2024,Phone,4,Do it with me,Assisted digital,Self help,No,No,5,screen share,Digital,Libraries Connected
+Cust344,09/12/2024,Phone,2,Do it myself,Digicare,Self help,No,No,2,no deflection,Digital,Campaign
+Cust345,10/12/2024,Phone,3,Do it with me,Self help,Digicare,Yes,No,4,no deflection,Digital,Digicare
+Cust346,11/12/2024,Phone,2,Do it with me,Assisted digital,Self help,Yes,No,4,no deflection,Non-digital,Book
+Cust347,12/12/2024,Phone,3,Do it myself,Digicare,Digicare,Yes,No,1,Other,Digital,Book
+Cust348,13/12/2024,Phone,2,Do it myself,Self help,Assisted digital,No,No,4,screen share,Digital,Book
+Cust349,14/12/2024,Phone,2,Do it with me,Assisted digital,Self help,Yes,No,2,no deflection,Digital,Book
+Cust350,15/12/2024,Phone,3,Do it myself,Digicare,Self help,No,No,1,Other,Digital,Libraries Connected
+Cust351,16/12/2024,Phone,3,Do it with me,Self help,Self help,No,Yes,4,no deflection,Digital,Digicare
+Cust352,17/12/2024,Webchat,2,Do it myself,Assisted digital,Assisted digital,No,No,4,Other,Non-digital,Book
+Cust353,18/12/2024,Webchat,4,Do it with me,Digicare,Self help,Yes,Yes,3,no deflection,Digital,Digicare
+Cust354,19/12/2024,Phone,2,Do it with me,Self help,Digicare,Yes,No,1,Other,Non-digital,Book
+Cust355,20/12/2024,Webchat,1,Do it with me,Assisted digital,Digicare,No,No,1,screen share,Digital,Digicare
+Cust356,21/12/2024,Phone,2,Refer to Digicare,Digicare,Assisted digital,No,No,3,no deflection,Digital,Digicare
+Cust357,22/12/2024,Webchat,4,Do it with me,Self help,Digicare,No,No,1,no deflection,Non-digital,Book
+Cust358,23/12/2024,Webchat,2,Do it myself,Assisted digital,Assisted digital,No,No,3,no deflection,Digital,Digicare
+Cust359,24/12/2024,Phone,3,Do it myself,Digicare,Libraries Connected,No,No,2,screen share,Digital,Digicare
+Cust360,25/12/2024,Phone,3,Do it myself,Self help,Digicare,No,No,4,self help resources,Digital,Book
+Cust361,26/12/2024,Phone,4,Do it myself,Assisted digital,Assisted digital,Yes,No,2,no deflection,Digital,Digicare
+Cust362,27/12/2024,Phone,3,Do it with me,Digicare,Libraries Connected,Yes,No,1,no deflection,Digital,Digicare
+Cust363,28/12/2024,Phone,1,Do it with me,Self help,Libraries Connected,Yes,No,2,self help resources,Non-digital,Digicare
+Cust364,29/12/2024,Webchat,2,Do it myself,Assisted digital,Assisted digital,Yes,No,1,screen share,Digital,Book
+Cust365,30/12/2024,Phone,4,Do it myself,Digicare,Digicare,No,Yes,5,no deflection,Non-digital,Book
+Cust366,31/12/2024,Webchat,2,Do it with me,Self help,Libraries Connected,No,No,1,no deflection,Digital,Campaign
+Cust367,11/08/2024,Phone,2,Do it with me,Assisted digital,Digicare,Yes,No,3,screen share,Digital,Book
+Cust368,12/08/2024,Phone,2,Do it myself,Digicare,Assisted digital,Yes,No,3,Other,Digital,Libraries Connected
+Cust369,13/08/2024,Phone,2,Do it with me,Self help,Assisted digital,Yes,No,1,no deflection,Digital,Book
+Cust370,14/08/2024,Phone,2,Do it with me,Assisted digital,Assisted digital,Yes,Yes,5,no deflection,Digital,Campaign
+Cust371,15/08/2024,Phone,4,Do it myself,Digicare,Digicare,No,No,5,Other,Digital,Libraries Connected
+Cust372,16/08/2024,Webchat,1,Do it with me,Self help,Assisted digital,Yes,No,3,no deflection,Non-digital,Campaign
+Cust373,17/08/2024,Webchat,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,screen share,Non-digital,Book
+Cust374,18/08/2024,Webchat,1,Do it myself,Digicare,Libraries Connected,No,No,1,no deflection,Non-digital,Digicare
+Cust375,19/08/2024,Phone,1,Do it with me,Self help,Self help,No,Yes,1,screen share,Non-digital,Libraries Connected
+Cust376,20/08/2024,Webchat,3,Do it with me,Assisted digital,Self help,Yes,No,5,screen share,Digital,Book
+Cust377,21/08/2024,Phone,4,Do it with me,Digicare,Assisted digital,Yes,No,5,no deflection,Non-digital,Book
+Cust378,22/08/2024,Webchat,2,Do it with me,Self help,Digicare,Yes,No,2,screen share,Digital,Libraries Connected
+Cust379,23/08/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,Other,Digital,Libraries Connected
+Cust380,24/08/2024,Phone,1,Do it with me,Digicare,Digicare,No,No,2,Other,Digital,Libraries Connected
+Cust381,25/08/2024,Phone,4,Do it with me,Self help,Assisted digital,No,Yes,1,no deflection,Digital,Libraries Connected
+Cust382,26/08/2024,Phone,1,Do it with me,Assisted digital,Libraries Connected,No,No,5,no deflection,Digital,Book
+Cust383,27/08/2024,Phone,1,Do it myself,Digicare,Digicare,Yes,No,3,screen share,Non-digital,Campaign
+Cust384,28/08/2024,Phone,2,Do it myself,Self help,Digicare,Yes,No,1,screen share,Digital,Digicare
+Cust385,29/08/2024,Phone,1,Do it with me,Assisted digital,Digicare,Yes,No,1,self help resources,Digital,Libraries Connected
+Cust386,30/08/2024,Phone,3,Do it myself,Digicare,Digicare,Yes,No,2,self help resources,Non-digital,Libraries Connected
+Cust387,31/08/2024,Phone,2,Do it with me,Self help,Digicare,Yes,No,2,no deflection,Digital,Libraries Connected
+Cust388,01/09/2024,Webchat,1,Do it myself,Assisted digital,Assisted digital,No,No,2,Other,Digital,Libraries Connected
+Cust389,02/09/2024,Phone,1,Do it myself,Digicare,Self help,No,No,5,Other,Non-digital,Book
+Cust390,03/09/2024,Phone,4,Do it myself,Self help,Assisted digital,No,No,2,no deflection,Digital,Libraries Connected
+Cust391,04/09/2024,Webchat,4,Do it myself,Assisted digital,Digicare,Yes,No,4,no deflection,Non-digital,Campaign
+Cust392,05/09/2024,Phone,4,Do it myself,Digicare,Self help,Yes,No,5,self help resources,Non-digital,Libraries Connected
+Cust393,06/09/2024,Phone,3,Do it myself,Self help,Digicare,Yes,No,1,screen share,Non-digital,Campaign
+Cust394,07/09/2024,Phone,3,Do it with me,Assisted digital,Self help,Yes,No,1,screen share,Non-digital,Digicare
+Cust395,08/09/2024,Webchat,3,Do it myself,Digicare,Self help,No,No,1,Other,Non-digital,Campaign
+Cust396,09/09/2024,Phone,3,Do it with me,Self help,Libraries Connected,Yes,No,2,no deflection,Non-digital,Book
+Cust397,10/09/2024,Webchat,3,Do it with me,Assisted digital,Self help,Yes,No,3,no deflection,Non-digital,Book
+Cust398,11/09/2024,Webchat,3,Do it with me,Digicare,Assisted digital,No,No,4,screen share,Non-digital,Libraries Connected
+Cust399,12/09/2024,Phone,3,Do it myself,Self help,Assisted digital,No,Yes,1,Other,Non-digital,Book
+Cust400,13/09/2024,Phone,3,Do it myself,Assisted digital,Digicare,Yes,No,5,no deflection,Digital,Campaign
+Cust401,14/09/2024,Phone,3,Do it with me,Digicare,Libraries Connected,Yes,Yes,5,screen share,Digital,Campaign
+Cust402,15/09/2024,Phone,1,Do it with me,Self help,Libraries Connected,Yes,No,1,no deflection,Digital,Libraries Connected
+Cust403,16/09/2024,Phone,4,Do it with me,Assisted digital,Digicare,Yes,Yes,1,no deflection,Digital,Digicare
+Cust404,17/09/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,No,1,screen share,Non-digital,Campaign
+Cust405,18/09/2024,Phone,2,Refer to Digicare,Self help,Assisted digital,No,No,2,screen share,Digital,Libraries Connected
+Cust406,19/09/2024,Webchat,4,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,self help resources,Digital,Libraries Connected
+Cust407,20/09/2024,Phone,4,Refer to Digicare,Digicare,Libraries Connected,Yes,No,3,no deflection,Non-digital,Campaign
+Cust408,21/09/2024,Webchat,3,Do it with me,Self help,Self help,No,No,3,no deflection,Non-digital,Digicare
+Cust409,22/09/2024,Phone,2,Do it myself,Assisted digital,Self help,No,No,5,screen share,Digital,Book
+Cust410,23/09/2024,Phone,3,Do it with me,Digicare,Libraries Connected,Yes,No,2,screen share,Non-digital,Digicare
+Cust411,24/09/2024,Phone,4,Do it myself,Self help,Assisted digital,Yes,No,5,Other,Digital,Digicare
+Cust412,25/09/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,No,No,5,no deflection,Digital,Campaign
+Cust413,26/09/2024,Webchat,3,Do it with me,Digicare,Libraries Connected,Yes,No,1,self help resources,Non-digital,Digicare
+Cust414,27/09/2024,Phone,2,Do it with me,Self help,Self help,Yes,No,3,no deflection,Digital,Digicare
+Cust415,28/09/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,No,No,3,no deflection,Non-digital,Digicare
+Cust416,29/09/2024,Phone,1,Do it myself,Digicare,Libraries Connected,No,No,4,self help resources,Digital,Digicare
+Cust417,30/09/2024,Webchat,4,Do it with me,Self help,Digicare,No,No,5,screen share,Digital,Campaign
+Cust418,01/10/2024,Phone,2,Do it myself,Assisted digital,Libraries Connected,No,No,2,no deflection,Digital,Book
+Cust419,02/10/2024,Webchat,1,Do it with me,Digicare,Digicare,Yes,No,2,no deflection,Digital,Campaign
+Cust420,03/10/2024,Webchat,4,Do it myself,Self help,Assisted digital,No,No,5,Other,Digital,Campaign
+Cust421,04/10/2024,Webchat,3,Do it myself,Assisted digital,Digicare,Yes,Yes,5,Other,Digital,Book
+Cust422,05/10/2024,Phone,1,Do it with me,Digicare,Libraries Connected,No,No,2,screen share,Digital,Campaign
+Cust423,06/10/2024,Webchat,3,Do it with me,Self help,Libraries Connected,Yes,Yes,4,Other,Digital,Campaign
+Cust424,07/10/2024,Phone,1,Do it with me,Assisted digital,Digicare,Yes,No,2,no deflection,Digital,Book
+Cust425,08/10/2024,Webchat,4,Do it with me,Digicare,Digicare,No,No,5,no deflection,Non-digital,Book
+Cust426,09/10/2024,Webchat,3,Do it with me,Self help,Libraries Connected,No,No,1,no deflection,Digital,Book
+Cust427,10/10/2024,Phone,3,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,screen share,Digital,Digicare
+Cust428,11/10/2024,Phone,4,Do it with me,Digicare,Assisted digital,No,No,3,screen share,Non-digital,Book
+Cust429,12/10/2024,Webchat,4,Do it myself,Self help,Digicare,No,No,5,no deflection,Non-digital,Digicare
+Cust430,13/10/2024,Webchat,4,Do it with me,Assisted digital,Assisted digital,No,No,2,no deflection,Digital,Campaign
+Cust431,14/10/2024,Phone,2,Do it with me,Digicare,Libraries Connected,No,No,3,no deflection,Non-digital,Libraries Connected
+Cust432,15/10/2024,Webchat,4,Do it myself,Self help,Self help,No,No,4,no deflection,Digital,Campaign
+Cust433,16/10/2024,Phone,1,Do it myself,Assisted digital,Self help,No,No,2,no deflection,Non-digital,Campaign
+Cust434,17/10/2024,Phone,1,Do it myself,Digicare,Digicare,No,No,1,no deflection,Non-digital,Libraries Connected
+Cust435,18/10/2024,Phone,3,Do it with me,Self help,Digicare,No,No,1,Other,Non-digital,Book
+Cust436,19/10/2024,Webchat,1,Refer to Digicare,Assisted digital,Libraries Connected,Yes,No,4,screen share,Digital,Digicare
+Cust437,20/10/2024,Webchat,4,Refer to Digicare,Digicare,Self help,No,No,4,no deflection,Digital,Book
+Cust438,21/10/2024,Phone,4,Do it with me,Self help,Self help,No,No,4,no deflection,Digital,Campaign
+Cust439,22/10/2024,Webchat,2,Do it with me,Assisted digital,Assisted digital,No,No,4,screen share,Digital,Digicare
+Cust440,23/10/2024,Phone,2,Do it with me,Digicare,Assisted digital,No,No,4,Other,Non-digital,Digicare
+Cust441,24/10/2024,Phone,1,Do it myself,Self help,Assisted digital,No,No,5,Other,Non-digital,Book
+Cust442,25/10/2024,Phone,1,Do it myself,Assisted digital,Libraries Connected,Yes,No,1,screen share,Digital,Campaign
+Cust443,26/10/2024,Webchat,1,Refer to Digicare,Digicare,Assisted digital,Yes,No,1,self help resources,Digital,Book
+Cust444,27/10/2024,Phone,3,Do it myself,Self help,Self help,No,No,1,screen share,Non-digital,Book
+Cust445,28/10/2024,Phone,4,Do it myself,Assisted digital,Digicare,No,No,2,screen share,Non-digital,Libraries Connected
+Cust446,29/10/2024,Webchat,2,Do it with me,Digicare,Libraries Connected,No,No,1,screen share,Non-digital,Book
+Cust447,30/10/2024,Phone,1,Do it with me,Self help,Digicare,No,No,2,no deflection,Digital,Book
+Cust448,31/10/2024,Phone,2,Do it myself,Assisted digital,Digicare,Yes,Yes,2,screen share,Non-digital,Digicare
+Cust449,01/11/2024,Phone,3,Do it with me,Digicare,Assisted digital,Yes,No,2,no deflection,Digital,Campaign
+Cust450,02/11/2024,Webchat,4,Do it myself,Self help,Self help,Yes,No,1,no deflection,Digital,Campaign
+Cust451,03/11/2024,Phone,2,Do it with me,Assisted digital,Digicare,No,No,3,screen share,Digital,Libraries Connected
+Cust452,04/11/2024,Webchat,4,Do it with me,Digicare,Digicare,No,Yes,3,self help resources,Non-digital,Libraries Connected
+Cust453,05/11/2024,Phone,4,Do it myself,Self help,Libraries Connected,Yes,No,5,Other,Digital,Book
+Cust454,06/11/2024,Phone,2,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,Other,Non-digital,Campaign
+Cust455,07/11/2024,Phone,4,Do it myself,Digicare,Assisted digital,No,No,3,no deflection,Digital,Digicare
+Cust456,08/11/2024,Phone,2,Do it myself,Self help,Digicare,No,No,4,no deflection,Digital,Libraries Connected
+Cust457,09/11/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,Yes,No,1,no deflection,Non-digital,Digicare
+Cust458,10/11/2024,Phone,1,Do it myself,Digicare,Libraries Connected,No,No,5,Other,Digital,Digicare
+Cust459,11/11/2024,Phone,2,Do it with me,Self help,Digicare,Yes,No,5,no deflection,Digital,Digicare
+Cust460,12/11/2024,Phone,4,Do it myself,Assisted digital,Digicare,Yes,No,5,Other,Non-digital,Campaign
+Cust461,13/11/2024,Phone,4,Refer to Digicare,Digicare,Libraries Connected,Yes,No,4,screen share,Non-digital,Libraries Connected
+Cust462,14/11/2024,Phone,1,Do it with me,Self help,Digicare,Yes,No,4,no deflection,Non-digital,Campaign
+Cust463,15/11/2024,Phone,1,Do it with me,Assisted digital,Assisted digital,Yes,No,5,no deflection,Digital,Campaign
+Cust464,16/11/2024,Webchat,2,Do it myself,Digicare,Assisted digital,Yes,No,2,screen share,Digital,Digicare
+Cust465,17/11/2024,Phone,3,Do it myself,Self help,Assisted digital,No,No,3,screen share,Non-digital,Libraries Connected
+Cust466,18/11/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust467,19/11/2024,Webchat,1,Refer to Digicare,Digicare,Self help,No,Yes,2,no deflection,Non-digital,Digicare
+Cust468,20/11/2024,Webchat,4,Do it with me,Self help,Assisted digital,No,No,3,no deflection,Digital,Book
+Cust469,21/11/2024,Phone,2,Do it with me,Assisted digital,Digicare,No,No,3,no deflection,Non-digital,Book
+Cust470,22/11/2024,Phone,4,Do it myself,Digicare,Assisted digital,Yes,Yes,3,screen share,Non-digital,Book
+Cust471,23/11/2024,Webchat,2,Do it with me,Self help,Libraries Connected,Yes,No,3,no deflection,Non-digital,Libraries Connected
+Cust472,24/11/2024,Phone,1,Do it myself,Assisted digital,Libraries Connected,Yes,No,5,no deflection,Non-digital,Campaign
+Cust473,25/11/2024,Phone,2,Do it myself,Digicare,Self help,Yes,No,5,screen share,Digital,Digicare
+Cust474,26/11/2024,Phone,1,Do it with me,Self help,Assisted digital,Yes,Yes,3,no deflection,Non-digital,Digicare
+Cust475,27/11/2024,Webchat,2,Do it myself,Assisted digital,Self help,No,No,5,screen share,Digital,Libraries Connected
+Cust476,28/11/2024,Phone,1,Do it with me,Digicare,Assisted digital,Yes,No,5,screen share,Digital,Campaign
+Cust477,29/11/2024,Phone,4,Do it myself,Self help,Assisted digital,No,No,5,screen share,Digital,Campaign
+Cust478,30/11/2024,Webchat,2,Refer to Digicare,Assisted digital,Libraries Connected,Yes,No,5,Other,Digital,Book
+Cust479,01/12/2024,Webchat,4,Refer to Digicare,Digicare,Assisted digital,No,No,2,self help resources,Non-digital,Libraries Connected
+Cust480,02/12/2024,Phone,3,Do it with me,Self help,Assisted digital,Yes,No,5,self help resources,Digital,Libraries Connected
+Cust481,03/12/2024,Phone,3,Do it myself,Assisted digital,Assisted digital,Yes,No,2,no deflection,Non-digital,Campaign
+Cust482,04/12/2024,Phone,2,Do it with me,Digicare,Libraries Connected,No,No,2,no deflection,Non-digital,Libraries Connected
+Cust483,05/12/2024,Webchat,3,Do it myself,Self help,Self help,No,No,3,screen share,Digital,Digicare
+Cust484,06/12/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,No,No,1,no deflection,Digital,Campaign
+Cust485,07/12/2024,Phone,3,Do it with me,Digicare,Libraries Connected,No,No,3,screen share,Digital,Campaign
+Cust486,08/12/2024,Phone,3,Do it myself,Self help,Digicare,Yes,No,2,screen share,Non-digital,Campaign
+Cust487,09/12/2024,Phone,3,Do it with me,Assisted digital,Assisted digital,Yes,No,3,self help resources,Digital,Digicare
+Cust488,10/12/2024,Phone,4,Do it myself,Digicare,Assisted digital,No,No,4,Other,Digital,Book
+Cust489,11/12/2024,Phone,2,Refer to Digicare,Self help,Libraries Connected,No,Yes,1,no deflection,Digital,Book
+Cust490,12/12/2024,Phone,2,Do it myself,Assisted digital,Self help,No,No,4,self help resources,Non-digital,Campaign
+Cust491,13/12/2024,Webchat,1,Do it with me,Digicare,Self help,Yes,No,2,no deflection,Non-digital,Campaign
+Cust492,14/12/2024,Phone,1,Do it myself,Self help,Digicare,Yes,No,5,no deflection,Digital,Book
+Cust493,15/12/2024,Webchat,4,Do it with me,Assisted digital,Libraries Connected,Yes,No,4,screen share,Digital,Digicare
+Cust494,16/12/2024,Webchat,1,Do it with me,Digicare,Self help,No,No,2,Other,Non-digital,Digicare
+Cust495,17/12/2024,Webchat,1,Do it myself,Self help,Libraries Connected,Yes,Yes,2,no deflection,Digital,Digicare
+Cust496,18/12/2024,Phone,3,Do it myself,Assisted digital,Libraries Connected,Yes,No,3,no deflection,Digital,Libraries Connected
+Cust497,19/12/2024,Webchat,2,Do it with me,Digicare,Libraries Connected,Yes,No,2,screen share,Non-digital,Libraries Connected
+Cust498,20/12/2024,Phone,1,Do it myself,Self help,Assisted digital,Yes,No,2,no deflection,Non-digital,Libraries Connected
+Cust499,21/12/2024,Webchat,1,Refer to Digicare,Assisted digital,Libraries Connected,No,No,3,no deflection,Non-digital,Digicare
+Cust500,22/12/2024,Phone,4,Do it with me,Digicare,Assisted digital,Yes,No,4,no deflection,Non-digital,Campaign
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

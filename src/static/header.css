@@ -1,0 +1,63 @@
+.app-header {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: thin lightgrey solid;
+}
+
+.text-boxes {
+  background-color:#b7b7b7;
+  color: black,;
+  border-radius: 25px;
+  padding:8px;
+  font-size:12;
+}
+
+.hr {
+  border: 10px;
+  border-radius: 10px;
+  position:relative;
+}
+
+.header-boxes {
+  background-color:#e2eafe;
+  color: black;
+  padding:8px;
+}
+
+
+.ms-2 {
+  color: black;
+  font-size: 60;
+  padding: 10px;
+  width: 600px;
+  text-align: center;
+  margin-top:10px;
+}
+
+.g-0 {
+  padding:10px
+}
+
+.app-header .app-header--title {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: black;
+
+}
+
+input[type="radio"] {
+  /* Add if not using autoprefixer */
+  -webkit-appearance: none;
+  appearance: none;
+  /* For iOS < 15 to remove gradient background */
+  background-color: #fff;
+  /* Not removed via appearance */
+  margin: 0;
+}
+
+
+
+
+

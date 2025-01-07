@@ -1,0 +1,501 @@
+Customer ID,Campaign ID,Campaign Channel,Date,Engagement Level,Engagement,Action Taken
+Cust001,1,text,01/01/2024,2,Text/email opened,No action taken
+Cust002,2,email,02/01/2024,1,Received Campaign,No action taken
+Cust003,1,text,03/01/2024,3,Link clicked,No action taken
+Cust004,1,text,04/01/2024,1,Received Campaign,No action taken
+Cust005,2,text,05/01/2024,1,Received Campaign,No action taken
+Cust006,3,text,06/01/2024,3,Link clicked,No action taken
+Cust007,1,text,07/01/2024,1,Received Campaign,No action taken
+Cust008,3,email,08/01/2024,3,Link clicked,No action taken
+Cust009,3,email,09/01/2024,1,Received Campaign,No action taken
+Cust010,1,email,10/01/2024,2,Text/email opened,No action taken
+Cust011,1,text,11/01/2024,2,Text/email opened,No action taken
+Cust012,3,email,12/01/2024,2,Text/email opened,No action taken
+Cust013,2,text,13/01/2024,2,Text/email opened,No action taken
+Cust014,2,email,14/01/2024,2,Text/email opened,No action taken
+Cust015,2,text,15/01/2024,4,Action taken,complete a JTBD online
+Cust016,1,text,16/01/2024,1,Received Campaign,No action taken
+Cust017,1,text,17/01/2024,1,Received Campaign,No action taken
+Cust018,3,email,18/01/2024,4,Action taken,complete a JTBD online
+Cust019,3,email,19/01/2024,2,Text/email opened,No action taken
+Cust020,1,email,20/01/2024,4,Action taken,contact us on webchat
+Cust021,1,text,21/01/2024,1,Received Campaign,No action taken
+Cust022,2,email,22/01/2024,1,Received Campaign,No action taken
+Cust023,2,text,23/01/2024,2,Text/email opened,No action taken
+Cust024,2,email,24/01/2024,4,Action taken,contact us on webchat
+Cust025,3,text,25/01/2024,2,Text/email opened,No action taken
+Cust026,1,email,26/01/2024,1,Received Campaign,No action taken
+Cust027,1,email,27/01/2024,4,Action taken,contact us on webchat
+Cust028,3,text,28/01/2024,2,Text/email opened,No action taken
+Cust029,1,text,29/01/2024,2,Text/email opened,No action taken
+Cust030,3,email,30/01/2024,2,Text/email opened,No action taken
+Cust031,3,text,31/01/2024,2,Text/email opened,No action taken
+Cust032,2,email,01/02/2024,2,Text/email opened,No action taken
+Cust033,1,email,02/02/2024,1,Received Campaign,No action taken
+Cust034,3,email,03/02/2024,1,Received Campaign,No action taken
+Cust035,1,text,04/02/2024,1,Received Campaign,No action taken
+Cust036,3,text,05/02/2024,1,Received Campaign,No action taken
+Cust037,2,text,06/02/2024,3,Link clicked,No action taken
+Cust038,3,text,07/02/2024,1,Received Campaign,No action taken
+Cust039,3,text,08/02/2024,4,Action taken,engage with self-help material
+Cust040,1,email,09/02/2024,1,Received Campaign,No action taken
+Cust041,1,email,10/02/2024,1,Received Campaign,No action taken
+Cust042,1,email,11/02/2024,4,Action taken,log in to digital channels
+Cust043,3,text,12/02/2024,1,Received Campaign,No action taken
+Cust044,2,email,13/02/2024,1,Received Campaign,No action taken
+Cust045,3,email,14/02/2024,1,Received Campaign,No action taken
+Cust046,3,text,15/02/2024,1,Received Campaign,No action taken
+Cust047,3,text,16/02/2024,3,Link clicked,No action taken
+Cust048,1,text,17/02/2024,3,Link clicked,No action taken
+Cust049,1,text,18/02/2024,1,Received Campaign,No action taken
+Cust050,3,email,19/02/2024,3,Link clicked,No action taken
+Cust051,3,text,20/02/2024,1,Received Campaign,No action taken
+Cust052,3,text,21/02/2024,4,Action taken,contact us on webchat
+Cust053,2,text,22/02/2024,1,Received Campaign,No action taken
+Cust054,2,text,23/02/2024,1,Received Campaign,No action taken
+Cust055,1,email,24/02/2024,3,Link clicked,No action taken
+Cust056,2,text,25/02/2024,4,Action taken,log in to digital channels
+Cust057,1,email,26/02/2024,4,Action taken,engage with self-help material
+Cust058,1,text,27/02/2024,3,Link clicked,No action taken
+Cust059,3,email,28/02/2024,3,Link clicked,No action taken
+Cust060,1,email,29/02/2024,4,Action taken,engage with self-help material
+Cust061,2,text,01/03/2024,3,Link clicked,No action taken
+Cust062,2,text,02/03/2024,1,Received Campaign,No action taken
+Cust063,3,email,03/03/2024,3,Link clicked,No action taken
+Cust064,2,email,04/03/2024,2,Text/email opened,No action taken
+Cust065,1,email,05/03/2024,4,Action taken,engage with self-help material
+Cust066,3,email,06/03/2024,3,Link clicked,No action taken
+Cust067,1,text,07/03/2024,2,Text/email opened,No action taken
+Cust068,3,text,08/03/2024,4,Action taken,engage with self-help material
+Cust069,3,text,09/03/2024,3,Link clicked,No action taken
+Cust070,1,email,10/03/2024,3,Link clicked,No action taken
+Cust071,3,text,11/03/2024,1,Received Campaign,No action taken
+Cust072,2,email,12/03/2024,3,Link clicked,No action taken
+Cust073,1,text,13/03/2024,2,Text/email opened,No action taken
+Cust074,1,text,14/03/2024,3,Link clicked,No action taken
+Cust075,1,email,15/03/2024,2,Text/email opened,No action taken
+Cust076,2,text,16/03/2024,4,Action taken,engage with self-help material
+Cust077,2,email,17/03/2024,1,Received Campaign,No action taken
+Cust078,1,email,18/03/2024,3,Link clicked,No action taken
+Cust079,2,email,19/03/2024,2,Text/email opened,No action taken
+Cust080,1,text,20/03/2024,2,Text/email opened,No action taken
+Cust081,1,text,21/03/2024,4,Action taken,log in to digital channels
+Cust082,2,email,22/03/2024,4,Action taken,contact us on webchat
+Cust083,1,email,23/03/2024,2,Text/email opened,No action taken
+Cust084,2,email,24/03/2024,3,Link clicked,No action taken
+Cust085,1,text,25/03/2024,1,Received Campaign,No action taken
+Cust086,2,email,26/03/2024,1,Received Campaign,No action taken
+Cust087,2,email,27/03/2024,3,Link clicked,No action taken
+Cust088,1,text,28/03/2024,1,Received Campaign,No action taken
+Cust089,1,text,29/03/2024,2,Text/email opened,No action taken
+Cust090,1,email,30/03/2024,2,Text/email opened,No action taken
+Cust091,1,text,31/03/2024,1,Received Campaign,No action taken
+Cust092,3,email,01/04/2024,2,Text/email opened,No action taken
+Cust093,2,text,02/04/2024,2,Text/email opened,No action taken
+Cust094,3,email,03/04/2024,3,Link clicked,No action taken
+Cust095,3,email,04/04/2024,2,Text/email opened,No action taken
+Cust096,1,text,05/04/2024,3,Link clicked,No action taken
+Cust097,1,text,06/04/2024,3,Link clicked,No action taken
+Cust098,1,text,07/04/2024,3,Link clicked,No action taken
+Cust099,3,text,08/04/2024,1,Received Campaign,No action taken
+Cust100,3,email,09/04/2024,2,Text/email opened,No action taken
+Cust101,1,email,10/04/2024,3,Link clicked,No action taken
+Cust102,2,text,11/04/2024,2,Text/email opened,No action taken
+Cust103,3,email,12/04/2024,3,Link clicked,No action taken
+Cust104,2,text,13/04/2024,1,Received Campaign,No action taken
+Cust105,1,text,14/04/2024,1,Received Campaign,No action taken
+Cust106,2,text,15/04/2024,3,Link clicked,No action taken
+Cust107,1,text,16/04/2024,3,Link clicked,No action taken
+Cust108,1,email,17/04/2024,1,Received Campaign,No action taken
+Cust109,1,email,18/04/2024,3,Link clicked,No action taken
+Cust110,2,text,19/04/2024,1,Received Campaign,No action taken
+Cust111,2,text,20/04/2024,3,Link clicked,No action taken
+Cust112,1,email,21/04/2024,3,Link clicked,No action taken
+Cust113,3,text,22/04/2024,3,Link clicked,No action taken
+Cust114,3,text,23/04/2024,1,Received Campaign,No action taken
+Cust115,3,email,24/04/2024,3,Link clicked,No action taken
+Cust116,3,text,25/04/2024,3,Link clicked,No action taken
+Cust117,3,email,26/04/2024,3,Link clicked,No action taken
+Cust118,2,email,27/04/2024,3,Link clicked,No action taken
+Cust119,1,email,28/04/2024,2,Text/email opened,No action taken
+Cust120,1,text,29/04/2024,4,Action taken,complete a JTBD online
+Cust121,1,email,30/04/2024,4,Action taken,contact us on webchat
+Cust122,2,email,01/05/2024,4,Action taken,contact us on webchat
+Cust123,3,email,02/05/2024,2,Text/email opened,No action taken
+Cust124,3,text,03/05/2024,2,Text/email opened,No action taken
+Cust125,3,text,04/05/2024,1,Received Campaign,No action taken
+Cust126,2,text,05/05/2024,4,Action taken,log in to digital channels
+Cust127,1,email,06/05/2024,1,Received Campaign,No action taken
+Cust128,3,text,07/05/2024,2,Text/email opened,No action taken
+Cust129,2,email,08/05/2024,2,Text/email opened,No action taken
+Cust130,2,email,09/05/2024,4,Action taken,engage with self-help material
+Cust131,1,text,10/05/2024,4,Action taken,engage with self-help material
+Cust132,1,email,11/05/2024,4,Action taken,complete a JTBD online
+Cust133,2,text,12/05/2024,1,Received Campaign,No action taken
+Cust134,3,text,13/05/2024,1,Received Campaign,No action taken
+Cust135,1,email,14/05/2024,2,Text/email opened,No action taken
+Cust136,1,email,15/05/2024,1,Received Campaign,No action taken
+Cust137,3,text,16/05/2024,2,Text/email opened,No action taken
+Cust138,3,email,17/05/2024,4,Action taken,contact us on webchat
+Cust139,2,text,18/05/2024,2,Text/email opened,No action taken
+Cust140,3,email,19/05/2024,1,Received Campaign,No action taken
+Cust141,1,text,20/05/2024,3,Link clicked,No action taken
+Cust142,3,text,21/05/2024,3,Link clicked,No action taken
+Cust143,1,text,22/05/2024,2,Text/email opened,No action taken
+Cust144,2,text,23/05/2024,3,Link clicked,No action taken
+Cust145,3,text,24/05/2024,1,Received Campaign,No action taken
+Cust146,1,email,25/05/2024,2,Text/email opened,No action taken
+Cust147,1,email,26/05/2024,3,Link clicked,No action taken
+Cust148,1,email,27/05/2024,3,Link clicked,No action taken
+Cust149,1,text,28/05/2024,1,Received Campaign,No action taken
+Cust150,2,text,29/05/2024,1,Received Campaign,No action taken
+Cust151,2,text,30/05/2024,1,Received Campaign,No action taken
+Cust152,2,email,31/05/2024,1,Received Campaign,No action taken
+Cust153,1,email,01/06/2024,2,Text/email opened,No action taken
+Cust154,1,email,02/06/2024,2,Text/email opened,No action taken
+Cust155,3,email,03/06/2024,4,Action taken,log in to digital channels
+Cust156,3,email,04/06/2024,1,Received Campaign,No action taken
+Cust157,3,text,05/06/2024,3,Link clicked,No action taken
+Cust158,3,text,06/06/2024,4,Action taken,contact us on webchat
+Cust159,2,email,07/06/2024,4,Action taken,engage with self-help material
+Cust160,3,email,08/06/2024,1,Received Campaign,No action taken
+Cust161,3,email,09/06/2024,3,Link clicked,No action taken
+Cust162,3,email,10/06/2024,3,Link clicked,No action taken
+Cust163,3,email,11/06/2024,1,Received Campaign,No action taken
+Cust164,3,email,12/06/2024,1,Received Campaign,No action taken
+Cust165,2,text,13/06/2024,2,Text/email opened,No action taken
+Cust166,2,email,14/06/2024,1,Received Campaign,No action taken
+Cust167,3,email,15/06/2024,2,Text/email opened,No action taken
+Cust168,2,text,16/06/2024,4,Action taken,log in to digital channels
+Cust169,3,email,17/06/2024,4,Action taken,complete a JTBD online
+Cust170,2,text,18/06/2024,2,Text/email opened,No action taken
+Cust171,2,email,19/06/2024,4,Action taken,log in to digital channels
+Cust172,3,email,20/06/2024,3,Link clicked,No action taken
+Cust173,2,email,21/06/2024,4,Action taken,log in to digital channels
+Cust174,3,text,22/06/2024,4,Action taken,log in to digital channels
+Cust175,1,email,23/06/2024,3,Link clicked,No action taken
+Cust176,1,email,24/06/2024,3,Link clicked,No action taken
+Cust177,3,text,25/06/2024,1,Received Campaign,No action taken
+Cust178,3,email,26/06/2024,2,Text/email opened,No action taken
+Cust179,2,text,27/06/2024,2,Text/email opened,No action taken
+Cust180,2,text,28/06/2024,3,Link clicked,No action taken
+Cust181,3,text,29/06/2024,3,Link clicked,No action taken
+Cust182,1,text,30/06/2024,4,Action taken,complete a JTBD online
+Cust183,1,text,01/07/2024,2,Text/email opened,No action taken
+Cust184,2,email,02/07/2024,1,Received Campaign,No action taken
+Cust185,1,email,03/07/2024,4,Action taken,log in to digital channels
+Cust186,2,text,04/07/2024,3,Link clicked,No action taken
+Cust187,2,text,05/07/2024,2,Text/email opened,No action taken
+Cust188,1,email,06/07/2024,4,Action taken,contact us on webchat
+Cust189,3,email,07/07/2024,3,Link clicked,No action taken
+Cust190,2,text,08/07/2024,2,Text/email opened,No action taken
+Cust191,1,text,09/07/2024,2,Text/email opened,No action taken
+Cust192,2,text,10/07/2024,4,Action taken,log in to digital channels
+Cust193,3,email,11/07/2024,1,Received Campaign,No action taken
+Cust194,1,email,12/07/2024,4,Action taken,contact us on webchat
+Cust195,3,email,13/07/2024,4,Action taken,engage with self-help material
+Cust196,1,email,14/07/2024,1,Received Campaign,No action taken
+Cust197,3,email,15/07/2024,4,Action taken,complete a JTBD online
+Cust198,2,email,16/07/2024,4,Action taken,contact us on webchat
+Cust199,3,text,17/07/2024,2,Text/email opened,No action taken
+Cust200,3,text,18/07/2024,2,Text/email opened,No action taken
+Cust201,3,email,19/07/2024,1,Received Campaign,No action taken
+Cust202,2,text,20/07/2024,1,Received Campaign,No action taken
+Cust203,3,text,21/07/2024,1,Received Campaign,No action taken
+Cust204,1,email,22/07/2024,4,Action taken,complete a JTBD online
+Cust205,3,email,23/07/2024,1,Received Campaign,No action taken
+Cust206,2,text,24/07/2024,3,Link clicked,No action taken
+Cust207,3,email,25/07/2024,3,Link clicked,No action taken
+Cust208,2,email,26/07/2024,2,Text/email opened,No action taken
+Cust209,2,text,27/07/2024,4,Action taken,complete a JTBD online
+Cust210,2,text,28/07/2024,2,Text/email opened,No action taken
+Cust211,2,email,29/07/2024,4,Action taken,contact us on webchat
+Cust212,3,email,30/07/2024,4,Action taken,log in to digital channels
+Cust213,2,email,31/07/2024,4,Action taken,contact us on webchat
+Cust214,1,text,01/08/2024,1,Received Campaign,No action taken
+Cust215,3,email,02/08/2024,4,Action taken,log in to digital channels
+Cust216,1,text,03/08/2024,4,Action taken,log in to digital channels
+Cust217,1,text,04/08/2024,1,Received Campaign,No action taken
+Cust218,2,email,05/08/2024,3,Link clicked,No action taken
+Cust219,3,text,06/08/2024,4,Action taken,engage with self-help material
+Cust220,3,text,07/08/2024,3,Link clicked,No action taken
+Cust221,2,email,08/08/2024,3,Link clicked,No action taken
+Cust222,3,text,09/08/2024,4,Action taken,contact us on webchat
+Cust223,2,email,10/08/2024,4,Action taken,contact us on webchat
+Cust224,2,text,11/08/2024,1,Received Campaign,No action taken
+Cust225,2,text,12/08/2024,2,Text/email opened,No action taken
+Cust226,2,text,13/08/2024,1,Received Campaign,No action taken
+Cust227,1,email,14/08/2024,4,Action taken,contact us on webchat
+Cust228,1,email,15/08/2024,2,Text/email opened,No action taken
+Cust229,3,text,16/08/2024,4,Action taken,log in to digital channels
+Cust230,3,text,17/08/2024,3,Link clicked,No action taken
+Cust231,1,text,18/08/2024,2,Text/email opened,No action taken
+Cust232,3,text,19/08/2024,1,Received Campaign,No action taken
+Cust233,2,email,20/08/2024,1,Received Campaign,No action taken
+Cust234,2,email,21/08/2024,4,Action taken,log in to digital channels
+Cust235,3,email,22/08/2024,1,Received Campaign,No action taken
+Cust236,3,email,23/08/2024,3,Link clicked,No action taken
+Cust237,3,text,24/08/2024,2,Text/email opened,No action taken
+Cust238,1,text,25/08/2024,2,Text/email opened,No action taken
+Cust239,1,text,26/08/2024,3,Link clicked,No action taken
+Cust240,1,text,27/08/2024,4,Action taken,log in to digital channels
+Cust241,2,text,28/08/2024,4,Action taken,log in to digital channels
+Cust242,1,email,29/08/2024,1,Received Campaign,No action taken
+Cust243,1,text,30/08/2024,2,Text/email opened,No action taken
+Cust244,1,email,31/08/2024,1,Received Campaign,No action taken
+Cust245,2,email,01/09/2024,1,Received Campaign,No action taken
+Cust246,2,email,02/09/2024,3,Link clicked,No action taken
+Cust247,1,email,03/09/2024,3,Link clicked,No action taken
+Cust248,2,email,04/09/2024,2,Text/email opened,No action taken
+Cust249,2,text,05/09/2024,4,Action taken,engage with self-help material
+Cust250,1,email,06/09/2024,3,Link clicked,No action taken
+Cust251,3,text,07/09/2024,3,Link clicked,No action taken
+Cust252,1,text,08/09/2024,1,Received Campaign,No action taken
+Cust253,2,email,09/09/2024,3,Link clicked,No action taken
+Cust254,3,text,10/09/2024,4,Action taken,log in to digital channels
+Cust255,2,text,11/09/2024,1,Received Campaign,No action taken
+Cust256,1,email,12/09/2024,2,Text/email opened,No action taken
+Cust257,3,text,13/09/2024,2,Text/email opened,No action taken
+Cust258,3,text,14/09/2024,2,Text/email opened,No action taken
+Cust259,2,text,15/09/2024,2,Text/email opened,No action taken
+Cust260,1,email,16/09/2024,1,Received Campaign,No action taken
+Cust261,3,text,17/09/2024,4,Action taken,contact us on webchat
+Cust262,3,email,18/09/2024,1,Received Campaign,No action taken
+Cust263,1,email,19/09/2024,1,Received Campaign,No action taken
+Cust264,3,text,20/09/2024,4,Action taken,contact us on webchat
+Cust265,3,email,21/09/2024,3,Link clicked,No action taken
+Cust266,2,text,22/09/2024,3,Link clicked,No action taken
+Cust267,2,text,23/09/2024,3,Link clicked,No action taken
+Cust268,2,text,24/09/2024,3,Link clicked,No action taken
+Cust269,3,email,25/09/2024,2,Text/email opened,No action taken
+Cust270,1,email,26/09/2024,2,Text/email opened,No action taken
+Cust271,2,email,27/09/2024,4,Action taken,log in to digital channels
+Cust272,2,email,28/09/2024,2,Text/email opened,No action taken
+Cust273,2,text,29/09/2024,3,Link clicked,No action taken
+Cust274,3,email,30/09/2024,3,Link clicked,No action taken
+Cust275,2,text,01/10/2024,3,Link clicked,No action taken
+Cust276,2,text,02/10/2024,4,Action taken,engage with self-help material
+Cust277,1,email,03/10/2024,4,Action taken,log in to digital channels
+Cust278,2,email,04/10/2024,1,Received Campaign,No action taken
+Cust279,2,email,05/10/2024,4,Action taken,log in to digital channels
+Cust280,3,text,06/10/2024,1,Received Campaign,No action taken
+Cust281,1,text,07/10/2024,4,Action taken,engage with self-help material
+Cust282,1,text,08/10/2024,1,Received Campaign,No action taken
+Cust283,1,email,09/10/2024,4,Action taken,engage with self-help material
+Cust284,1,email,10/10/2024,1,Received Campaign,No action taken
+Cust285,2,email,11/10/2024,1,Received Campaign,No action taken
+Cust286,1,text,12/10/2024,4,Action taken,engage with self-help material
+Cust287,1,email,13/10/2024,3,Link clicked,No action taken
+Cust288,2,email,14/10/2024,4,Action taken,complete a JTBD online
+Cust289,1,email,15/10/2024,4,Action taken,contact us on webchat
+Cust290,3,email,16/10/2024,3,Link clicked,No action taken
+Cust291,3,email,17/10/2024,2,Text/email opened,No action taken
+Cust292,1,text,18/10/2024,2,Text/email opened,No action taken
+Cust293,2,email,19/10/2024,1,Received Campaign,No action taken
+Cust294,2,text,20/10/2024,3,Link clicked,No action taken
+Cust295,3,email,21/10/2024,2,Text/email opened,No action taken
+Cust296,1,text,22/10/2024,1,Received Campaign,No action taken
+Cust297,3,email,23/10/2024,3,Link clicked,No action taken
+Cust298,2,text,24/10/2024,2,Text/email opened,No action taken
+Cust299,2,email,25/10/2024,2,Text/email opened,No action taken
+Cust300,2,email,26/10/2024,3,Link clicked,No action taken
+Cust301,2,text,27/10/2024,4,Action taken,contact us on webchat
+Cust302,3,email,28/10/2024,2,Text/email opened,No action taken
+Cust303,1,email,29/10/2024,2,Text/email opened,No action taken
+Cust304,3,text,30/10/2024,1,Received Campaign,No action taken
+Cust305,3,text,31/10/2024,1,Received Campaign,No action taken
+Cust306,3,email,01/11/2024,1,Received Campaign,No action taken
+Cust307,1,email,02/11/2024,4,Action taken,complete a JTBD online
+Cust308,2,text,03/11/2024,2,Text/email opened,No action taken
+Cust309,2,text,04/11/2024,1,Received Campaign,No action taken
+Cust310,1,email,05/11/2024,3,Link clicked,No action taken
+Cust311,2,email,06/11/2024,1,Received Campaign,No action taken
+Cust312,3,text,07/11/2024,3,Link clicked,No action taken
+Cust313,2,text,08/11/2024,4,Action taken,complete a JTBD online
+Cust314,3,email,09/11/2024,3,Link clicked,No action taken
+Cust315,3,text,10/11/2024,2,Text/email opened,No action taken
+Cust316,2,email,11/11/2024,2,Text/email opened,No action taken
+Cust317,2,text,12/11/2024,3,Link clicked,No action taken
+Cust318,2,email,13/11/2024,2,Text/email opened,No action taken
+Cust319,3,text,14/11/2024,3,Link clicked,No action taken
+Cust320,3,text,15/11/2024,1,Received Campaign,No action taken
+Cust321,1,text,16/11/2024,2,Text/email opened,No action taken
+Cust322,3,text,17/11/2024,3,Link clicked,No action taken
+Cust323,3,text,18/11/2024,3,Link clicked,No action taken
+Cust324,3,text,19/11/2024,3,Link clicked,No action taken
+Cust325,2,email,20/11/2024,1,Received Campaign,No action taken
+Cust326,2,text,21/11/2024,3,Link clicked,No action taken
+Cust327,2,email,22/11/2024,2,Text/email opened,No action taken
+Cust328,1,text,23/11/2024,1,Received Campaign,No action taken
+Cust329,2,email,24/11/2024,2,Text/email opened,No action taken
+Cust330,3,email,25/11/2024,4,Action taken,contact us on webchat
+Cust331,3,email,26/11/2024,1,Received Campaign,No action taken
+Cust332,2,text,27/11/2024,2,Text/email opened,No action taken
+Cust333,1,text,28/11/2024,2,Text/email opened,No action taken
+Cust334,1,email,29/11/2024,1,Received Campaign,No action taken
+Cust335,3,text,30/11/2024,2,Text/email opened,No action taken
+Cust336,2,email,01/12/2024,1,Received Campaign,No action taken
+Cust337,1,email,02/12/2024,4,Action taken,contact us on webchat
+Cust338,1,email,03/12/2024,1,Received Campaign,No action taken
+Cust339,3,text,04/12/2024,3,Link clicked,No action taken
+Cust340,2,text,05/12/2024,1,Received Campaign,No action taken
+Cust341,2,text,06/12/2024,3,Link clicked,No action taken
+Cust342,2,email,07/12/2024,4,Action taken,complete a JTBD online
+Cust343,1,email,08/12/2024,3,Link clicked,No action taken
+Cust344,2,email,09/12/2024,2,Text/email opened,No action taken
+Cust345,2,text,10/12/2024,4,Action taken,engage with self-help material
+Cust346,1,email,11/12/2024,2,Text/email opened,No action taken
+Cust347,1,email,12/12/2024,1,Received Campaign,No action taken
+Cust348,1,text,13/12/2024,2,Text/email opened,No action taken
+Cust349,2,email,14/12/2024,4,Action taken,complete a JTBD online
+Cust350,1,email,15/12/2024,2,Text/email opened,No action taken
+Cust351,2,email,16/12/2024,2,Text/email opened,No action taken
+Cust352,2,email,17/12/2024,3,Link clicked,No action taken
+Cust353,1,email,18/12/2024,1,Received Campaign,No action taken
+Cust354,3,email,19/12/2024,1,Received Campaign,No action taken
+Cust355,2,email,20/12/2024,1,Received Campaign,No action taken
+Cust356,2,text,21/12/2024,4,Action taken,contact us on webchat
+Cust357,2,email,22/12/2024,2,Text/email opened,No action taken
+Cust358,2,email,23/12/2024,1,Received Campaign,No action taken
+Cust359,2,text,24/12/2024,1,Received Campaign,No action taken
+Cust360,2,email,25/12/2024,2,Text/email opened,No action taken
+Cust361,2,text,26/12/2024,1,Received Campaign,No action taken
+Cust362,2,email,27/12/2024,1,Received Campaign,No action taken
+Cust363,1,text,28/12/2024,3,Link clicked,No action taken
+Cust364,2,email,29/12/2024,1,Received Campaign,No action taken
+Cust365,2,email,30/12/2024,1,Received Campaign,No action taken
+Cust366,2,text,31/12/2024,2,Text/email opened,No action taken
+Cust367,2,email,01/01/2025,2,Text/email opened,No action taken
+Cust368,3,text,02/01/2025,3,Link clicked,No action taken
+Cust369,1,text,03/01/2025,2,Text/email opened,No action taken
+Cust370,1,email,04/01/2025,4,Action taken,contact us on webchat
+Cust371,1,text,05/01/2025,3,Link clicked,No action taken
+Cust372,3,text,06/01/2025,2,Text/email opened,No action taken
+Cust373,1,text,07/01/2025,4,Action taken,contact us on webchat
+Cust374,3,email,08/01/2025,3,Link clicked,No action taken
+Cust375,1,text,09/01/2025,3,Link clicked,No action taken
+Cust376,2,text,10/01/2025,3,Link clicked,No action taken
+Cust377,2,email,11/01/2025,2,Text/email opened,No action taken
+Cust378,2,email,12/01/2025,3,Link clicked,No action taken
+Cust379,2,email,13/01/2025,1,Received Campaign,No action taken
+Cust380,1,email,14/01/2025,4,Action taken,log in to digital channels
+Cust381,2,text,15/01/2025,3,Link clicked,No action taken
+Cust382,3,text,16/01/2025,3,Link clicked,No action taken
+Cust383,3,email,17/01/2025,2,Text/email opened,No action taken
+Cust384,2,email,18/01/2025,2,Text/email opened,No action taken
+Cust385,1,email,19/01/2025,2,Text/email opened,No action taken
+Cust386,1,email,20/01/2025,3,Link clicked,No action taken
+Cust387,2,email,21/01/2025,4,Action taken,engage with self-help material
+Cust388,1,text,22/01/2025,1,Received Campaign,No action taken
+Cust389,1,text,23/01/2025,1,Received Campaign,No action taken
+Cust390,2,text,24/01/2025,3,Link clicked,No action taken
+Cust391,1,email,25/01/2025,2,Text/email opened,No action taken
+Cust392,3,email,26/01/2025,2,Text/email opened,No action taken
+Cust393,1,text,27/01/2025,3,Link clicked,No action taken
+Cust394,3,email,28/01/2025,4,Action taken,complete a JTBD online
+Cust395,3,email,29/01/2025,3,Link clicked,No action taken
+Cust396,3,text,30/01/2025,2,Text/email opened,No action taken
+Cust397,1,email,31/01/2025,4,Action taken,log in to digital channels
+Cust398,1,text,01/02/2025,3,Link clicked,No action taken
+Cust399,3,email,02/02/2025,2,Text/email opened,No action taken
+Cust400,1,text,03/02/2025,2,Text/email opened,No action taken
+Cust401,2,text,04/02/2025,4,Action taken,log in to digital channels
+Cust402,1,text,05/02/2025,1,Received Campaign,No action taken
+Cust403,2,text,06/02/2025,2,Text/email opened,No action taken
+Cust404,2,text,07/02/2025,2,Text/email opened,No action taken
+Cust405,1,text,08/02/2025,4,Action taken,complete a JTBD online
+Cust406,2,email,09/02/2025,3,Link clicked,No action taken
+Cust407,2,text,10/02/2025,4,Action taken,engage with self-help material
+Cust408,3,email,11/02/2025,2,Text/email opened,No action taken
+Cust409,1,text,12/02/2025,2,Text/email opened,No action taken
+Cust410,2,email,13/02/2025,1,Received Campaign,No action taken
+Cust411,3,text,14/02/2025,1,Received Campaign,No action taken
+Cust412,3,text,15/02/2025,3,Link clicked,No action taken
+Cust413,3,text,16/02/2025,4,Action taken,engage with self-help material
+Cust414,1,email,17/02/2025,1,Received Campaign,No action taken
+Cust415,1,text,18/02/2025,2,Text/email opened,No action taken
+Cust416,3,text,19/02/2025,4,Action taken,log in to digital channels
+Cust417,2,text,20/02/2025,3,Link clicked,No action taken
+Cust418,3,text,21/02/2025,2,Text/email opened,No action taken
+Cust419,2,text,22/02/2025,4,Action taken,complete a JTBD online
+Cust420,3,email,23/02/2025,4,Action taken,contact us on webchat
+Cust421,2,email,24/02/2025,2,Text/email opened,No action taken
+Cust422,3,email,25/02/2025,1,Received Campaign,No action taken
+Cust423,3,email,26/02/2025,3,Link clicked,No action taken
+Cust424,1,text,27/02/2025,3,Link clicked,No action taken
+Cust425,2,email,28/02/2025,4,Action taken,engage with self-help material
+Cust426,3,text,01/03/2025,4,Action taken,engage with self-help material
+Cust427,2,text,02/03/2025,1,Received Campaign,No action taken
+Cust428,3,text,03/03/2025,4,Action taken,contact us on webchat
+Cust429,2,text,04/03/2025,3,Link clicked,No action taken
+Cust430,1,email,05/03/2025,2,Text/email opened,No action taken
+Cust431,1,text,06/03/2025,4,Action taken,complete a JTBD online
+Cust432,3,email,07/03/2025,2,Text/email opened,No action taken
+Cust433,3,text,08/03/2025,1,Received Campaign,No action taken
+Cust434,3,email,09/03/2025,3,Link clicked,No action taken
+Cust435,1,email,10/03/2025,1,Received Campaign,No action taken
+Cust436,1,email,11/03/2025,4,Action taken,engage with self-help material
+Cust437,2,text,12/03/2025,2,Text/email opened,No action taken
+Cust438,2,text,13/03/2025,1,Received Campaign,No action taken
+Cust439,3,text,14/03/2025,4,Action taken,log in to digital channels
+Cust440,1,text,15/03/2025,1,Received Campaign,No action taken
+Cust441,1,email,16/03/2025,3,Link clicked,No action taken
+Cust442,2,email,17/03/2025,1,Received Campaign,No action taken
+Cust443,3,text,18/03/2025,3,Link clicked,No action taken
+Cust444,3,email,19/03/2025,4,Action taken,contact us on webchat
+Cust445,2,email,20/03/2025,4,Action taken,complete a JTBD online
+Cust446,2,text,21/03/2025,4,Action taken,log in to digital channels
+Cust447,3,email,22/03/2025,3,Link clicked,No action taken
+Cust448,1,email,23/03/2025,1,Received Campaign,No action taken
+Cust449,1,text,24/03/2025,4,Action taken,log in to digital channels
+Cust450,3,text,25/03/2025,1,Received Campaign,No action taken
+Cust451,2,text,26/03/2025,1,Received Campaign,No action taken
+Cust452,1,email,27/03/2025,1,Received Campaign,No action taken
+Cust453,1,email,28/03/2025,2,Text/email opened,No action taken
+Cust454,2,email,29/03/2025,3,Link clicked,No action taken
+Cust455,1,email,30/03/2025,3,Link clicked,No action taken
+Cust456,1,text,31/03/2025,2,Text/email opened,No action taken
+Cust457,3,text,01/04/2025,1,Received Campaign,No action taken
+Cust458,1,text,02/04/2025,2,Text/email opened,No action taken
+Cust459,3,email,03/04/2025,2,Text/email opened,No action taken
+Cust460,2,text,04/04/2025,2,Text/email opened,No action taken
+Cust461,3,text,05/04/2025,2,Text/email opened,No action taken
+Cust462,1,text,06/04/2025,3,Link clicked,No action taken
+Cust463,3,email,07/04/2025,2,Text/email opened,No action taken
+Cust464,3,email,08/04/2025,1,Received Campaign,No action taken
+Cust465,3,text,09/04/2025,3,Link clicked,No action taken
+Cust466,2,email,10/04/2025,1,Received Campaign,No action taken
+Cust467,2,email,11/04/2025,1,Received Campaign,No action taken
+Cust468,1,text,12/04/2025,4,Action taken,contact us on webchat
+Cust469,1,email,13/04/2025,3,Link clicked,No action taken
+Cust470,1,email,14/04/2025,3,Link clicked,No action taken
+Cust471,2,email,15/04/2025,1,Received Campaign,No action taken
+Cust472,2,email,16/04/2025,3,Link clicked,No action taken
+Cust473,3,email,17/04/2025,2,Text/email opened,No action taken
+Cust474,1,email,18/04/2025,2,Text/email opened,No action taken
+Cust475,2,text,19/04/2025,2,Text/email opened,No action taken
+Cust476,2,email,20/04/2025,2,Text/email opened,No action taken
+Cust477,2,text,21/04/2025,2,Text/email opened,No action taken
+Cust478,3,text,22/04/2025,4,Action taken,complete a JTBD online
+Cust479,1,email,23/04/2025,2,Text/email opened,No action taken
+Cust480,2,email,24/04/2025,4,Action taken,log in to digital channels
+Cust481,3,email,25/04/2025,4,Action taken,contact us on webchat
+Cust482,3,text,26/04/2025,4,Action taken,contact us on webchat
+Cust483,2,text,27/04/2025,4,Action taken,log in to digital channels
+Cust484,2,email,28/04/2025,1,Received Campaign,No action taken
+Cust485,1,email,29/04/2025,4,Action taken,complete a JTBD online
+Cust486,1,text,30/04/2025,1,Received Campaign,No action taken
+Cust487,2,email,01/05/2025,1,Received Campaign,No action taken
+Cust488,3,text,02/05/2025,2,Text/email opened,No action taken
+Cust489,3,text,03/05/2025,1,Received Campaign,No action taken
+Cust490,2,email,04/05/2025,2,Text/email opened,No action taken
+Cust491,1,text,05/05/2025,3,Link clicked,No action taken
+Cust492,1,text,06/05/2025,4,Action taken,engage with self-help material
+Cust493,1,text,07/05/2025,1,Received Campaign,No action taken
+Cust494,3,text,08/05/2025,3,Link clicked,No action taken
+Cust495,2,text,09/05/2025,3,Link clicked,No action taken
+Cust496,3,text,10/05/2025,1,Received Campaign,No action taken
+Cust497,3,text,11/05/2025,4,Action taken,log in to digital channels
+Cust498,2,text,12/05/2025,4,Action taken,engage with self-help material
+Cust499,1,email,13/05/2025,2,Text/email opened,No action taken
+Cust500,3,email,14/05/2025,4,Action taken,engage with self-help material

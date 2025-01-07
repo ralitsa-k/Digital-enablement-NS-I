@@ -1,0 +1,139 @@
+Customer ID,Digicare Case ID,Date Case Opened,Date Case Closed,Level of Digicare support,Correct digicare Referral,Outcome,average log-ins to digital channels per month,average use of self-help resources per month,Open Case Categories,Digicare Referrals,Digicare Impact,Closed Case Categories
+Cust006,Digi001,07/10/2024,28/10/2024,1,Yes,no change,2,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,In-person Coaching
+Cust010,Digi002,30/04/2024,14/05/2024,2,No,new engagement (self help),2,2,awaiting triage,required a device,No coaching Referral,In-person Coaching
+Cust017,Digi003,14/02/2024,29/02/2024,3,Yes,new engagement (self help),1,2,awaiting telephony coaching,required a f2f coaching session,complete a JTBD online,Telephony Coaching
+Cust025,Digi004,25/02/2024,18/03/2024,1,Yes,new engagement (self help),1,2,awaiting device & data,didn’t need Digicare,No coaching Referral,In-person Coaching
+Cust031,Digi005,08/04/2024,30/04/2024,2,Yes,no change,2,1,awaiting triage,required a device,No coaching Referral,Telephony Coaching
+Cust036,Digi006,16/06/2024,03/07/2024,3,Yes,new engagement (self help),0,0,awaiting triage,only required a triage session,No coaching Referral,In-person Coaching
+Cust045,Digi007,24/11/2024,22/12/2024,1,Yes,new engagement (self help),2,1,awaiting telephony coaching,required a f2f coaching session,complete a JTBD online,Triage
+Cust048,Digi008,02/10/2024,15/10/2024,2,Yes,new engagement (self help),0,1,awaiting telephony coaching,only required a triage session,No coaching Referral,Triage
+Cust049,Digi009,08/01/2024,09/01/2024,3,Yes,new engagement (self help),1,0,awaiting f2f coaching,required a data SIM,No coaching Referral,Telephony Coaching
+Cust051,Digi010,28/11/2024,19/12/2024,1,Yes,new engagement (self help),2,2,awaiting f2f coaching,required a f2f coaching session,contact us by phone,Triage
+Cust067,Digi011,02/02/2024,02/03/2024,2,No,new engagement (self help),0,0,awaiting f2f coaching,required a f2f coaching session,engage with self-help material,Triage
+Cust081,Digi012,26/03/2024,13/04/2024,3,Yes,new engagement (self help),2,2,awaiting f2f coaching,only required a triage session,No coaching Referral,In-person Coaching
+Cust084,Digi013,29/08/2024,17/09/2024,1,Yes,no change,0,1,awaiting telephony coaching,only required a triage session,No coaching Referral,In-person Coaching
+Cust089,Digi014,05/09/2024,11/09/2024,2,No,new engagement (self help),1,0,awaiting device & data,only required a triage session,No coaching Referral,Telephony Coaching
+Cust095,Digi015,24/09/2024,11/10/2024,3,Yes,no change,2,0,awaiting f2f coaching,required a data SIM,No coaching Referral,Triage
+Cust102,Digi016,17/06/2024,06/07/2024,1,No,new engagement (self help),2,0,awaiting f2f coaching,required a remote coaching session,contact us by phone,Telephony Coaching
+Cust127,Digi017,15/10/2024,18/10/2024,2,Yes,no change,2,0,awaiting telephony coaching,required a remote coaching session,contact us by phone,Triage
+Cust140,Digi018,24/11/2024,01/12/2024,3,Yes,new engagement (self help),0,1,awaiting telephony coaching,required a f2f coaching session,engage with self-help material,Telephony Coaching
+Cust150,Digi019,22/06/2024,08/07/2024,1,Yes,no change,0,0,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,Telephony Coaching
+Cust151,Digi020,31/05/2024,25/06/2024,2,Yes,no change,0,0,awaiting device & data,required a remote coaching session,contact us on webchat,Triage
+Cust153,Digi021,25/07/2024,31/07/2024,3,Yes,no change,0,2,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,In-person Coaching
+Cust156,Digi022,15/12/2024,12/01/2025,1,Yes,no change,0,1,awaiting triage,required a data SIM,No coaching Referral,In-person Coaching
+Cust163,Digi023,17/01/2024,04/02/2024,2,Yes,no change,0,1,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,Triage
+Cust170,Digi024,24/01/2024,06/02/2024,3,Yes,no change,1,2,awaiting telephony coaching,only required a triage session,No coaching Referral,Triage
+Cust171,Digi025,17/12/2024,23/12/2024,1,Yes,still in process,2,2,awaiting triage,required a f2f coaching session,contact us on webchat,In-person Coaching
+Cust173,Digi026,29/05/2024,23/06/2024,2,Yes,still in process,1,1,awaiting triage,required a remote coaching session,log in to digital channels,In-person Coaching
+Cust188,Digi027,02/07/2024,12/07/2024,3,Yes,still in process,1,0,awaiting triage,required a f2f coaching session,contact us by phone,In-person Coaching
+Cust201,Digi028,01/05/2024,03/05/2024,1,Yes,still in process,0,1,awaiting telephony coaching,required a device,No coaching Referral,Triage
+Cust204,Digi029,08/07/2024,15/07/2024,2,No,still in process,2,1,awaiting triage,required a device,No coaching Referral,Triage
+Cust210,Digi030,07/09/2024,15/09/2024,3,Yes,still in process,0,1,awaiting triage,required a device,No coaching Referral,Telephony Coaching
+Cust217,Digi031,13/11/2024,08/12/2024,1,Yes,still in process,1,0,awaiting device & data,required a remote coaching session,engage with self-help material,In-person Coaching
+Cust218,Digi032,14/06/2024,10/07/2024,2,Yes,still in process,2,2,awaiting telephony coaching,only required a triage session,No coaching Referral,Telephony Coaching
+Cust233,Digi033,25/08/2024,21/09/2024,3,Yes,still in process,2,1,awaiting f2f coaching,required a device,No coaching Referral,Telephony Coaching
+Cust240,Digi034,17/09/2024,27/09/2024,1,No,still in process,2,2,awaiting f2f coaching,required a remote coaching session,contact us on webchat,Telephony Coaching
+Cust245,Digi035,15/02/2024,03/03/2024,2,Yes,still in process,2,2,awaiting f2f coaching,required a device,No coaching Referral,Triage
+Cust263,Digi036,09/07/2024,08/08/2024,3,Yes,still in process,1,0,awaiting triage,only required a triage session,No coaching Referral,In-person Coaching
+Cust274,Digi037,21/05/2024,26/05/2024,1,Yes,still in process,1,1,awaiting triage,only required a triage session,No coaching Referral,In-person Coaching
+Cust293,Digi038,25/10/2024,14/11/2024,2,Yes,still in process,2,0,awaiting triage,required a device,No coaching Referral,Telephony Coaching
+Cust294,Digi039,15/08/2024,02/09/2024,3,Yes,still in process,2,1,awaiting telephony coaching,required a f2f coaching session,contact us by phone,Telephony Coaching
+Cust314,Digi040,29/09/2024,26/10/2024,1,Yes,still in process,2,0,awaiting device & data,only required a triage session,No coaching Referral,Telephony Coaching
+Cust327,Digi041,10/08/2024,11/08/2024,2,Yes,still in process,1,2,awaiting triage,didn’t need Digicare,No coaching Referral,Telephony Coaching
+Cust330,Digi042,02/09/2024,25/09/2024,3,Yes,still in process,2,1,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,Telephony Coaching
+Cust332,Digi043,12/10/2024,08/11/2024,1,No,still in process,0,2,awaiting f2f coaching,required a data SIM,No coaching Referral,Triage
+Cust339,Digi044,19/04/2024,21/04/2024,2,No,still in process,1,2,awaiting triage,required a data SIM,No coaching Referral,In-person Coaching
+Cust355,Digi045,03/12/2024,24/12/2024,3,Yes,still in process,2,1,awaiting triage,required a f2f coaching session,contact us by phone,Telephony Coaching
+Cust370,Digi046,07/05/2024,28/05/2024,1,Yes,still in process,1,1,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,Triage
+Cust390,Digi047,07/10/2024,17/10/2024,2,Yes,still in process,0,2,awaiting triage,required a f2f coaching session,engage with self-help material,In-person Coaching
+Cust391,Digi048,10/07/2024,26/07/2024,3,No,still in process,0,1,awaiting device & data,required a data SIM,No coaching Referral,Triage
+Cust395,Digi049,11/03/2024,14/03/2024,1,No,still in process,2,2,awaiting f2f coaching,required a f2f coaching session,contact us on webchat,In-person Coaching
+Cust396,Digi050,19/03/2024,09/04/2024,2,No,still in process,1,1,awaiting triage,only required a triage session,No coaching Referral,Telephony Coaching
+Cust405,Digi051,19/05/2024,27/05/2024,3,No,still in process,0,2,awaiting triage,required a f2f coaching session,complete a JTBD online,Telephony Coaching
+Cust416,Digi052,23/01/2024,01/02/2024,1,Yes,still in process,1,1,awaiting triage,required a data SIM,No coaching Referral,Triage
+Cust427,Digi053,02/06/2024,14/06/2024,2,No,still in process,1,1,awaiting triage,required a data SIM,No coaching Referral,In-person Coaching
+Cust430,Digi054,19/02/2024,09/03/2024,3,Yes,still in process,1,0,awaiting triage,didn’t need Digicare,No coaching Referral,In-person Coaching
+Cust444,Digi055,26/05/2024,14/06/2024,1,Yes,still in process,2,2,awaiting telephony coaching,required a device,No coaching Referral,Triage
+Cust449,Digi056,19/05/2024,21/05/2024,2,No,still in process,2,1,awaiting triage,didn’t need Digicare,No coaching Referral,In-person Coaching
+Cust462,Digi057,06/01/2024,30/01/2024,3,Yes,still in process,1,2,awaiting device & data,required a remote coaching session,log in to digital channels,Telephony Coaching
+Cust463,Digi058,21/12/2024,09/01/2025,1,Yes,still in process,1,2,awaiting triage,required a data SIM,No coaching Referral,In-person Coaching
+Cust466,Digi059,29/08/2024,17/09/2024,2,Yes,still in process,1,0,awaiting triage,required a f2f coaching session,log in to digital channels,In-person Coaching
+Cust467,Digi060,08/06/2024,17/06/2024,3,Yes,still in process,1,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,Triage
+Cust481,Digi061,27/06/2024,11/07/2024,1,Yes,still in process,1,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,Telephony Coaching
+Cust001,Digi062,09/09/2024,09/10/2024,2,Yes,still in process,0,2,awaiting triage,only required a triage session,No coaching Referral,Telephony Coaching
+Cust015,Digi063,26/10/2024,19/11/2024,3,No,still in process,0,1,awaiting telephony coaching,required a remote coaching session,contact us by phone,Triage
+Cust020,Digi064,27/04/2024,14/05/2024,1,Yes,still in process,2,0,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,Triage
+Cust026,Digi065,02/09/2024,28/09/2024,2,Yes,still in process,0,2,awaiting f2f coaching,only required a triage session,No coaching Referral,Telephony Coaching
+Cust032,Digi066,08/07/2024,25/07/2024,3,Yes,still in process,1,2,awaiting f2f coaching,required a data SIM,No coaching Referral,Telephony Coaching
+Cust033,Digi067,19/02/2024,08/03/2024,1,Yes,still in process,0,0,awaiting telephony coaching,required a data SIM,No coaching Referral,Triage
+Cust070,Digi068,14/06/2024,15/06/2024,2,Yes,still in process,0,1,awaiting triage,required a data SIM,No coaching Referral,Telephony Coaching
+Cust075,Digi069,11/03/2024,30/03/2024,3,Yes,still in process,2,1,awaiting f2f coaching,required a data SIM,No coaching Referral,In-person Coaching
+Cust097,Digi070,26/02/2024,03/03/2024,1,Yes,still in process,0,2,awaiting triage,required a device,No coaching Referral,Triage
+Cust100,Digi071,23/12/2024,02/01/2025,2,No,still in process,1,1,awaiting f2f coaching,required a device,No coaching Referral,Triage
+Cust105,Digi072,25/01/2024,28/01/2024,3,Yes,still in process,2,1,awaiting triage,didn’t need Digicare,No coaching Referral,Triage
+Cust109,Digi073,14/03/2024,17/03/2024,1,Yes,still in process,0,0,awaiting f2f coaching,required a data SIM,No coaching Referral,Telephony Coaching
+Cust114,Digi074,07/09/2024,05/10/2024,2,No,still in process,0,0,awaiting triage,required a f2f coaching session,engage with self-help material,Telephony Coaching
+Cust117,Digi075,19/10/2024,20/10/2024,3,No,still in process,1,1,awaiting triage,only required a triage session,No coaching Referral,Triage
+Cust137,Digi076,15/06/2024,28/06/2024,1,Yes,still in process,0,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,Telephony Coaching
+Cust163,Digi077,29/05/2024,05/06/2024,2,No,still in process,2,2,awaiting triage,required a remote coaching session,engage with self-help material,In-person Coaching
+Cust168,Digi078,30/04/2024,09/05/2024,3,Yes,still in process,1,0,awaiting triage,required a f2f coaching session,log in to digital channels,In-person Coaching
+Cust175,Digi079,15/01/2024,28/01/2024,1,No,still in process,1,1,awaiting f2f coaching,only required a triage session,No coaching Referral,Triage
+Cust188,Digi080,01/07/2024,16/07/2024,2,Yes,still in process,1,0,awaiting f2f coaching,only required a triage session,No coaching Referral,In-person Coaching
+Cust194,Digi081,23/03/2024,16/04/2024,3,No,still in process,0,2,awaiting device & data,only required a triage session,No coaching Referral,In-person Coaching
+Cust196,Digi082,26/08/2024,20/09/2024,1,Yes,still in process,1,2,awaiting f2f coaching,required a data SIM,No coaching Referral,Telephony Coaching
+Cust202,Digi083,30/03/2024,15/04/2024,2,Yes,still in process,1,1,awaiting device & data,only required a triage session,No coaching Referral,In-person Coaching
+Cust205,Digi084,16/08/2024,11/09/2024,3,Yes,still in process,2,0,awaiting telephony coaching,required a device,No coaching Referral,Telephony Coaching
+Cust227,Digi085,17/09/2024,16/10/2024,1,Yes,still in process,2,0,awaiting triage,required a device,No coaching Referral,Triage
+Cust249,Digi086,15/12/2024,13/01/2025,2,Yes,still in process,1,0,awaiting triage,didn’t need Digicare,No coaching Referral,Triage
+Cust312,Digi087,01/06/2024,11/06/2024,3,Yes,still in process,1,0,awaiting device & data,only required a triage session,No coaching Referral,Telephony Coaching
+Cust330,Digi088,07/08/2024,19/08/2024,1,Yes,still in process,1,2,awaiting telephony coaching,required a data SIM,No coaching Referral,Telephony Coaching
+Cust346,Digi089,19/05/2024,03/06/2024,2,Yes,still in process,1,1,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,Telephony Coaching
+Cust356,Digi090,15/09/2024,27/09/2024,3,Yes,still in process,0,0,awaiting device & data,required a device,No coaching Referral,In-person Coaching
+Cust383,Digi091,27/04/2024,10/05/2024,1,Yes,still in process,0,1,awaiting triage,required a remote coaching session,complete a JTBD online,Triage
+Cust400,Digi092,04/06/2024,27/06/2024,2,No,still in process,2,1,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,Telephony Coaching
+Cust406,Digi093,01/07/2024,08/07/2024,3,Yes,still in process,2,1,awaiting device & data,didn’t need Digicare,No coaching Referral,Telephony Coaching
+Cust412,Digi094,08/06/2024,12/06/2024,1,Yes,still in process,2,2,awaiting f2f coaching,required a data SIM,No coaching Referral,In-person Coaching
+Cust439,Digi095,19/06/2024,21/06/2024,2,No,still in process,0,2,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,Triage
+Cust466,Digi096,06/02/2024,15/02/2024,3,Yes,still in process,2,2,awaiting device & data,only required a triage session,No coaching Referral,In-person Coaching
+Cust471,Digi097,11/12/2024,07/01/2025,1,Yes,new engagement (self help),2,2,awaiting f2f coaching,required a remote coaching session,complete a JTBD online,Telephony Coaching
+Cust486,Digi098,28/03/2024,17/04/2024,2,Yes,new engagement (self help),0,2,awaiting triage,required a remote coaching session,complete a JTBD online,In-person Coaching
+Cust024,Digi099,28/10/2024,16/11/2024,3,Yes,new engagement (self help),1,0,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,In-person Coaching
+Cust037,Digi100,03/02/2024,21/02/2024,1,No,new engagement (self help),2,0,awaiting device & data,required a f2f coaching session,contact us by phone,Telephony Coaching
+Cust049,Digi101,02/02/2024,21/02/2024,2,Yes,new engagement (self help),0,2,awaiting device & data,required a f2f coaching session,log in to digital channels,Telephony Coaching
+Cust059,Digi102,20/05/2024,14/06/2024,3,Yes,new engagement (self help),0,0,awaiting telephony coaching,required a remote coaching session,log in to digital channels,Triage
+Cust065,Digi103,29/09/2024,08/10/2024,1,No,new engagement (self help),2,2,awaiting device & data,required a data SIM,No coaching Referral,Telephony Coaching
+Cust084,Digi104,10/08/2024,31/08/2024,2,Yes,new engagement (self help),2,2,awaiting device & data,required a remote coaching session,log in to digital channels,Telephony Coaching
+Cust085,Digi105,15/09/2024,18/09/2024,3,Yes,new engagement (self help),2,2,awaiting device & data,didn’t need Digicare,No coaching Referral,Triage
+Cust101,Digi106,17/06/2024,04/07/2024,1,Yes,new engagement (self help),1,1,awaiting f2f coaching,required a f2f coaching session,contact us by phone,Telephony Coaching
+Cust106,Digi107,16/02/2024,19/02/2024,2,Yes,new engagement (self help),2,2,awaiting telephony coaching,required a data SIM,No coaching Referral,Telephony Coaching
+Cust120,Digi108,16/03/2024,20/03/2024,3,Yes,new engagement (self help),2,2,awaiting device & data,required a data SIM,No coaching Referral,Triage
+Cust122,Digi109,26/06/2024,01/07/2024,1,Yes,new engagement (self help),0,0,awaiting triage,didn’t need Digicare,No coaching Referral,Telephony Coaching
+Cust134,Digi110,14/03/2024,06/04/2024,2,No,new engagement (self help),2,1,awaiting device & data,required a device,No coaching Referral,Telephony Coaching
+Cust149,Digi111,16/01/2024,28/01/2024,3,No,new engagement (self help),0,2,awaiting triage,only required a triage session,No coaching Referral,Telephony Coaching
+Cust162,Digi112,17/10/2024,24/10/2024,1,Yes,new engagement (self help),2,2,awaiting device & data,didn’t need Digicare,No coaching Referral,Triage
+Cust167,Digi113,04/01/2024,01/02/2024,2,Yes,new engagement (self help),1,1,awaiting triage,required a data SIM,No coaching Referral,Telephony Coaching
+Cust176,Digi114,07/10/2024,20/10/2024,3,Yes,new engagement (self help),1,1,awaiting triage,only required a triage session,No coaching Referral,In-person Coaching
+Cust186,Digi115,23/07/2024,26/07/2024,1,Yes,new engagement (self help),2,1,awaiting telephony coaching,required a f2f coaching session,contact us by phone,In-person Coaching
+Cust187,Digi116,28/03/2024,12/04/2024,2,No,new engagement (self help),1,1,awaiting device & data,required a f2f coaching session,contact us on webchat,In-person Coaching
+Cust189,Digi117,08/11/2024,10/11/2024,3,Yes,new engagement (self help),0,2,awaiting device & data,didn’t need Digicare,No coaching Referral,Telephony Coaching
+Cust190,Digi118,05/12/2024,12/12/2024,1,Yes,new engagement (self help),1,2,awaiting triage,required a remote coaching session,engage with self-help material,Telephony Coaching
+Cust215,Digi119,08/11/2024,25/11/2024,2,Yes,new engagement (self help),2,2,awaiting f2f coaching,only required a triage session,No coaching Referral,Triage
+Cust234,Digi120,25/11/2024,02/12/2024,3,Yes,new engagement (self help),0,1,awaiting f2f coaching,only required a triage session,No coaching Referral,Telephony Coaching
+Cust235,Digi121,26/11/2024,05/12/2024,1,Yes,new engagement (self help),2,1,awaiting device & data,required a f2f coaching session,engage with self-help material,Triage
+Cust255,Digi122,21/08/2024,11/09/2024,2,Yes,new engagement (self help),0,1,awaiting telephony coaching,required a device,No coaching Referral,In-person Coaching
+Cust288,Digi123,07/12/2024,09/12/2024,3,Yes,new engagement (self help),2,2,awaiting telephony coaching,required a data SIM,No coaching Referral,In-person Coaching
+Cust299,Digi124,04/11/2024,11/11/2024,1,Yes,new engagement (self help),0,1,awaiting telephony coaching,required a device,No coaching Referral,In-person Coaching
+Cust312,Digi125,17/01/2024,26/01/2024,2,Yes,no change,2,2,awaiting triage,required a remote coaching session,log in to digital channels,Triage
+Cust341,Digi126,20/05/2024,14/06/2024,3,Yes,new engagement (self help),0,1,awaiting triage,required a data SIM,No coaching Referral,Telephony Coaching
+Cust356,Digi127,11/09/2024,27/09/2024,1,Yes,no change,0,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,Telephony Coaching
+Cust405,Digi128,22/12/2024,03/01/2025,2,Yes,new engagement (self help),2,1,awaiting device & data,required a data SIM,No coaching Referral,In-person Coaching
+Cust407,Digi129,05/08/2024,28/08/2024,3,Yes,no change,2,1,awaiting f2f coaching,required a data SIM,No coaching Referral,Triage
+Cust436,Digi130,26/01/2024,30/01/2024,1,Yes,new engagement (self help),1,2,awaiting device & data,required a remote coaching session,engage with self-help material,Telephony Coaching
+Cust437,Digi131,18/11/2024,21/11/2024,2,Yes,no change,2,1,awaiting device & data,required a data SIM,No coaching Referral,Telephony Coaching
+Cust443,Digi132,19/05/2024,04/06/2024,3,No,new engagement (self help),1,2,awaiting telephony coaching,required a remote coaching session,complete a JTBD online,In-person Coaching
+Cust461,Digi133,02/04/2024,09/04/2024,1,No,no change,2,0,awaiting f2f coaching,only required a triage session,No coaching Referral,Triage
+Cust467,Digi134,10/06/2024,10/07/2024,2,Yes,new engagement (self help),0,2,awaiting telephony coaching,required a device,No coaching Referral,Telephony Coaching
+Cust478,Digi135,19/05/2024,23/05/2024,3,Yes,no change,0,0,awaiting f2f coaching,only required a triage session,No coaching Referral,Telephony Coaching
+Cust479,Digi136,05/12/2024,08/12/2024,1,Yes,new engagement (self help),1,0,awaiting device & data,required a f2f coaching session,contact us by phone,Triage
+Cust489,Digi137,21/05/2024,28/05/2024,2,Yes,no change,1,0,awaiting f2f coaching,required a f2f coaching session,engage with self-help material,Triage
+Cust499,Digi138,24/08/2024,30/08/2024,3,No,new engagement (self help),1,1,awaiting device & data,required a data SIM,No coaching Referral,Triage

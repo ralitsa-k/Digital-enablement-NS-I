@@ -1,0 +1,101 @@
+employee_id,status,training_course,training_completion_date
+EMP14,Full-time,Soft Skills,11/01/2024 22:41
+EMP8,Part-time,Soft Skills,22/01/2024 07:07
+EMP84,Part-time,ITSM,15/12/2023 04:54
+EMP11,Part-time,Soft Skills,05/12/2023 21:34
+EMP76,Part-time,ITSM,05/12/2023 15:47
+EMP44,Part-time,Soft Skills,22/12/2023 05:30
+EMP46,Part-time,ITSM,12/12/2023 11:55
+EMP21,Part-time,Soft Skills,14/12/2023 20:34
+EMP26,Full-time,ITSM,09/01/2024 00:36
+EMP34,Part-time,Soft Skills,01/01/2024 22:40
+EMP60,Part-time,ITSM,26/12/2023 22:06
+EMP9,Part-time,Soft Skills,17/01/2024 08:10
+EMP22,Part-time,ITSM,04/12/2023 07:46
+EMP53,Full-time,Soft Skills,17/01/2024 21:16
+EMP85,Part-time,ITSM,14/12/2023 19:04
+EMP98,Part-time,Soft Skills,26/01/2024 17:30
+EMP87,Full-time,ITSM,22/01/2024 00:17
+EMP86,Part-time,Soft Skills,31/12/2023 01:17
+EMP72,Full-time,ITSM,27/12/2023 07:04
+EMP52,Full-time,ITSM,01/12/2023 00:44
+EMP50,Part-time,ITSM,26/01/2024 10:50
+EMP93,Full-time,ITSM,13/12/2023 19:40
+EMP82,Part-time,Soft Skills,04/12/2023 23:49
+EMP90,Part-time,ITSM,02/12/2023 05:44
+EMP49,Full-time,Soft Skills,22/12/2023 05:54
+EMP79,Full-time,Soft Skills,05/01/2024 13:33
+EMP81,Part-time,Soft Skills,25/01/2024 01:56
+EMP92,Part-time,ITSM,24/01/2024 04:28
+EMP31,Full-time,Soft Skills,01/12/2023 02:40
+EMP78,Part-time,ITSM,07/12/2023 15:19
+EMP57,Part-time,ITSM,14/01/2024 05:58
+EMP94,Part-time,Soft Skills,09/01/2024 10:26
+EMP32,Part-time,Soft Skills,24/12/2023 17:42
+EMP80,Full-time,ITSM,26/01/2024 00:17
+EMP3,Part-time,Soft Skills,27/12/2023 13:52
+EMP100,Part-time,Soft Skills,19/01/2024 23:29
+EMP95,Part-time,Soft Skills,27/12/2023 19:11
+EMP13,Part-time,Soft Skills,08/01/2024 18:57
+EMP39,Full-time,Soft Skills,01/01/2024 14:39
+EMP40,Full-time,Soft Skills,12/12/2023 06:27
+EMP45,Part-time,Soft Skills,28/12/2023 11:05
+EMP64,Part-time,ITSM,12/01/2024 08:18
+EMP56,Full-time,Soft Skills,01/12/2023 15:47
+EMP25,Full-time,ITSM,08/12/2023 17:56
+EMP70,Part-time,Soft Skills,12/01/2024 05:58
+EMP62,Part-time,Soft Skills,31/12/2023 20:01
+EMP6,Part-time,Soft Skills,24/12/2023 11:29
+EMP59,Full-time,ITSM,08/12/2023 09:37
+EMP18,Full-time,ITSM,14/12/2023 07:17
+EMP16,Part-time,Soft Skills,18/01/2024 23:04
+EMP51,Part-time,ITSM,10/01/2024 05:28
+EMP5,Part-time,ITSM,10/12/2023 18:18
+EMP48,Part-time,Soft Skills,25/12/2023 23:03
+EMP1,Part-time,ITSM,08/01/2024 00:56
+EMP38,Part-time,ITSM,20/01/2024 14:44
+EMP47,Full-time,Soft Skills,25/01/2024 19:36
+EMP36,Part-time,Soft Skills,17/01/2024 00:43
+EMP73,Part-time,ITSM,07/01/2024 12:53
+EMP74,Part-time,Soft Skills,18/12/2023 07:23
+EMP2,Part-time,Soft Skills,03/12/2023 15:59
+EMP41,Part-time,ITSM,27/12/2023 04:14
+EMP20,Part-time,Soft Skills,17/01/2024 03:59
+EMP19,Full-time,Soft Skills,04/01/2024 11:30
+EMP23,Full-time,ITSM,07/12/2023 05:00
+EMP65,Part-time,Soft Skills,15/01/2024 18:01
+EMP99,Full-time,ITSM,26/12/2023 22:50
+EMP75,Part-time,Soft Skills,19/12/2023 21:50
+EMP17,Part-time,Soft Skills,09/01/2024 16:06
+EMP7,Part-time,ITSM,04/12/2023 19:27
+EMP89,Full-time,Soft Skills,04/01/2024 11:56
+EMP10,Full-time,ITSM,16/01/2024 21:05
+EMP96,Full-time,Soft Skills,06/01/2024 10:06
+EMP4,Full-time,Soft Skills,18/01/2024 05:55
+EMP69,Part-time,ITSM,10/01/2024 10:08
+EMP58,Part-time,ITSM,06/01/2024 16:55
+EMP43,Part-time,ITSM,21/12/2023 01:17
+EMP91,Full-time,Soft Skills,07/12/2023 17:21
+EMP71,Full-time,ITSM,18/12/2023 21:45
+EMP24,Part-time,ITSM,16/01/2024 05:23
+EMP12,Full-time,ITSM,12/12/2023 13:45
+EMP33,Part-time,ITSM,19/01/2024 16:43
+EMP55,Full-time,Soft Skills,20/12/2023 02:29
+EMP35,Part-time,Soft Skills,09/01/2024 21:15
+EMP15,Full-time,Soft Skills,22/01/2024 05:10
+EMP88,Part-time,ITSM,04/12/2023 18:33
+EMP54,Full-time,ITSM,16/12/2023 14:08
+EMP66,Part-time,Soft Skills,10/01/2024 07:16
+EMP83,Full-time,ITSM,13/12/2023 13:18
+EMP61,Full-time,Soft Skills,14/12/2023 20:29
+EMP42,Part-time,ITSM,30/12/2023 15:53
+EMP29,Part-time,ITSM,27/01/2024 20:58
+EMP28,Full-time,ITSM,29/12/2023 03:36
+EMP30,Part-time,ITSM,28/12/2023 23:29
+EMP27,Full-time,ITSM,24/01/2024 22:31
+EMP97,Full-time,Soft Skills,06/12/2023 16:52
+EMP68,Part-time,ITSM,07/12/2023 19:55
+EMP67,Part-time,ITSM,12/01/2024 16:39
+EMP63,Full-time,ITSM,02/01/2024 11:45
+EMP37,Part-time,Soft Skills,07/01/2024 12:49
+EMP77,Full-time,ITSM,06/01/2024 07:09
