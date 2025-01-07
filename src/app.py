@@ -7,9 +7,7 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 import os 
 import dash
-import json
 from textwrap import dedent as d 
-import datetime
 from PIL import Image
 
 CONTENT_STYLE = {
@@ -17,34 +15,6 @@ CONTENT_STYLE = {
     'backgorund-color': '#1e1e1e',
     "margin-top":'4rem'
 }
-# top_CONTENT_STYLE = {
-#     "margin-left": "30rem",
-#     'backgorund-color': '#ffffff'
-# }
-
-# bottom_cont_style = {
-#     "margin-left": "25rem",
-#     "margin-right":'5rem',
-#     "padding": "2rem 1rem",
-#     'backgorund-color': '#ffffff'
-# }
-
-# SIDEBAR_STYLE = {
-#     "position": "fixed",
-#     "top": "5rem",
-#     "left": "2rem",
-#     "bottom": "5rem",
-#     "width": "20rem",
-#     "height": "30rem",
-#     "padding": "2rem 1rem",
-#     "background-color": "#ffffff"
-    
-# }
-
-# radio_style = {"padding-left": "10px",
-#                'display':'inline-block',
-#                'font-size': '30px',
-#                'text-align':'center'}
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE],assets_folder ="static",
                  assets_url_path="static")
