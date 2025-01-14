@@ -1,225 +1,501 @@
-Customer ID,Digicare Case ID,Date Case Opened,Date Case Closed,average log-ins to digital channels per month,Open Case Categories,Digicare Referrals,Digicare Impact,Date logged in
-Cust001,Digi062,09/09/2024,09/10/2024,2,awaiting triage,only required a triage session,No coaching Referral,06/02/2025
-Cust006,Digi001,07/10/2024,28/10/2024,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,13/01/2025
-Cust006,Digi001,07/10/2024,28/10/2024,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,24/01/2025
-Cust010,Digi002,30/04/2024,14/05/2024,2,awaiting triage,required a device,No coaching Referral,15/01/2025
-Cust015,Digi063,26/10/2024,19/11/2024,1,awaiting telephony coaching,required a remote coaching session,contact us by phone,27/11/2024
-Cust017,Digi003,14/02/2024,29/02/2024,2,awaiting telephony coaching,required a f2f coaching session,complete a JTBD online,30/03/2024
-Cust020,Digi064,27/04/2024,14/05/2024,0,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,
-Cust024,Digi099,28/10/2024,16/11/2024,0,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,
-Cust025,Digi004,25/02/2024,18/03/2024,2,awaiting device & data,didn’t need Digicare,No coaching Referral,19/10/2024
-Cust026,Digi065,02/09/2024,28/09/2024,2,awaiting f2f coaching,only required a triage session,No coaching Referral,07/02/2025
-Cust031,Digi005,08/04/2024,30/04/2024,1,awaiting triage,required a device,No coaching Referral,25/07/2024
-Cust032,Digi066,08/07/2024,25/07/2024,2,awaiting f2f coaching,required a data SIM,No coaching Referral,27/08/2024
-Cust033,Digi067,19/02/2024,08/03/2024,0,awaiting telephony coaching,required a data SIM,No coaching Referral,
-Cust036,Digi006,16/06/2024,03/07/2024,0,awaiting triage,only required a triage session,No coaching Referral,
-Cust037,Digi100,03/02/2024,21/02/2024,0,awaiting device & data,required a f2f coaching session,contact us by phone,
-Cust045,Digi007,24/11/2024,22/12/2024,1,awaiting telephony coaching,required a f2f coaching session,complete a JTBD online,28/12/2024
-Cust048,Digi008,02/10/2024,15/10/2024,1,awaiting telephony coaching,only required a triage session,No coaching Referral,31/07/2025
-Cust049,Digi009,08/01/2024,09/01/2024,0,awaiting f2f coaching,required a data SIM,No coaching Referral,
-Cust049,Digi101,02/02/2024,21/02/2024,2,awaiting device & data,required a f2f coaching session,log in to digital channels,02/03/2024
-Cust049,Digi101,02/02/2024,21/02/2024,2,awaiting device & data,required a f2f coaching session,log in to digital channels,26/02/2024
-Cust051,Digi010,28/11/2024,19/12/2024,2,awaiting f2f coaching,required a f2f coaching session,contact us by phone,28/12/2024
-Cust059,Digi102,20/05/2024,14/06/2024,0,awaiting telephony coaching,required a remote coaching session,log in to digital channels,
-Cust065,Digi103,29/09/2024,08/10/2024,2,awaiting device & data,required a data SIM,No coaching Referral,12/01/2025
-Cust067,Digi011,02/02/2024,02/03/2024,0,awaiting f2f coaching,required a f2f coaching session,engage with self-help material,
-Cust070,Digi068,14/06/2024,15/06/2024,1,awaiting triage,required a data SIM,No coaching Referral,13/10/2024
-Cust075,Digi069,11/03/2024,30/03/2024,1,awaiting f2f coaching,required a data SIM,No coaching Referral,03/06/2024
-Cust081,Digi012,26/03/2024,13/04/2024,2,awaiting f2f coaching,only required a triage session,No coaching Referral,04/05/2024
-Cust084,Digi013,29/08/2024,17/09/2024,1,awaiting telephony coaching,only required a triage session,No coaching Referral,12/01/2025
-Cust084,Digi104,10/08/2024,31/08/2024,2,awaiting device & data,required a remote coaching session,log in to digital channels,19/11/2024
-Cust084,Digi104,10/08/2024,31/08/2024,2,awaiting device & data,required a remote coaching session,log in to digital channels,08/04/2025
-Cust085,Digi105,15/09/2024,18/09/2024,2,awaiting device & data,didn’t need Digicare,No coaching Referral,21/06/2025
-Cust089,Digi014,05/09/2024,11/09/2024,0,awaiting device & data,only required a triage session,No coaching Referral,
-Cust095,Digi015,24/09/2024,11/10/2024,0,awaiting f2f coaching,required a data SIM,No coaching Referral,
-Cust097,Digi070,26/02/2024,03/03/2024,2,awaiting triage,required a device,No coaching Referral,27/11/2024
-Cust100,Digi071,23/12/2024,02/01/2025,1,awaiting f2f coaching,required a device,No coaching Referral,17/10/2025
-Cust101,Digi106,17/06/2024,04/07/2024,1,awaiting f2f coaching,required a f2f coaching session,contact us by phone,03/08/2024
-Cust102,Digi016,17/06/2024,06/07/2024,0,awaiting f2f coaching,required a remote coaching session,contact us by phone,
-Cust105,Digi072,25/01/2024,28/01/2024,1,awaiting triage,didn’t need Digicare,No coaching Referral,25/08/2024
-Cust106,Digi107,16/02/2024,19/02/2024,2,awaiting telephony coaching,required a data SIM,No coaching Referral,05/11/2024
-Cust109,Digi073,14/03/2024,17/03/2024,0,awaiting f2f coaching,required a data SIM,No coaching Referral,
-Cust114,Digi074,07/09/2024,05/10/2024,0,awaiting triage,required a f2f coaching session,engage with self-help material,
-Cust117,Digi075,19/10/2024,20/10/2024,1,awaiting triage,only required a triage session,No coaching Referral,17/02/2025
-Cust120,Digi108,16/03/2024,20/03/2024,2,awaiting device & data,required a data SIM,No coaching Referral,27/08/2024
-Cust122,Digi109,26/06/2024,01/07/2024,0,awaiting triage,didn’t need Digicare,No coaching Referral,
-Cust127,Digi017,15/10/2024,18/10/2024,0,awaiting telephony coaching,required a remote coaching session,contact us by phone,
-Cust134,Digi110,14/03/2024,06/04/2024,1,awaiting device & data,required a device,No coaching Referral,30/11/2024
-Cust137,Digi076,15/06/2024,28/06/2024,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,28/07/2024
-Cust137,Digi076,15/06/2024,28/06/2024,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,03/07/2024
-Cust140,Digi018,24/11/2024,01/12/2024,1,awaiting telephony coaching,required a f2f coaching session,engage with self-help material,31/12/2024
-Cust149,Digi111,16/01/2024,28/01/2024,2,awaiting triage,only required a triage session,No coaching Referral,28/03/2024
-Cust150,Digi019,22/06/2024,08/07/2024,0,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,
-Cust151,Digi020,31/05/2024,25/06/2024,0,awaiting device & data,required a remote coaching session,contact us on webchat,
-Cust153,Digi021,25/07/2024,31/07/2024,2,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,16/10/2024
-Cust156,Digi022,15/12/2024,12/01/2025,1,awaiting triage,required a data SIM,No coaching Referral,05/08/2025
-Cust162,Digi112,17/10/2024,24/10/2024,2,awaiting device & data,didn’t need Digicare,No coaching Referral,20/07/2025
-Cust163,Digi023,17/01/2024,04/02/2024,1,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,13/04/2024
-Cust163,Digi077,29/05/2024,05/06/2024,2,awaiting triage,required a remote coaching session,engage with self-help material,12/11/2024
-Cust163,Digi077,29/05/2024,05/06/2024,2,awaiting triage,required a remote coaching session,engage with self-help material,05/07/2024
-Cust167,Digi113,04/01/2024,01/02/2024,1,awaiting triage,required a data SIM,No coaching Referral,05/02/2024
-Cust168,Digi078,30/04/2024,09/05/2024,0,awaiting triage,required a f2f coaching session,log in to digital channels,
-Cust170,Digi024,24/01/2024,06/02/2024,2,awaiting telephony coaching,only required a triage session,No coaching Referral,16/09/2024
-Cust171,Digi025,17/12/2024,23/12/2024,2,awaiting triage,required a f2f coaching session,contact us on webchat,02/01/2025
-Cust173,Digi026,29/05/2024,23/06/2024,1,awaiting triage,required a remote coaching session,log in to digital channels,20/11/2024
-Cust175,Digi079,15/01/2024,28/01/2024,1,awaiting f2f coaching,only required a triage session,No coaching Referral,03/06/2024
-Cust176,Digi114,07/10/2024,20/10/2024,1,awaiting triage,only required a triage session,No coaching Referral,13/07/2025
-Cust186,Digi115,23/07/2024,26/07/2024,1,awaiting telephony coaching,required a f2f coaching session,contact us by phone,31/07/2024
-Cust187,Digi116,28/03/2024,12/04/2024,1,awaiting device & data,required a f2f coaching session,contact us on webchat,11/06/2024
-Cust188,Digi027,02/07/2024,12/07/2024,0,awaiting triage,required a f2f coaching session,contact us by phone,
-Cust188,Digi080,01/07/2024,16/07/2024,0,awaiting f2f coaching,only required a triage session,No coaching Referral,
-Cust189,Digi117,08/11/2024,10/11/2024,2,awaiting device & data,didn’t need Digicare,No coaching Referral,19/11/2024
-Cust190,Digi118,05/12/2024,12/12/2024,2,awaiting triage,required a remote coaching session,engage with self-help material,17/12/2024
-Cust190,Digi118,05/12/2024,12/12/2024,2,awaiting triage,required a remote coaching session,engage with self-help material,11/01/2025
-Cust194,Digi081,23/03/2024,16/04/2024,2,awaiting device & data,only required a triage session,No coaching Referral,28/01/2025
-Cust196,Digi082,26/08/2024,20/09/2024,2,awaiting f2f coaching,required a data SIM,No coaching Referral,17/10/2024
-Cust201,Digi028,01/05/2024,03/05/2024,1,awaiting telephony coaching,required a device,No coaching Referral,10/07/2024
-Cust202,Digi083,30/03/2024,15/04/2024,1,awaiting device & data,only required a triage session,No coaching Referral,12/12/2024
-Cust204,Digi029,08/07/2024,15/07/2024,1,awaiting triage,required a device,No coaching Referral,26/07/2024
-Cust205,Digi084,16/08/2024,11/09/2024,0,awaiting telephony coaching,required a device,No coaching Referral,
-Cust210,Digi030,07/09/2024,15/09/2024,1,awaiting triage,required a device,No coaching Referral,17/02/2025
-Cust215,Digi119,08/11/2024,25/11/2024,2,awaiting f2f coaching,only required a triage session,No coaching Referral,25/06/2025
-Cust217,Digi031,13/11/2024,08/12/2024,0,awaiting device & data,required a remote coaching session,engage with self-help material,
-Cust218,Digi032,14/06/2024,10/07/2024,2,awaiting telephony coaching,only required a triage session,No coaching Referral,05/04/2025
-Cust227,Digi085,17/09/2024,16/10/2024,0,awaiting triage,required a device,No coaching Referral,
-Cust233,Digi033,25/08/2024,21/09/2024,1,awaiting f2f coaching,required a device,No coaching Referral,30/05/2025
-Cust234,Digi120,25/11/2024,02/12/2024,1,awaiting f2f coaching,only required a triage session,No coaching Referral,25/12/2024
-Cust235,Digi121,26/11/2024,05/12/2024,1,awaiting device & data,required a f2f coaching session,engage with self-help material,04/01/2025
-Cust240,Digi034,17/09/2024,27/09/2024,2,awaiting f2f coaching,required a remote coaching session,contact us on webchat,02/10/2024
-Cust245,Digi035,15/02/2024,03/03/2024,2,awaiting f2f coaching,required a device,No coaching Referral,26/05/2024
-Cust249,Digi086,15/12/2024,13/01/2025,0,awaiting triage,didn’t need Digicare,No coaching Referral,
-Cust255,Digi122,21/08/2024,11/09/2024,1,awaiting telephony coaching,required a device,No coaching Referral,20/06/2025
-Cust263,Digi036,09/07/2024,08/08/2024,0,awaiting triage,only required a triage session,No coaching Referral,
-Cust274,Digi037,21/05/2024,26/05/2024,1,awaiting triage,only required a triage session,No coaching Referral,27/05/2024
-Cust288,Digi123,07/12/2024,09/12/2024,2,awaiting telephony coaching,required a data SIM,No coaching Referral,21/04/2025
-Cust293,Digi038,25/10/2024,14/11/2024,0,awaiting triage,required a device,No coaching Referral,
-Cust294,Digi039,15/08/2024,02/09/2024,1,awaiting telephony coaching,required a f2f coaching session,contact us by phone,04/09/2024
-Cust299,Digi124,04/11/2024,11/11/2024,1,awaiting telephony coaching,required a device,No coaching Referral,19/02/2025
-Cust312,Digi087,01/06/2024,11/06/2024,0,awaiting device & data,only required a triage session,No coaching Referral,
-Cust312,Digi125,17/01/2024,26/01/2024,2,awaiting triage,required a remote coaching session,log in to digital channels,22/10/2024
-Cust312,Digi125,17/01/2024,26/01/2024,2,awaiting triage,required a remote coaching session,log in to digital channels,26/03/2024
-Cust314,Digi040,29/09/2024,26/10/2024,0,awaiting device & data,only required a triage session,No coaching Referral,
-Cust327,Digi041,10/08/2024,11/08/2024,2,awaiting triage,didn’t need Digicare,No coaching Referral,25/09/2024
-Cust330,Digi042,02/09/2024,25/09/2024,1,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,24/11/2024
-Cust330,Digi088,07/08/2024,19/08/2024,2,awaiting telephony coaching,required a data SIM,No coaching Referral,07/10/2024
-Cust332,Digi043,12/10/2024,08/11/2024,2,awaiting f2f coaching,required a data SIM,No coaching Referral,13/12/2024
-Cust339,Digi044,19/04/2024,21/04/2024,2,awaiting triage,required a data SIM,No coaching Referral,25/09/2024
-Cust341,Digi126,20/05/2024,14/06/2024,1,awaiting triage,required a data SIM,No coaching Referral,18/07/2024
-Cust346,Digi089,19/05/2024,03/06/2024,1,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,13/07/2024
-Cust355,Digi045,03/12/2024,24/12/2024,1,awaiting triage,required a f2f coaching session,contact us by phone,13/01/2025
-Cust356,Digi127,11/09/2024,27/09/2024,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,
-Cust356,Digi090,15/09/2024,27/09/2024,0,awaiting device & data,required a device,No coaching Referral,
-Cust370,Digi046,07/05/2024,28/05/2024,1,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,29/01/2025
-Cust383,Digi091,27/04/2024,10/05/2024,1,awaiting triage,required a remote coaching session,complete a JTBD online,15/05/2024
-Cust390,Digi047,07/10/2024,17/10/2024,2,awaiting triage,required a f2f coaching session,engage with self-help material,05/05/2025
-Cust390,Digi047,07/10/2024,17/10/2024,2,awaiting triage,required a f2f coaching session,engage with self-help material,16/11/2024
-Cust391,Digi048,10/07/2024,26/07/2024,1,awaiting device & data,required a data SIM,No coaching Referral,05/03/2025
-Cust395,Digi049,11/03/2024,14/03/2024,2,awaiting f2f coaching,required a f2f coaching session,contact us on webchat,13/04/2024
-Cust396,Digi050,19/03/2024,09/04/2024,1,awaiting triage,only required a triage session,No coaching Referral,04/07/2024
-Cust400,Digi092,04/06/2024,27/06/2024,1,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,28/02/2025
-Cust405,Digi128,22/12/2024,03/01/2025,1,awaiting device & data,required a data SIM,No coaching Referral,05/01/2025
-Cust405,Digi051,19/05/2024,27/05/2024,2,awaiting triage,required a f2f coaching session,complete a JTBD online,02/06/2024
-Cust406,Digi093,01/07/2024,08/07/2024,1,awaiting device & data,didn’t need Digicare,No coaching Referral,07/02/2025
-Cust407,Digi129,05/08/2024,28/08/2024,1,awaiting f2f coaching,required a data SIM,No coaching Referral,21/09/2024
-Cust412,Digi094,08/06/2024,12/06/2024,2,awaiting f2f coaching,required a data SIM,No coaching Referral,02/04/2025
-Cust416,Digi052,23/01/2024,01/02/2024,1,awaiting triage,required a data SIM,No coaching Referral,30/06/2024
-Cust427,Digi053,02/06/2024,14/06/2024,1,awaiting triage,required a data SIM,No coaching Referral,01/04/2025
-Cust430,Digi054,19/02/2024,09/03/2024,0,awaiting triage,didn’t need Digicare,No coaching Referral,
-Cust436,Digi130,26/01/2024,30/01/2024,2,awaiting device & data,required a remote coaching session,engage with self-help material,29/04/2024
-Cust436,Digi130,26/01/2024,30/01/2024,2,awaiting device & data,required a remote coaching session,engage with self-help material,29/02/2024
-Cust437,Digi131,18/11/2024,21/11/2024,1,awaiting device & data,required a data SIM,No coaching Referral,26/02/2025
-Cust439,Digi095,19/06/2024,21/06/2024,2,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,21/07/2024
-Cust439,Digi095,19/06/2024,21/06/2024,2,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,10/08/2024
-Cust443,Digi132,19/05/2024,04/06/2024,2,awaiting telephony coaching,required a remote coaching session,complete a JTBD online,06/06/2024
-Cust444,Digi055,26/05/2024,14/06/2024,2,awaiting telephony coaching,required a device,No coaching Referral,06/08/2024
-Cust449,Digi056,19/05/2024,21/05/2024,1,awaiting triage,didn’t need Digicare,No coaching Referral,29/12/2024
-Cust461,Digi133,02/04/2024,09/04/2024,0,awaiting f2f coaching,only required a triage session,No coaching Referral,
-Cust462,Digi057,06/01/2024,30/01/2024,2,awaiting device & data,required a remote coaching session,log in to digital channels,04/02/2024
-Cust462,Digi057,06/01/2024,30/01/2024,2,awaiting device & data,required a remote coaching session,log in to digital channels,25/11/2024
-Cust463,Digi058,21/12/2024,09/01/2025,2,awaiting triage,required a data SIM,No coaching Referral,08/03/2025
-Cust466,Digi059,29/08/2024,17/09/2024,0,awaiting triage,required a f2f coaching session,log in to digital channels,
-Cust466,Digi096,06/02/2024,15/02/2024,2,awaiting device & data,only required a triage session,No coaching Referral,16/06/2024
-Cust467,Digi060,08/06/2024,17/06/2024,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,
-Cust467,Digi134,10/06/2024,10/07/2024,2,awaiting telephony coaching,required a device,No coaching Referral,25/02/2025
-Cust471,Digi097,11/12/2024,07/01/2025,2,awaiting f2f coaching,required a remote coaching session,complete a JTBD online,27/01/2025
-Cust478,Digi135,19/05/2024,23/05/2024,0,awaiting f2f coaching,only required a triage session,No coaching Referral,
-Cust479,Digi136,05/12/2024,08/12/2024,0,awaiting device & data,required a f2f coaching session,contact us by phone,
-Cust481,Digi061,27/06/2024,11/07/2024,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,
-Cust486,Digi098,28/03/2024,17/04/2024,2,awaiting triage,required a remote coaching session,complete a JTBD online,27/05/2024
-Cust489,Digi137,21/05/2024,28/05/2024,0,awaiting f2f coaching,required a f2f coaching session,engage with self-help material,
-Cust499,Digi138,24/08/2024,30/08/2024,1,awaiting device & data,required a data SIM,No coaching Referral,18/04/2025
-Cust539,Digi142,17/09/2024,09/04/2024,4,awaiting device & data,required a remote coaching session,log in to digital channels,10/01/2025
-Cust539,Digi142,17/09/2024,09/04/2024,4,awaiting device & data,required a remote coaching session,log in to digital channels,01/07/2024
-Cust539,Digi142,17/09/2024,09/04/2024,4,awaiting device & data,required a remote coaching session,log in to digital channels,20/08/2024
-Cust539,Digi142,17/09/2024,09/04/2024,4,awaiting device & data,required a remote coaching session,log in to digital channels,05/12/2024
-Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,18/11/2024
-Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,14/10/2024
-Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,31/03/2025
-Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,18/11/2024
-Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,23/11/2024
-Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,31/03/2025
-Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,22/08/2025
-Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,05/06/2025
-Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,27/09/2025
-Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,09/01/2025
-Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,23/02/2025
-Cust569,Digi145,26/11/2024,16/12/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,11/02/2025
-Cust569,Digi145,26/11/2024,16/12/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,27/01/2025
-Cust569,Digi145,26/11/2024,16/12/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,02/09/2025
-Cust579,Digi146,17/09/2024,07/10/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,20/02/2025
-Cust579,Digi146,17/09/2024,07/10/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,21/06/2025
-Cust579,Digi146,17/09/2024,07/10/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,18/03/2025
-Cust579,Digi146,17/09/2024,07/10/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,14/02/2025
-Cust589,Digi147,15/02/2024,06/03/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,29/05/2024
-Cust589,Digi147,15/02/2024,06/03/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,06/07/2024
-Cust589,Digi147,15/02/2024,06/03/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,22/10/2024
-Cust589,Digi147,15/02/2024,06/03/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,17/07/2024
-Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,22/09/2025
-Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,28/04/2025
-Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,13/08/2025
-Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,19/06/2025
-Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,06/06/2025
-Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,27/06/2025
-Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,19/05/2025
-Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,09/05/2025
-Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,11/09/2024
-Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,13/04/2025
-Cust619,Digi150,09/07/2024,29/07/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,23/08/2024
-Cust619,Digi150,09/07/2024,29/07/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,04/03/2025
-Cust619,Digi150,09/07/2024,29/07/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,24/10/2024
-Cust629,Digi151,21/05/2024,10/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,26/06/2024
-Cust629,Digi151,21/05/2024,10/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,30/06/2024
-Cust629,Digi151,21/05/2024,10/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,04/03/2025
-Cust639,Digi152,07/12/2024,27/12/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,06/01/2025
-Cust639,Digi152,07/12/2024,27/12/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,24/07/2025
-Cust639,Digi152,07/12/2024,27/12/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,22/05/2025
-Cust639,Digi152,07/12/2024,27/12/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,10/05/2025
-Cust649,Digi153,25/10/2024,14/11/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,04/04/2025
-Cust649,Digi153,25/10/2024,14/11/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,01/03/2025
-Cust649,Digi153,25/10/2024,14/11/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,11/01/2025
-Cust649,Digi153,25/10/2024,14/11/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,05/12/2024
-Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,03/12/2024
-Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,21/11/2024
-Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,09/11/2024
-Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,14/12/2024
-Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,08/03/2025
-Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,21/01/2025
-Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,17/04/2025
-Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,06/08/2025
-Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,04/07/2025
-Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,02/09/2025
-Cust679,Digi156,01/06/2024,21/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,01/07/2024
-Cust679,Digi156,01/06/2024,21/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,23/08/2024
-Cust679,Digi156,01/06/2024,21/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,03/11/2024
-Cust689,Digi157,17/01/2024,06/02/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,09/11/2024
-Cust689,Digi157,17/01/2024,06/02/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,25/08/2024
-Cust689,Digi157,17/01/2024,06/02/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,16/05/2024
-Cust699,Digi158,17/01/2024,06/02/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,07/04/2024
-Cust699,Digi158,17/01/2024,06/02/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,18/02/2024
-Cust699,Digi158,17/01/2024,06/02/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,12/02/2024
-Cust699,Digi158,17/01/2024,06/02/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,16/08/2024
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+Customer ID,Confidence Level,Persona assigned,Registered for digital services,Date of last log in,Date of last log in 2,Persona Name,Persona Nickname
+Cust001,8,Do it myself,No,01/01/2024,once in last month,Confident,Self-Serve Sam 1
+Cust002,6,Do it with me,Yes,02/01/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust003,7,Do it with me,Yes,03/01/2024,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust004,6,Do it with me,Yes,04/01/2024,longer than 12 months,Task specific,Learning Lerato 2
+Cust005,9,Do it myself,Yes,05/01/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust006,6,Do it with me,No,06/01/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust007,3,Do it with me,Yes,07/01/2024,once in last month,Wlling & unable,Tentative Terry 1
+Cust008,7,Do it with me,No,08/01/2024,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust009,3,Do it with me,Yes,09/01/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust010,5,Do it with me,Yes,10/01/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust011,8,Do it myself,No,11/01/2024,once in last month,Confident,Self-Serve Sam 1
+Cust012,3,Do it with me,No,12/01/2024,once in last month,Wlling & unable,Tentative Terry 1
+Cust013,8,Do it myself,Yes,13/01/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust014,5,Do it with me,Yes,14/01/2024,once in last month,Learning the ropes,Learning Lerato 1
+Cust015,5,Do it with me,Yes,15/01/2024,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust016,4,Do it with me,Yes,16/01/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust017,4,Do it with me,Yes,17/01/2024,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust018,9,Do it myself,Yes,18/01/2024,once in last month,Expert,Self-Serve Sam 2
+Cust019,5,Do it with me,Yes,19/01/2024,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust020,4,Do it with me,Yes,20/01/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust021,6,Do it with me,No,21/01/2024,once in 12 months,Task specific,Learning Lerato 2
+Cust022,9,Do it myself,Yes,22/01/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust023,8,Do it myself,Yes,23/01/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust024,8,Do it myself,Yes,24/01/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust025,8,Do it myself,No,25/01/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust026,9,Do it myself,Yes,26/01/2024,once in last month,Expert,Self-Serve Sam 2
+Cust027,8,Do it myself,Yes,27/01/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust028,1,Do it for me,Yes,28/01/2024,once in 6 months,Never have never will,Digiphobe Doris 1
+Cust029,9,Do it myself,Yes,29/01/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust030,8,Do it myself,Yes,30/01/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust031,4,Do it with me,No,31/01/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust032,8,Do it myself,Yes,01/02/2024,once in last month,Confident,Self-Serve Sam 1
+Cust033,4,Do it with me,No,02/02/2024,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust034,8,Do it myself,Yes,03/02/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust035,8,Do it myself,No,04/02/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust036,5,Do it with me,No,05/02/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust037,8,Do it myself,No,06/02/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust038,8,Do it myself,Yes,07/02/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust039,6,Do it with me,No,08/02/2024,once in last month,Task specific,Learning Lerato 2
+Cust040,9,Do it myself,Yes,09/02/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust041,4,Do it with me,No,10/02/2024,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust042,8,Do it myself,Yes,11/02/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust043,4,Do it with me,Yes,12/02/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust044,7,Do it with me,No,13/02/2024,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust045,4,Do it with me,Yes,14/02/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust046,7,Do it with me,No,15/02/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust047,8,Do it myself,Yes,16/02/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust048,7,Do it with me,No,17/02/2024,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust049,5,Do it with me,No,18/02/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust050,9,Do it myself,Yes,19/02/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust051,8,Do it myself,Yes,20/02/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust052,3,Do it with me,Yes,21/02/2024,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust053,3,Do it with me,No,22/02/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust054,9,Do it myself,Yes,23/02/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust055,8,Do it myself,Yes,24/02/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust056,7,Do it with me,Yes,25/02/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust057,5,Do it with me,Yes,26/02/2024,once in last month,Learning the ropes,Learning Lerato 1
+Cust058,8,Do it myself,Yes,27/02/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust059,8,Do it myself,Yes,28/02/2024,once in last month,Confident,Self-Serve Sam 1
+Cust060,6,Do it with me,Yes,29/02/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust061,7,Do it with me,Yes,01/03/2024,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust062,4,Do it with me,Yes,02/03/2024,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust063,1,Do it for me,Yes,03/03/2024,once in last month,Never have never will,Digiphobe Doris 1
+Cust064,8,Do it myself,Yes,04/03/2024,once in last month,Confident,Self-Serve Sam 1
+Cust065,6,Do it with me,No,05/03/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust066,4,Do it with me,No,06/03/2024,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust067,4,Do it with me,Yes,07/03/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust068,9,Do it myself,Yes,08/03/2024,once in last month,Expert,Self-Serve Sam 2
+Cust069,8,Do it myself,Yes,09/03/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust070,9,Do it myself,Yes,10/03/2024,once in last month,Expert,Self-Serve Sam 2
+Cust071,6,Do it with me,Yes,11/03/2024,once in 12 months,Task specific,Learning Lerato 2
+Cust072,6,Do it with me,Yes,12/03/2024,once in last month,Task specific,Learning Lerato 2
+Cust073,9,Do it myself,Yes,13/03/2024,once in last month,Expert,Self-Serve Sam 2
+Cust074,9,Do it myself,Yes,14/03/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust075,9,Do it myself,Yes,15/03/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust076,6,Do it with me,No,16/03/2024,once in 3 months,Task specific,Learning Lerato 2
+Cust077,9,Do it myself,Yes,17/03/2024,once in last month,Expert,Self-Serve Sam 2
+Cust078,3,Do it with me,No,18/03/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust079,5,Do it with me,Yes,19/03/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust080,1,Do it for me,No,20/03/2024,once in 6 months,Never have never will,Digiphobe Doris 1
+Cust081,4,Do it with me,Yes,21/03/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust082,2,Do it for me,Yes,22/03/2024,once in 12 months,Was online but no longer,Digiphobe Doris 2
+Cust083,4,Do it with me,Yes,23/03/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust084,5,Do it with me,No,24/03/2024,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust085,7,Do it with me,No,25/03/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust086,7,Do it with me,No,26/03/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust087,7,Do it with me,Yes,27/03/2024,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust088,6,Do it with me,No,28/03/2024,longer than 12 months,Task specific,Learning Lerato 2
+Cust089,8,Do it myself,Yes,29/03/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust090,6,Do it with me,Yes,30/03/2024,once in 12 months,Task specific,Learning Lerato 2
+Cust091,6,Do it with me,No,31/03/2024,once in last month,Task specific,Learning Lerato 2
+Cust092,7,Do it with me,No,01/04/2024,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust093,8,Do it myself,Yes,02/04/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust094,8,Do it myself,Yes,03/04/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust095,8,Do it myself,Yes,04/04/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust096,3,Do it with me,Yes,05/04/2024,once in 12 months,Wlling & unable,Tentative Terry 1
+Cust097,8,Do it myself,No,06/04/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust098,2,Do it for me,No,07/04/2024,once in 6 months,Was online but no longer,Digiphobe Doris 2
+Cust099,3,Do it with me,Yes,08/04/2024,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust100,8,Do it myself,Yes,09/04/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust101,9,Do it myself,Yes,10/04/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust102,5,Do it with me,No,11/04/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust103,8,Do it myself,Yes,12/04/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust104,4,Do it with me,Yes,13/04/2024,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust105,3,Do it with me,No,14/04/2024,once in last month,Wlling & unable,Tentative Terry 1
+Cust106,3,Do it with me,No,15/04/2024,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust107,7,Do it with me,No,16/04/2024,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust108,4,Do it with me,Yes,17/04/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust109,8,Do it myself,Yes,18/04/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust110,8,Do it myself,Yes,19/04/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust111,3,Do it with me,Yes,20/04/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust112,8,Do it myself,Yes,21/04/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust113,8,Do it myself,Yes,22/04/2024,once in last month,Confident,Self-Serve Sam 1
+Cust114,8,Do it myself,Yes,23/04/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust115,4,Do it with me,Yes,24/04/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust116,8,Do it myself,Yes,25/04/2024,once in last month,Confident,Self-Serve Sam 1
+Cust117,8,Do it myself,Yes,26/04/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust118,2,Do it for me,No,27/04/2024,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust119,8,Do it myself,Yes,28/04/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust120,8,Do it myself,Yes,29/04/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust121,8,Do it myself,Yes,30/04/2024,once in last month,Confident,Self-Serve Sam 1
+Cust122,8,Do it myself,Yes,01/05/2024,once in last month,Confident,Self-Serve Sam 1
+Cust123,5,Do it with me,Yes,02/05/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust124,5,Do it with me,Yes,03/05/2024,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust125,8,Do it myself,Yes,04/05/2024,once in last month,Confident,Self-Serve Sam 1
+Cust126,8,Do it myself,Yes,05/05/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust127,1,Do it for me,No,06/05/2024,longer than 12 months,Never have never will,Digiphobe Doris 1
+Cust128,9,Do it myself,Yes,07/05/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust129,2,Do it for me,No,08/05/2024,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust130,7,Do it with me,Yes,09/05/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust131,7,Do it with me,Yes,10/05/2024,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust132,8,Do it myself,Yes,11/05/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust133,7,Do it with me,Yes,12/05/2024,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust134,4,Do it with me,No,13/05/2024,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust135,6,Do it with me,Yes,14/05/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust136,9,Do it myself,Yes,15/05/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust137,7,Do it with me,No,16/05/2024,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust138,3,Do it with me,No,17/05/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust139,1,Do it for me,No,18/05/2024,longer than 12 months,Never have never will,Digiphobe Doris 1
+Cust140,1,Do it for me,No,19/05/2024,longer than 12 months,Never have never will,Digiphobe Doris 1
+Cust141,3,Do it with me,Yes,20/05/2024,once in 12 months,Wlling & unable,Tentative Terry 1
+Cust142,7,Do it with me,No,21/05/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust143,7,Do it with me,No,22/05/2024,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust144,5,Do it with me,Yes,23/05/2024,once in last month,Learning the ropes,Learning Lerato 1
+Cust145,2,Do it for me,No,24/05/2024,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust146,1,Do it for me,Yes,25/05/2024,once in 12 months,Never have never will,Digiphobe Doris 1
+Cust147,2,Do it for me,No,26/05/2024,once in last month,Was online but no longer,Digiphobe Doris 2
+Cust148,8,Do it myself,Yes,27/05/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust149,1,Do it for me,No,28/05/2024,once in last month,Never have never will,Digiphobe Doris 1
+Cust150,2,Do it for me,No,29/05/2024,once in 12 months,Was online but no longer,Digiphobe Doris 2
+Cust151,7,Do it with me,No,30/05/2024,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust152,6,Do it with me,Yes,31/05/2024,once in 3 months,Task specific,Learning Lerato 2
+Cust153,2,Do it for me,No,01/06/2024,once in last month,Was online but no longer,Digiphobe Doris 2
+Cust154,3,Do it with me,Yes,02/06/2024,once in 12 months,Wlling & unable,Tentative Terry 1
+Cust155,3,Do it with me,Yes,03/06/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust156,9,Do it myself,Yes,04/06/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust157,4,Do it with me,No,05/06/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust158,9,Do it myself,Yes,06/06/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust159,5,Do it with me,Yes,07/06/2024,once in 3 months,Learning the ropes,Learning Lerato 1
+Cust160,2,Do it for me,No,08/06/2024,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust161,8,Do it myself,Yes,09/06/2024,once in last month,Confident,Self-Serve Sam 1
+Cust162,4,Do it with me,No,10/06/2024,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust163,6,Do it with me,Yes,11/06/2024,once in 12 months,Task specific,Learning Lerato 2
+Cust164,1,Do it for me,No,12/06/2024,once in 6 months,Never have never will,Digiphobe Doris 1
+Cust165,8,Do it myself,Yes,13/06/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust166,6,Do it with me,Yes,14/06/2024,once in last month,Task specific,Learning Lerato 2
+Cust167,2,Do it for me,Yes,15/06/2024,once in 6 months,Was online but no longer,Digiphobe Doris 2
+Cust168,3,Do it with me,Yes,16/06/2024,once in last month,Wlling & unable,Tentative Terry 1
+Cust169,8,Do it myself,Yes,17/06/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust170,7,Do it with me,Yes,18/06/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust171,6,Do it with me,Yes,19/06/2024,once in last month,Task specific,Learning Lerato 2
+Cust172,5,Do it with me,No,20/06/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust173,8,Do it myself,Yes,21/06/2024,once in last month,Confident,Self-Serve Sam 1
+Cust174,8,Do it myself,Yes,22/06/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust175,7,Do it with me,No,23/06/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust176,9,Do it myself,Yes,24/06/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust177,5,Do it with me,No,25/06/2024,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust178,9,Do it myself,Yes,26/06/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust179,4,Do it with me,No,27/06/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust180,3,Do it with me,Yes,28/06/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust181,7,Do it with me,Yes,29/06/2024,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust182,4,Do it with me,Yes,30/06/2024,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust183,6,Do it with me,No,01/07/2024,once in last month,Task specific,Learning Lerato 2
+Cust184,7,Do it with me,Yes,02/07/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust185,8,Do it myself,Yes,03/07/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust186,5,Do it with me,Yes,04/07/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust187,2,Do it for me,No,05/07/2024,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust188,8,Do it myself,Yes,06/07/2024,once in last month,Confident,Self-Serve Sam 1
+Cust189,8,Do it myself,Yes,07/07/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust190,8,Do it myself,No,08/07/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust191,9,Do it myself,Yes,09/07/2024,once in last month,Expert,Self-Serve Sam 2
+Cust192,5,Do it with me,No,10/07/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust193,7,Do it with me,Yes,11/07/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust194,5,Do it with me,No,12/07/2024,once in last month,Learning the ropes,Learning Lerato 1
+Cust195,8,Do it myself,No,13/07/2024,once in last month,Confident,Self-Serve Sam 1
+Cust196,1,Do it for me,No,14/07/2024,longer than 12 months,Never have never will,Digiphobe Doris 1
+Cust197,2,Do it for me,No,15/07/2024,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust198,7,Do it with me,No,16/07/2024,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust199,3,Do it with me,Yes,17/07/2024,once in 6 months,Wlling & unable,Tentative Terry 1
+Cust200,7,Do it with me,Yes,18/07/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust201,7,Do it with me,Yes,19/07/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust202,7,Do it with me,Yes,20/07/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust203,9,Do it myself,Yes,21/07/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust204,9,Do it myself,Yes,22/07/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust205,8,Do it myself,No,23/07/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust206,4,Do it with me,No,24/07/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust207,3,Do it with me,No,25/07/2024,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust208,7,Do it with me,Yes,26/07/2024,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust209,4,Do it with me,Yes,27/07/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust210,1,Do it for me,No,28/07/2024,once in 12 months,Never have never will,Digiphobe Doris 1
+Cust211,8,Do it myself,Yes,29/07/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust212,2,Do it for me,No,30/07/2024,once in 12 months,Was online but no longer,Digiphobe Doris 2
+Cust213,9,Do it myself,Yes,31/07/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust214,9,Do it myself,Yes,01/08/2024,once in last month,Expert,Self-Serve Sam 2
+Cust215,1,Do it for me,No,02/08/2024,once in 12 months,Never have never will,Digiphobe Doris 1
+Cust216,6,Do it with me,Yes,03/08/2024,once in 12 months,Task specific,Learning Lerato 2
+Cust217,9,Do it myself,Yes,04/08/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust218,9,Do it myself,Yes,05/08/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust219,8,Do it myself,No,06/08/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust220,8,Do it myself,Yes,07/08/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust221,3,Do it with me,No,08/08/2024,once in last month,Wlling & unable,Tentative Terry 1
+Cust222,8,Do it myself,Yes,09/08/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust223,1,Do it for me,No,10/08/2024,longer than 12 months,Never have never will,Digiphobe Doris 1
+Cust224,5,Do it with me,Yes,11/08/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust225,6,Do it with me,Yes,12/08/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust226,4,Do it with me,No,13/08/2024,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust227,4,Do it with me,Yes,14/08/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust228,8,Do it myself,Yes,15/08/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust229,1,Do it for me,No,16/08/2024,longer than 12 months,Never have never will,Digiphobe Doris 1
+Cust230,8,Do it myself,Yes,17/08/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust231,5,Do it with me,Yes,18/08/2024,once in last month,Learning the ropes,Learning Lerato 1
+Cust232,4,Do it with me,Yes,19/08/2024,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust233,3,Do it with me,No,20/08/2024,once in last month,Wlling & unable,Tentative Terry 1
+Cust234,5,Do it with me,Yes,21/08/2024,once in 3 months,Learning the ropes,Learning Lerato 1
+Cust235,7,Do it with me,Yes,22/08/2024,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust236,5,Do it with me,No,23/08/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust237,5,Do it with me,No,24/08/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust238,9,Do it myself,Yes,25/08/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust239,2,Do it for me,No,26/08/2024,once in last month,Was online but no longer,Digiphobe Doris 2
+Cust240,9,Do it myself,Yes,27/08/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust241,2,Do it for me,No,28/08/2024,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust242,8,Do it myself,Yes,29/08/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust243,5,Do it with me,Yes,30/08/2024,once in last month,Learning the ropes,Learning Lerato 1
+Cust244,8,Do it myself,Yes,31/08/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust245,5,Do it with me,Yes,01/09/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust246,5,Do it with me,Yes,02/09/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust247,4,Do it with me,No,03/09/2024,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust248,2,Do it for me,No,04/09/2024,once in 6 months,Was online but no longer,Digiphobe Doris 2
+Cust249,9,Do it myself,Yes,05/09/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust250,8,Do it myself,Yes,06/09/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust251,8,Do it myself,No,07/09/2024,once in last month,Confident,Self-Serve Sam 1
+Cust252,6,Do it with me,Yes,08/09/2024,longer than 12 months,Task specific,Learning Lerato 2
+Cust253,7,Do it with me,Yes,09/09/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust254,6,Do it with me,Yes,10/09/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust255,9,Do it myself,Yes,11/09/2024,once in last month,Expert,Self-Serve Sam 2
+Cust256,6,Do it with me,No,12/09/2024,once in 12 months,Task specific,Learning Lerato 2
+Cust257,3,Do it with me,Yes,13/09/2024,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust258,7,Do it with me,No,14/09/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust259,3,Do it with me,Yes,15/09/2024,once in 12 months,Wlling & unable,Tentative Terry 1
+Cust260,5,Do it with me,Yes,16/09/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust261,8,Do it myself,No,17/09/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust262,3,Do it with me,No,18/09/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust263,8,Do it myself,Yes,19/09/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust264,5,Do it with me,Yes,20/09/2024,once in last month,Learning the ropes,Learning Lerato 1
+Cust265,5,Do it with me,Yes,21/09/2024,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust266,4,Do it with me,Yes,22/09/2024,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust267,4,Do it with me,Yes,23/09/2024,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust268,9,Do it myself,Yes,24/09/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust269,5,Do it with me,Yes,25/09/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust270,4,Do it with me,Yes,26/09/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust271,6,Do it with me,No,27/09/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust272,9,Do it myself,Yes,28/09/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust273,8,Do it myself,Yes,29/09/2024,once in last month,Confident,Self-Serve Sam 1
+Cust274,8,Do it myself,Yes,30/09/2024,once in 6 months,Confident,Self-Serve Sam 1
+Cust275,8,Do it myself,No,01/10/2024,once in 3 months,Confident,Self-Serve Sam 1
+Cust276,9,Do it myself,Yes,02/10/2024,once in last month,Expert,Self-Serve Sam 2
+Cust277,9,Do it myself,Yes,03/10/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust278,1,Do it for me,Yes,04/10/2024,once in 6 months,Never have never will,Digiphobe Doris 1
+Cust279,9,Do it myself,Yes,05/10/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust280,9,Do it myself,Yes,06/10/2024,once in last month,Expert,Self-Serve Sam 2
+Cust281,4,Do it with me,No,07/10/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust282,9,Do it myself,Yes,08/10/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust283,4,Do it with me,No,09/10/2024,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust284,8,Do it myself,Yes,10/10/2024,once in last month,Confident,Self-Serve Sam 1
+Cust285,8,Do it myself,No,11/10/2024,once in last month,Confident,Self-Serve Sam 1
+Cust286,5,Do it with me,No,12/10/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust287,8,Do it myself,No,13/10/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust288,9,Do it myself,Yes,14/10/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust289,6,Do it with me,No,15/10/2024,once in 6 months,Task specific,Learning Lerato 2
+Cust290,9,Do it myself,Yes,16/10/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust291,4,Do it with me,No,17/10/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust292,8,Do it myself,Yes,18/10/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust293,4,Do it with me,Yes,19/10/2024,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust294,7,Do it with me,No,20/10/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust295,4,Do it with me,Yes,21/10/2024,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust296,7,Do it with me,No,22/10/2024,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust297,9,Do it myself,Yes,23/10/2024,once in last month,Expert,Self-Serve Sam 2
+Cust298,7,Do it with me,No,24/10/2024,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust299,5,Do it with me,No,25/10/2024,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust300,9,Do it myself,Yes,26/10/2024,once in last month,Expert,Self-Serve Sam 2
+Cust301,9,Do it myself,Yes,27/10/2024,once in last month,Expert,Self-Serve Sam 2
+Cust302,3,Do it with me,Yes,28/10/2024,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust303,3,Do it with me,No,29/10/2024,once in last month,Wlling & unable,Tentative Terry 1
+Cust304,9,Do it myself,Yes,30/10/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust305,8,Do it myself,Yes,31/10/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust306,7,Do it with me,Yes,01/11/2024,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust307,5,Do it with me,Yes,02/11/2024,once in last month,Learning the ropes,Learning Lerato 1
+Cust308,9,Do it myself,Yes,03/11/2024,once in last month,Expert,Self-Serve Sam 2
+Cust309,9,Do it myself,Yes,04/11/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust310,6,Do it with me,Yes,05/11/2024,longer than 12 months,Task specific,Learning Lerato 2
+Cust311,7,Do it with me,Yes,06/11/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust312,4,Do it with me,Yes,07/11/2024,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust313,1,Do it for me,Yes,08/11/2024,once in 6 months,Never have never will,Digiphobe Doris 1
+Cust314,9,Do it myself,Yes,09/11/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust315,6,Do it with me,No,10/11/2024,longer than 12 months,Task specific,Learning Lerato 2
+Cust316,4,Do it with me,No,11/11/2024,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust317,4,Do it with me,Yes,12/11/2024,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust318,9,Do it myself,Yes,13/11/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust319,8,Do it myself,Yes,14/11/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust320,9,Do it myself,Yes,15/11/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust321,6,Do it with me,Yes,16/11/2024,once in 3 months,Task specific,Learning Lerato 2
+Cust322,6,Do it with me,Yes,17/11/2024,longer than 12 months,Task specific,Learning Lerato 2
+Cust323,9,Do it myself,Yes,18/11/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust324,9,Do it myself,Yes,19/11/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust325,9,Do it myself,Yes,20/11/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust326,6,Do it with me,No,21/11/2024,longer than 12 months,Task specific,Learning Lerato 2
+Cust327,9,Do it myself,Yes,22/11/2024,once in last month,Expert,Self-Serve Sam 2
+Cust328,3,Do it with me,No,23/11/2024,once in 6 months,Wlling & unable,Tentative Terry 1
+Cust329,5,Do it with me,Yes,24/11/2024,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust330,1,Do it for me,No,25/11/2024,once in last month,Never have never will,Digiphobe Doris 1
+Cust331,4,Do it with me,Yes,26/11/2024,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust332,2,Do it for me,Yes,27/11/2024,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust333,4,Do it with me,Yes,28/11/2024,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust334,5,Do it with me,No,29/11/2024,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust335,7,Do it with me,No,30/11/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust336,7,Do it with me,No,01/12/2024,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust337,7,Do it with me,Yes,02/12/2024,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust338,6,Do it with me,No,03/12/2024,once in 12 months,Task specific,Learning Lerato 2
+Cust339,9,Do it myself,Yes,04/12/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust340,6,Do it with me,Yes,05/12/2024,once in 3 months,Task specific,Learning Lerato 2
+Cust341,6,Do it with me,No,06/12/2024,once in last month,Task specific,Learning Lerato 2
+Cust342,7,Do it with me,No,07/12/2024,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust343,9,Do it myself,Yes,08/12/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust344,8,Do it myself,Yes,09/12/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust345,9,Do it myself,Yes,10/12/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust346,3,Do it with me,Yes,11/12/2024,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust347,8,Do it myself,No,12/12/2024,once in 12 months,Confident,Self-Serve Sam 1
+Cust348,2,Do it for me,No,13/12/2024,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust349,3,Do it with me,Yes,14/12/2024,once in 3 months,Wlling & unable,Tentative Terry 1
+Cust350,9,Do it myself,Yes,15/12/2024,once in last month,Expert,Self-Serve Sam 2
+Cust351,9,Do it myself,Yes,16/12/2024,longer than 12 months,Expert,Self-Serve Sam 2
+Cust352,5,Do it with me,No,17/12/2024,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust353,9,Do it myself,Yes,18/12/2024,once in 6 months,Expert,Self-Serve Sam 2
+Cust354,4,Do it with me,Yes,19/12/2024,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust355,3,Do it with me,No,20/12/2024,once in 6 months,Wlling & unable,Tentative Terry 1
+Cust356,3,Do it with me,No,21/12/2024,once in last month,Wlling & unable,Tentative Terry 1
+Cust357,7,Do it with me,No,22/12/2024,once in last month,Basic digital skills,Learning Lerato 3
+Cust358,4,Do it with me,Yes,23/12/2024,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust359,9,Do it myself,Yes,24/12/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust360,9,Do it myself,Yes,25/12/2024,once in 12 months,Expert,Self-Serve Sam 2
+Cust361,3,Do it with me,Yes,26/12/2024,once in 12 months,Wlling & unable,Tentative Terry 1
+Cust362,9,Do it myself,Yes,27/12/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust363,8,Do it myself,Yes,28/12/2024,longer than 12 months,Confident,Self-Serve Sam 1
+Cust364,9,Do it myself,Yes,29/12/2024,once in last month,Expert,Self-Serve Sam 2
+Cust365,4,Do it with me,Yes,30/12/2024,once in last month,Reluctantly online,Tentative Terry 2
+Cust366,9,Do it myself,Yes,31/12/2024,once in 3 months,Expert,Self-Serve Sam 2
+Cust367,9,Do it myself,Yes,01/01/2025,once in 3 months,Expert,Self-Serve Sam 2
+Cust368,2,Do it for me,No,02/01/2025,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust369,8,Do it myself,Yes,03/01/2025,once in 6 months,Confident,Self-Serve Sam 1
+Cust370,9,Do it myself,Yes,04/01/2025,once in last month,Expert,Self-Serve Sam 2
+Cust371,8,Do it myself,Yes,05/01/2025,longer than 12 months,Confident,Self-Serve Sam 1
+Cust372,9,Do it myself,Yes,06/01/2025,once in last month,Expert,Self-Serve Sam 2
+Cust373,5,Do it with me,Yes,07/01/2025,once in last month,Learning the ropes,Learning Lerato 1
+Cust374,5,Do it with me,Yes,08/01/2025,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust375,9,Do it myself,Yes,09/01/2025,once in last month,Expert,Self-Serve Sam 2
+Cust376,8,Do it myself,Yes,10/01/2025,once in 12 months,Confident,Self-Serve Sam 1
+Cust377,1,Do it for me,No,11/01/2025,once in last month,Never have never will,Digiphobe Doris 1
+Cust378,9,Do it myself,Yes,12/01/2025,longer than 12 months,Expert,Self-Serve Sam 2
+Cust379,2,Do it for me,No,13/01/2025,once in last month,Was online but no longer,Digiphobe Doris 2
+Cust380,7,Do it with me,Yes,14/01/2025,once in last month,Basic digital skills,Learning Lerato 3
+Cust381,7,Do it with me,Yes,15/01/2025,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust382,9,Do it myself,Yes,16/01/2025,once in 12 months,Expert,Self-Serve Sam 2
+Cust383,7,Do it with me,Yes,17/01/2025,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust384,4,Do it with me,No,18/01/2025,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust385,6,Do it with me,Yes,19/01/2025,longer than 12 months,Task specific,Learning Lerato 2
+Cust386,9,Do it myself,Yes,20/01/2025,once in 6 months,Expert,Self-Serve Sam 2
+Cust387,7,Do it with me,No,21/01/2025,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust388,3,Do it with me,No,22/01/2025,once in 12 months,Wlling & unable,Tentative Terry 1
+Cust389,1,Do it for me,No,23/01/2025,once in 6 months,Never have never will,Digiphobe Doris 1
+Cust390,1,Do it for me,No,24/01/2025,once in last month,Never have never will,Digiphobe Doris 1
+Cust391,3,Do it with me,Yes,25/01/2025,once in last month,Wlling & unable,Tentative Terry 1
+Cust392,7,Do it with me,No,26/01/2025,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust393,7,Do it with me,No,27/01/2025,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust394,5,Do it with me,Yes,28/01/2025,once in 3 months,Learning the ropes,Learning Lerato 1
+Cust395,2,Do it for me,No,29/01/2025,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust396,1,Do it for me,Yes,30/01/2025,once in last month,Never have never will,Digiphobe Doris 1
+Cust397,2,Do it for me,No,31/01/2025,once in 12 months,Was online but no longer,Digiphobe Doris 2
+Cust398,9,Do it myself,Yes,01/02/2025,once in 6 months,Expert,Self-Serve Sam 2
+Cust399,1,Do it for me,No,02/02/2025,once in 3 months,Never have never will,Digiphobe Doris 1
+Cust400,2,Do it for me,No,03/02/2025,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust401,7,Do it with me,No,04/02/2025,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust402,6,Do it with me,Yes,05/02/2025,once in 6 months,Task specific,Learning Lerato 2
+Cust403,2,Do it for me,No,06/02/2025,once in 12 months,Was online but no longer,Digiphobe Doris 2
+Cust404,3,Do it with me,Yes,07/02/2025,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust405,3,Do it with me,Yes,08/02/2025,longer than 12 months,Wlling & unable,Tentative Terry 1
+Cust406,9,Do it myself,Yes,09/02/2025,once in 6 months,Expert,Self-Serve Sam 2
+Cust407,4,Do it with me,No,10/02/2025,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust408,9,Do it myself,Yes,11/02/2025,once in 6 months,Expert,Self-Serve Sam 2
+Cust409,5,Do it with me,Yes,12/02/2025,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust410,2,Do it for me,No,13/02/2025,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust411,8,Do it myself,Yes,14/02/2025,once in last month,Confident,Self-Serve Sam 1
+Cust412,4,Do it with me,No,15/02/2025,once in last month,Reluctantly online,Tentative Terry 2
+Cust413,6,Do it with me,Yes,16/02/2025,once in last month,Task specific,Learning Lerato 2
+Cust414,1,Do it for me,No,17/02/2025,once in 6 months,Never have never will,Digiphobe Doris 1
+Cust415,9,Do it myself,Yes,18/02/2025,once in 6 months,Expert,Self-Serve Sam 2
+Cust416,6,Do it with me,Yes,19/02/2025,longer than 12 months,Task specific,Learning Lerato 2
+Cust417,2,Do it for me,Yes,20/02/2025,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust418,3,Do it with me,Yes,21/02/2025,once in 12 months,Wlling & unable,Tentative Terry 1
+Cust419,9,Do it myself,Yes,22/02/2025,once in 12 months,Expert,Self-Serve Sam 2
+Cust420,7,Do it with me,Yes,23/02/2025,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust421,6,Do it with me,Yes,24/02/2025,once in last month,Task specific,Learning Lerato 2
+Cust422,5,Do it with me,No,25/02/2025,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust423,9,Do it myself,Yes,26/02/2025,once in last month,Expert,Self-Serve Sam 2
+Cust424,9,Do it myself,Yes,27/02/2025,longer than 12 months,Expert,Self-Serve Sam 2
+Cust425,7,Do it with me,No,28/02/2025,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust426,9,Do it myself,Yes,01/03/2025,once in 6 months,Expert,Self-Serve Sam 2
+Cust427,5,Do it with me,No,02/03/2025,once in last month,Learning the ropes,Learning Lerato 1
+Cust428,9,Do it myself,Yes,03/03/2025,longer than 12 months,Expert,Self-Serve Sam 2
+Cust429,4,Do it with me,No,04/03/2025,once in 3 months,Reluctantly online,Tentative Terry 2
+Cust430,3,Do it with me,Yes,05/03/2025,once in last month,Wlling & unable,Tentative Terry 1
+Cust431,7,Do it with me,Yes,06/03/2025,longer than 12 months,Basic digital skills,Learning Lerato 3
+Cust432,4,Do it with me,Yes,07/03/2025,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust433,6,Do it with me,No,08/03/2025,once in 6 months,Task specific,Learning Lerato 2
+Cust434,7,Do it with me,Yes,09/03/2025,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust435,8,Do it myself,Yes,10/03/2025,once in 6 months,Confident,Self-Serve Sam 1
+Cust436,5,Do it with me,Yes,11/03/2025,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust437,2,Do it for me,No,12/03/2025,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust438,8,Do it myself,Yes,13/03/2025,once in 6 months,Confident,Self-Serve Sam 1
+Cust439,8,Do it myself,Yes,14/03/2025,longer than 12 months,Confident,Self-Serve Sam 1
+Cust440,8,Do it myself,No,15/03/2025,once in last month,Confident,Self-Serve Sam 1
+Cust441,9,Do it myself,Yes,16/03/2025,once in 3 months,Expert,Self-Serve Sam 2
+Cust442,5,Do it with me,No,17/03/2025,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust443,7,Do it with me,Yes,18/03/2025,once in 6 months,Basic digital skills,Learning Lerato 3
+Cust444,5,Do it with me,No,19/03/2025,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust445,8,Do it myself,No,20/03/2025,once in last month,Confident,Self-Serve Sam 1
+Cust446,1,Do it for me,No,21/03/2025,longer than 12 months,Never have never will,Digiphobe Doris 1
+Cust447,2,Do it for me,No,22/03/2025,once in 3 months,Was online but no longer,Digiphobe Doris 2
+Cust448,7,Do it with me,No,23/03/2025,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust449,3,Do it with me,Yes,24/03/2025,once in last month,Wlling & unable,Tentative Terry 1
+Cust450,7,Do it with me,Yes,25/03/2025,once in last month,Basic digital skills,Learning Lerato 3
+Cust451,7,Do it with me,Yes,26/03/2025,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust452,7,Do it with me,Yes,27/03/2025,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust453,9,Do it myself,Yes,28/03/2025,once in last month,Expert,Self-Serve Sam 2
+Cust454,9,Do it myself,Yes,29/03/2025,once in last month,Expert,Self-Serve Sam 2
+Cust455,8,Do it myself,No,30/03/2025,once in 6 months,Confident,Self-Serve Sam 1
+Cust456,4,Do it with me,No,31/03/2025,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust457,3,Do it with me,No,01/04/2025,once in 6 months,Wlling & unable,Tentative Terry 1
+Cust458,7,Do it with me,Yes,02/04/2025,once in 3 months,Basic digital skills,Learning Lerato 3
+Cust459,4,Do it with me,Yes,03/04/2025,once in 6 months,Reluctantly online,Tentative Terry 2
+Cust460,1,Do it for me,No,04/04/2025,once in 3 months,Never have never will,Digiphobe Doris 1
+Cust461,9,Do it myself,Yes,05/04/2025,once in 3 months,Expert,Self-Serve Sam 2
+Cust462,2,Do it for me,No,06/04/2025,once in 12 months,Was online but no longer,Digiphobe Doris 2
+Cust463,9,Do it myself,Yes,07/04/2025,once in 6 months,Expert,Self-Serve Sam 2
+Cust464,9,Do it myself,Yes,08/04/2025,once in 12 months,Expert,Self-Serve Sam 2
+Cust465,1,Do it for me,No,09/04/2025,once in last month,Never have never will,Digiphobe Doris 1
+Cust466,6,Do it with me,Yes,10/04/2025,once in 6 months,Task specific,Learning Lerato 2
+Cust467,9,Do it myself,Yes,11/04/2025,once in last month,Expert,Self-Serve Sam 2
+Cust468,9,Do it myself,Yes,12/04/2025,once in last month,Expert,Self-Serve Sam 2
+Cust469,8,Do it myself,No,13/04/2025,once in 12 months,Confident,Self-Serve Sam 1
+Cust470,8,Do it myself,Yes,14/04/2025,once in 6 months,Confident,Self-Serve Sam 1
+Cust471,3,Do it with me,No,15/04/2025,once in 12 months,Wlling & unable,Tentative Terry 1
+Cust472,9,Do it myself,Yes,16/04/2025,once in last month,Expert,Self-Serve Sam 2
+Cust473,1,Do it for me,No,17/04/2025,once in last month,Never have never will,Digiphobe Doris 1
+Cust474,5,Do it with me,Yes,18/04/2025,once in 3 months,Learning the ropes,Learning Lerato 1
+Cust475,6,Do it with me,Yes,19/04/2025,once in 6 months,Task specific,Learning Lerato 2
+Cust476,4,Do it with me,No,20/04/2025,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust477,4,Do it with me,Yes,21/04/2025,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust478,8,Do it myself,Yes,22/04/2025,once in 6 months,Confident,Self-Serve Sam 1
+Cust479,1,Do it for me,No,23/04/2025,once in 12 months,Never have never will,Digiphobe Doris 1
+Cust480,9,Do it myself,Yes,24/04/2025,longer than 12 months,Expert,Self-Serve Sam 2
+Cust481,5,Do it with me,Yes,25/04/2025,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust482,4,Do it with me,Yes,26/04/2025,once in 12 months,Reluctantly online,Tentative Terry 2
+Cust483,3,Do it with me,No,27/04/2025,once in 6 months,Wlling & unable,Tentative Terry 1
+Cust484,5,Do it with me,Yes,28/04/2025,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust485,7,Do it with me,Yes,29/04/2025,once in 12 months,Basic digital skills,Learning Lerato 3
+Cust486,5,Do it with me,No,30/04/2025,once in 12 months,Learning the ropes,Learning Lerato 1
+Cust487,5,Do it with me,No,01/05/2025,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust488,9,Do it myself,Yes,02/05/2025,once in 6 months,Expert,Self-Serve Sam 2
+Cust489,2,Do it for me,No,03/05/2025,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust490,9,Do it myself,Yes,04/05/2025,once in 12 months,Expert,Self-Serve Sam 2
+Cust491,2,Do it for me,No,05/05/2025,longer than 12 months,Was online but no longer,Digiphobe Doris 2
+Cust492,9,Do it myself,Yes,06/05/2025,longer than 12 months,Expert,Self-Serve Sam 2
+Cust493,5,Do it with me,Yes,07/05/2025,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust494,9,Do it myself,Yes,08/05/2025,once in last month,Expert,Self-Serve Sam 2
+Cust495,5,Do it with me,Yes,09/05/2025,longer than 12 months,Learning the ropes,Learning Lerato 1
+Cust496,5,Do it with me,Yes,10/05/2025,once in 6 months,Learning the ropes,Learning Lerato 1
+Cust497,4,Do it with me,No,11/05/2025,longer than 12 months,Reluctantly online,Tentative Terry 2
+Cust498,2,Do it for me,No,12/05/2025,once in last month,Was online but no longer,Digiphobe Doris 2
+Cust499,9,Do it myself,Yes,13/05/2025,longer than 12 months,Expert,Self-Serve Sam 2
+Cust500,9,Do it myself,Yes,14/05/2025,once in 3 months,Expert,Self-Serve Sam 2

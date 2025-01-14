@@ -1,25 +1,225 @@
-Left axis,Right axis,
-Online,Online,50
-Online,Self-help,20
-Online,Webchat,10
-Online,Screenshare,5
-Online,PolyAI,5
-Online,Phone,10
-Webchat,Online,30
-Webchat,Self-help,20
-Webchat,Webchat,20
-Webchat,Screenshare,10
-Webchat,PolyAI,0
-Webchat,Phone,20
-PolyAI,Online,10
-PolyAI,Self-help,10
-PolyAI,Webchat,5
-PolyAI,Screenshare,NA
-PolyAI,PolyAI,40
-PolyAI,Phone,35
-Phone,Online,10
-Phone,Self-help,10
-Phone,Webchat,NA
-Phone,Screenshare,10
-Phone,PolyAI,NA
-Phone,Phone,70
+Customer ID,Digicare Case ID,Date Case Opened,Date Case Closed,average log-ins to digital channels per month,Open Case Categories,Digicare Referrals,Digicare Impact,Date logged in,
+Cust020,Digi064,27/04/2024,14/05/2024,0,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,,
+Cust024,Digi099,28/10/2024,16/11/2024,0,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,,
+Cust033,Digi067,19/02/2024,08/03/2024,0,awaiting telephony coaching,required a data SIM,No coaching Referral,,
+Cust036,Digi006,16/06/2024,03/07/2024,0,awaiting triage,only required a triage session,No coaching Referral,,
+Cust037,Digi100,03/02/2024,21/02/2024,0,awaiting device & data,required a f2f coaching session,contact us by phone,,
+Cust049,Digi009,08/01/2024,09/01/2024,0,awaiting f2f coaching,required a data SIM,No coaching Referral,,
+Cust059,Digi102,20/05/2024,14/06/2024,0,awaiting telephony coaching,required a remote coaching session,log in to digital channels,,
+Cust067,Digi011,02/02/2024,02/03/2024,0,awaiting f2f coaching,required a f2f coaching session,engage with self-help material,,
+Cust089,Digi014,05/09/2024,11/09/2024,0,awaiting device & data,only required a triage session,No coaching Referral,,
+Cust095,Digi015,24/09/2024,11/10/2024,0,awaiting f2f coaching,required a data SIM,No coaching Referral,,
+Cust102,Digi016,17/06/2024,06/07/2024,0,awaiting f2f coaching,required a remote coaching session,contact us by phone,,
+Cust109,Digi073,14/03/2024,17/03/2024,0,awaiting f2f coaching,required a data SIM,No coaching Referral,,
+Cust114,Digi074,07/09/2024,05/10/2024,0,awaiting triage,required a f2f coaching session,engage with self-help material,,
+Cust122,Digi109,26/06/2024,01/07/2024,0,awaiting triage,didn’t need Digicare,No coaching Referral,,
+Cust127,Digi017,15/10/2024,18/10/2024,0,awaiting telephony coaching,required a remote coaching session,contact us by phone,,
+Cust150,Digi019,22/06/2024,08/07/2024,0,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,,
+Cust151,Digi020,31/05/2024,25/06/2024,0,awaiting device & data,required a remote coaching session,contact us on webchat,,
+Cust168,Digi078,30/04/2024,09/05/2024,0,awaiting triage,required a f2f coaching session,log in to digital channels,,
+Cust188,Digi027,02/07/2024,12/07/2024,0,awaiting triage,required a f2f coaching session,contact us by phone,,
+Cust188,Digi080,01/07/2024,16/07/2024,0,awaiting f2f coaching,only required a triage session,No coaching Referral,,
+Cust205,Digi084,16/08/2024,11/09/2024,0,awaiting telephony coaching,required a device,No coaching Referral,,
+Cust217,Digi031,13/11/2024,08/12/2024,0,awaiting device & data,required a remote coaching session,engage with self-help material,,
+Cust227,Digi085,17/09/2024,16/10/2024,0,awaiting triage,required a device,No coaching Referral,,
+Cust249,Digi086,15/12/2024,13/01/2025,0,awaiting triage,didn’t need Digicare,No coaching Referral,,
+Cust263,Digi036,09/07/2024,08/08/2024,0,awaiting triage,only required a triage session,No coaching Referral,,
+Cust293,Digi038,25/10/2024,14/11/2024,0,awaiting triage,required a device,No coaching Referral,,
+Cust312,Digi087,01/06/2024,11/06/2024,0,awaiting device & data,only required a triage session,No coaching Referral,,
+Cust314,Digi040,29/09/2024,26/10/2024,0,awaiting device & data,only required a triage session,No coaching Referral,,
+Cust356,Digi127,11/09/2024,27/09/2024,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,,
+Cust356,Digi090,15/09/2024,27/09/2024,0,awaiting device & data,required a device,No coaching Referral,,
+Cust430,Digi054,19/02/2024,09/03/2024,0,awaiting triage,didn’t need Digicare,No coaching Referral,,
+Cust461,Digi133,02/04/2024,09/04/2024,0,awaiting f2f coaching,only required a triage session,No coaching Referral,,
+Cust466,Digi059,29/08/2024,17/09/2024,0,awaiting triage,required a f2f coaching session,log in to digital channels,,
+Cust467,Digi060,08/06/2024,17/06/2024,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,,
+Cust478,Digi135,19/05/2024,23/05/2024,0,awaiting f2f coaching,only required a triage session,No coaching Referral,,
+Cust479,Digi136,05/12/2024,08/12/2024,0,awaiting device & data,required a f2f coaching session,contact us by phone,,
+Cust481,Digi061,27/06/2024,11/07/2024,0,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,,
+Cust489,Digi137,21/05/2024,28/05/2024,0,awaiting f2f coaching,required a f2f coaching session,engage with self-help material,,
+Cust015,Digi063,26/10/2024,19/11/2024,1,awaiting telephony coaching,required a remote coaching session,contact us by phone,27/11/2024,308
+Cust031,Digi005,08/04/2024,30/04/2024,1,awaiting triage,required a device,No coaching Referral,25/07/2024,360
+Cust045,Digi007,24/11/2024,22/12/2024,1,awaiting telephony coaching,required a f2f coaching session,complete a JTBD online,28/12/2024,257
+Cust048,Digi008,02/10/2024,15/10/2024,1,awaiting telephony coaching,only required a triage session,No coaching Referral,31/07/2025,29
+Cust070,Digi068,14/06/2024,15/06/2024,1,awaiting triage,required a data SIM,No coaching Referral,13/10/2024,263
+Cust075,Digi069,11/03/2024,30/03/2024,1,awaiting f2f coaching,required a data SIM,No coaching Referral,03/06/2024,199
+Cust084,Digi013,29/08/2024,17/09/2024,1,awaiting telephony coaching,only required a triage session,No coaching Referral,12/01/2025,217
+Cust100,Digi071,23/12/2024,02/01/2025,1,awaiting f2f coaching,required a device,No coaching Referral,17/10/2025,159
+Cust101,Digi106,17/06/2024,04/07/2024,1,awaiting f2f coaching,required a f2f coaching session,contact us by phone,03/08/2024,48
+Cust105,Digi072,25/01/2024,28/01/2024,1,awaiting triage,didn’t need Digicare,No coaching Referral,25/08/2024,169
+Cust117,Digi075,19/10/2024,20/10/2024,1,awaiting triage,only required a triage session,No coaching Referral,17/02/2025,155
+Cust134,Digi110,14/03/2024,06/04/2024,1,awaiting device & data,required a device,No coaching Referral,30/11/2024,6
+Cust140,Digi018,24/11/2024,01/12/2024,1,awaiting telephony coaching,required a f2f coaching session,engage with self-help material,31/12/2024,137
+Cust156,Digi022,15/12/2024,12/01/2025,1,awaiting triage,required a data SIM,No coaching Referral,05/08/2025,241
+Cust163,Digi023,17/01/2024,04/02/2024,1,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,13/04/2024,37
+Cust167,Digi113,04/01/2024,01/02/2024,1,awaiting triage,required a data SIM,No coaching Referral,05/02/2024,350
+Cust173,Digi026,29/05/2024,23/06/2024,1,awaiting triage,required a remote coaching session,log in to digital channels,20/11/2024,18
+Cust175,Digi079,15/01/2024,28/01/2024,1,awaiting f2f coaching,only required a triage session,No coaching Referral,03/06/2024,176
+Cust176,Digi114,07/10/2024,20/10/2024,1,awaiting triage,only required a triage session,No coaching Referral,13/07/2025,113
+Cust186,Digi115,23/07/2024,26/07/2024,1,awaiting telephony coaching,required a f2f coaching session,contact us by phone,31/07/2024,106
+Cust187,Digi116,28/03/2024,12/04/2024,1,awaiting device & data,required a f2f coaching session,contact us on webchat,11/06/2024,281
+Cust201,Digi028,01/05/2024,03/05/2024,1,awaiting telephony coaching,required a device,No coaching Referral,10/07/2024,353
+Cust202,Digi083,30/03/2024,15/04/2024,1,awaiting device & data,only required a triage session,No coaching Referral,12/12/2024,203
+Cust204,Digi029,08/07/2024,15/07/2024,1,awaiting triage,required a device,No coaching Referral,26/07/2024,239
+Cust210,Digi030,07/09/2024,15/09/2024,1,awaiting triage,required a device,No coaching Referral,17/02/2025,183
+Cust233,Digi033,25/08/2024,21/09/2024,1,awaiting f2f coaching,required a device,No coaching Referral,30/05/2025,24
+Cust234,Digi120,25/11/2024,02/12/2024,1,awaiting f2f coaching,only required a triage session,No coaching Referral,25/12/2024,119
+Cust235,Digi121,26/11/2024,05/12/2024,1,awaiting device & data,required a f2f coaching session,engage with self-help material,04/01/2025,127
+Cust255,Digi122,21/08/2024,11/09/2024,1,awaiting telephony coaching,required a device,No coaching Referral,20/06/2025,42
+Cust274,Digi037,21/05/2024,26/05/2024,1,awaiting triage,only required a triage session,No coaching Referral,27/05/2024,218
+Cust294,Digi039,15/08/2024,02/09/2024,1,awaiting telephony coaching,required a f2f coaching session,contact us by phone,04/09/2024,259
+Cust299,Digi124,04/11/2024,11/11/2024,1,awaiting telephony coaching,required a device,No coaching Referral,19/02/2025,109
+Cust330,Digi042,02/09/2024,25/09/2024,1,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,24/11/2024,114
+Cust341,Digi126,20/05/2024,14/06/2024,1,awaiting triage,required a data SIM,No coaching Referral,18/07/2024,116
+Cust346,Digi089,19/05/2024,03/06/2024,1,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,13/07/2024,32
+Cust355,Digi045,03/12/2024,24/12/2024,1,awaiting triage,required a f2f coaching session,contact us by phone,13/01/2025,158
+Cust370,Digi046,07/05/2024,28/05/2024,1,awaiting f2f coaching,didn’t need Digicare,No coaching Referral,29/01/2025,2
+Cust383,Digi091,27/04/2024,10/05/2024,1,awaiting triage,required a remote coaching session,complete a JTBD online,15/05/2024,220
+Cust391,Digi048,10/07/2024,26/07/2024,1,awaiting device & data,required a data SIM,No coaching Referral,05/03/2025,158
+Cust396,Digi050,19/03/2024,09/04/2024,1,awaiting triage,only required a triage session,No coaching Referral,04/07/2024,135
+Cust400,Digi092,04/06/2024,27/06/2024,1,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,28/02/2025,14
+Cust405,Digi128,22/12/2024,03/01/2025,1,awaiting device & data,required a data SIM,No coaching Referral,05/01/2025,193
+Cust406,Digi093,01/07/2024,08/07/2024,1,awaiting device & data,didn’t need Digicare,No coaching Referral,07/02/2025,4
+Cust407,Digi129,05/08/2024,28/08/2024,1,awaiting f2f coaching,required a data SIM,No coaching Referral,21/09/2024,206
+Cust416,Digi052,23/01/2024,01/02/2024,1,awaiting triage,required a data SIM,No coaching Referral,30/06/2024,135
+Cust427,Digi053,02/06/2024,14/06/2024,1,awaiting triage,required a data SIM,No coaching Referral,01/04/2025,249
+Cust437,Digi131,18/11/2024,21/11/2024,1,awaiting device & data,required a data SIM,No coaching Referral,26/02/2025,76
+Cust449,Digi056,19/05/2024,21/05/2024,1,awaiting triage,didn’t need Digicare,No coaching Referral,29/12/2024,180
+Cust499,Digi138,24/08/2024,30/08/2024,1,awaiting device & data,required a data SIM,No coaching Referral,18/04/2025,266
+Cust001,Digi062,09/09/2024,09/10/2024,2,awaiting triage,only required a triage session,No coaching Referral,06/02/2025,155
+Cust006,Digi001,07/10/2024,28/10/2024,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,13/01/2025,89
+Cust006,Digi001,07/10/2024,28/10/2024,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,24/01/2025,3
+Cust010,Digi002,30/04/2024,14/05/2024,2,awaiting triage,required a device,No coaching Referral,15/01/2025,72
+Cust017,Digi003,14/02/2024,29/02/2024,2,awaiting telephony coaching,required a f2f coaching session,complete a JTBD online,30/03/2024,150
+Cust025,Digi004,25/02/2024,18/03/2024,2,awaiting device & data,didn’t need Digicare,No coaching Referral,19/10/2024,145
+Cust026,Digi065,02/09/2024,28/09/2024,2,awaiting f2f coaching,only required a triage session,No coaching Referral,07/02/2025,143
+Cust032,Digi066,08/07/2024,25/07/2024,2,awaiting f2f coaching,required a data SIM,No coaching Referral,27/08/2024,120
+Cust049,Digi101,02/02/2024,21/02/2024,2,awaiting device & data,required a f2f coaching session,log in to digital channels,02/03/2024,27
+Cust049,Digi101,02/02/2024,21/02/2024,2,awaiting device & data,required a f2f coaching session,log in to digital channels,26/02/2024,30
+Cust051,Digi010,28/11/2024,19/12/2024,2,awaiting f2f coaching,required a f2f coaching session,contact us by phone,28/12/2024,98
+Cust065,Digi103,29/09/2024,08/10/2024,2,awaiting device & data,required a data SIM,No coaching Referral,12/01/2025,1
+Cust081,Digi012,26/03/2024,13/04/2024,2,awaiting f2f coaching,only required a triage session,No coaching Referral,04/05/2024,36
+Cust084,Digi104,10/08/2024,31/08/2024,2,awaiting device & data,required a remote coaching session,log in to digital channels,19/11/2024,52
+Cust084,Digi104,10/08/2024,31/08/2024,2,awaiting device & data,required a remote coaching session,log in to digital channels,08/04/2025,247
+Cust085,Digi105,15/09/2024,18/09/2024,2,awaiting device & data,didn’t need Digicare,No coaching Referral,21/06/2025,145
+Cust097,Digi070,26/02/2024,03/03/2024,2,awaiting triage,required a device,No coaching Referral,27/11/2024,162
+Cust106,Digi107,16/02/2024,19/02/2024,2,awaiting telephony coaching,required a data SIM,No coaching Referral,05/11/2024,266
+Cust120,Digi108,16/03/2024,20/03/2024,2,awaiting device & data,required a data SIM,No coaching Referral,27/08/2024,239
+Cust137,Digi076,15/06/2024,28/06/2024,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,28/07/2024,187
+Cust137,Digi076,15/06/2024,28/06/2024,2,awaiting f2f coaching,required a remote coaching session,log in to digital channels,03/07/2024,128
+Cust149,Digi111,16/01/2024,28/01/2024,2,awaiting triage,only required a triage session,No coaching Referral,28/03/2024,124
+Cust153,Digi021,25/07/2024,31/07/2024,2,awaiting telephony coaching,didn’t need Digicare,No coaching Referral,16/10/2024,205
+Cust162,Digi112,17/10/2024,24/10/2024,2,awaiting device & data,didn’t need Digicare,No coaching Referral,20/07/2025,29
+Cust163,Digi077,29/05/2024,05/06/2024,2,awaiting triage,required a remote coaching session,engage with self-help material,12/11/2024,151
+Cust163,Digi077,29/05/2024,05/06/2024,2,awaiting triage,required a remote coaching session,engage with self-help material,05/07/2024,23
+Cust170,Digi024,24/01/2024,06/02/2024,2,awaiting telephony coaching,only required a triage session,No coaching Referral,16/09/2024,173
+Cust171,Digi025,17/12/2024,23/12/2024,2,awaiting triage,required a f2f coaching session,contact us on webchat,02/01/2025,235
+Cust189,Digi117,08/11/2024,10/11/2024,2,awaiting device & data,didn’t need Digicare,No coaching Referral,19/11/2024,70
+Cust190,Digi118,05/12/2024,12/12/2024,2,awaiting triage,required a remote coaching session,engage with self-help material,17/12/2024,18
+Cust190,Digi118,05/12/2024,12/12/2024,2,awaiting triage,required a remote coaching session,engage with self-help material,11/01/2025,63
+Cust194,Digi081,23/03/2024,16/04/2024,2,awaiting device & data,only required a triage session,No coaching Referral,28/01/2025,89
+Cust196,Digi082,26/08/2024,20/09/2024,2,awaiting f2f coaching,required a data SIM,No coaching Referral,17/10/2024,47
+Cust215,Digi119,08/11/2024,25/11/2024,2,awaiting f2f coaching,only required a triage session,No coaching Referral,25/06/2025,79
+Cust218,Digi032,14/06/2024,10/07/2024,2,awaiting telephony coaching,only required a triage session,No coaching Referral,05/04/2025,128
+Cust240,Digi034,17/09/2024,27/09/2024,2,awaiting f2f coaching,required a remote coaching session,contact us on webchat,02/10/2024,56
+Cust245,Digi035,15/02/2024,03/03/2024,2,awaiting f2f coaching,required a device,No coaching Referral,26/05/2024,80
+Cust288,Digi123,07/12/2024,09/12/2024,2,awaiting telephony coaching,required a data SIM,No coaching Referral,21/04/2025,60
+Cust312,Digi125,17/01/2024,26/01/2024,2,awaiting triage,required a remote coaching session,log in to digital channels,22/10/2024,106
+Cust312,Digi125,17/01/2024,26/01/2024,2,awaiting triage,required a remote coaching session,log in to digital channels,26/03/2024,28
+Cust327,Digi041,10/08/2024,11/08/2024,2,awaiting triage,didn’t need Digicare,No coaching Referral,25/09/2024,157
+Cust330,Digi088,07/08/2024,19/08/2024,2,awaiting telephony coaching,required a data SIM,No coaching Referral,07/10/2024,140
+Cust332,Digi043,12/10/2024,08/11/2024,2,awaiting f2f coaching,required a data SIM,No coaching Referral,13/12/2024,103
+Cust339,Digi044,19/04/2024,21/04/2024,2,awaiting triage,required a data SIM,No coaching Referral,25/09/2024,49
+Cust390,Digi047,07/10/2024,17/10/2024,2,awaiting triage,required a f2f coaching session,engage with self-help material,05/05/2025,162
+Cust390,Digi047,07/10/2024,17/10/2024,2,awaiting triage,required a f2f coaching session,engage with self-help material,16/11/2024,64
+Cust395,Digi049,11/03/2024,14/03/2024,2,awaiting f2f coaching,required a f2f coaching session,contact us on webchat,13/04/2024,32
+Cust405,Digi051,19/05/2024,27/05/2024,2,awaiting triage,required a f2f coaching session,complete a JTBD online,02/06/2024,142
+Cust412,Digi094,08/06/2024,12/06/2024,2,awaiting f2f coaching,required a data SIM,No coaching Referral,02/04/2025,114
+Cust436,Digi130,26/01/2024,30/01/2024,2,awaiting device & data,required a remote coaching session,engage with self-help material,29/04/2024,142
+Cust436,Digi130,26/01/2024,30/01/2024,2,awaiting device & data,required a remote coaching session,engage with self-help material,29/02/2024,78
+Cust439,Digi095,19/06/2024,21/06/2024,2,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,21/07/2024,19
+Cust439,Digi095,19/06/2024,21/06/2024,2,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,10/08/2024,111
+Cust443,Digi132,19/05/2024,04/06/2024,2,awaiting telephony coaching,required a remote coaching session,complete a JTBD online,06/06/2024,81
+Cust444,Digi055,26/05/2024,14/06/2024,2,awaiting telephony coaching,required a device,No coaching Referral,06/08/2024,145
+Cust462,Digi057,06/01/2024,30/01/2024,2,awaiting device & data,required a remote coaching session,log in to digital channels,04/02/2024,14
+Cust462,Digi057,06/01/2024,30/01/2024,2,awaiting device & data,required a remote coaching session,log in to digital channels,25/11/2024,134
+Cust463,Digi058,21/12/2024,09/01/2025,2,awaiting triage,required a data SIM,No coaching Referral,08/03/2025,80
+Cust466,Digi096,06/02/2024,15/02/2024,2,awaiting device & data,only required a triage session,No coaching Referral,16/06/2024,30
+Cust467,Digi134,10/06/2024,10/07/2024,2,awaiting telephony coaching,required a device,No coaching Referral,25/02/2025,17
+Cust471,Digi097,11/12/2024,07/01/2025,2,awaiting f2f coaching,required a remote coaching session,complete a JTBD online,27/01/2025,64
+Cust486,Digi098,28/03/2024,17/04/2024,2,awaiting triage,required a remote coaching session,complete a JTBD online,27/05/2024,119
+Cust569,Digi145,26/11/2024,16/12/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,11/02/2025,24
+Cust569,Digi145,26/11/2024,16/12/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,27/01/2025,1
+Cust569,Digi145,26/11/2024,16/12/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,02/09/2025,44
+Cust619,Digi150,09/07/2024,29/07/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,23/08/2024,181
+Cust619,Digi150,09/07/2024,29/07/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,04/03/2025,188
+Cust619,Digi150,09/07/2024,29/07/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,24/10/2024,26
+Cust629,Digi151,21/05/2024,10/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,26/06/2024,30
+Cust629,Digi151,21/05/2024,10/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,30/06/2024,77
+Cust629,Digi151,21/05/2024,10/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,04/03/2025,69
+Cust679,Digi156,01/06/2024,21/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,01/07/2024,133
+Cust679,Digi156,01/06/2024,21/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,23/08/2024,139
+Cust679,Digi156,01/06/2024,21/06/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,03/11/2024,182
+Cust689,Digi157,17/01/2024,06/02/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,09/11/2024,195
+Cust689,Digi157,17/01/2024,06/02/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,25/08/2024,190
+Cust689,Digi157,17/01/2024,06/02/2024,3,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,16/05/2024,12
+Cust539,Digi142,17/09/2024,09/04/2024,4,awaiting device & data,required a remote coaching session,log in to digital channels,10/01/2025,142
+Cust539,Digi142,17/09/2024,09/04/2024,4,awaiting device & data,required a remote coaching session,log in to digital channels,01/07/2024,81
+Cust539,Digi142,17/09/2024,09/04/2024,4,awaiting device & data,required a remote coaching session,log in to digital channels,20/08/2024,131
+Cust539,Digi142,17/09/2024,09/04/2024,4,awaiting device & data,required a remote coaching session,log in to digital channels,05/12/2024,176
+Cust579,Digi146,17/09/2024,07/10/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,20/02/2025,15
+Cust579,Digi146,17/09/2024,07/10/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,21/06/2025,140
+Cust579,Digi146,17/09/2024,07/10/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,18/03/2025,111
+Cust579,Digi146,17/09/2024,07/10/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,14/02/2025,102
+Cust589,Digi147,15/02/2024,06/03/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,29/05/2024,112
+Cust589,Digi147,15/02/2024,06/03/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,06/07/2024,196
+Cust589,Digi147,15/02/2024,06/03/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,22/10/2024,64
+Cust589,Digi147,15/02/2024,06/03/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,17/07/2024,28
+Cust639,Digi152,07/12/2024,27/12/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,06/01/2025,25
+Cust639,Digi152,07/12/2024,27/12/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,24/07/2025,26
+Cust639,Digi152,07/12/2024,27/12/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,22/05/2025,6
+Cust639,Digi152,07/12/2024,27/12/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,10/05/2025,26
+Cust649,Digi153,25/10/2024,14/11/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,04/04/2025,4
+Cust649,Digi153,25/10/2024,14/11/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,01/03/2025,28
+Cust649,Digi153,25/10/2024,14/11/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,11/01/2025,23
+Cust649,Digi153,25/10/2024,14/11/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,05/12/2024,1
+Cust699,Digi158,17/01/2024,06/02/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,07/04/2024,7
+Cust699,Digi158,17/01/2024,06/02/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,18/02/2024,12
+Cust699,Digi158,17/01/2024,06/02/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,12/02/2024,4
+Cust699,Digi158,17/01/2024,06/02/2024,4,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,16/08/2024,12
+Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,18/11/2024,12
+Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,14/10/2024,15
+Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,31/03/2025,29
+Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,18/11/2024,23
+Cust549,Digi143,25/08/2024,14/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,23/11/2024,9
+Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,31/03/2025,24
+Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,22/08/2025,11
+Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,05/06/2025,12
+Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,27/09/2025,17
+Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,09/01/2025,15
+Cust559,Digi144,25/11/2024,15/12/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,23/02/2025,5
+Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,22/09/2025,10
+Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,28/04/2025,5
+Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,13/08/2025,23
+Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,19/06/2025,23
+Cust599,Digi148,15/12/2024,04/01/2025,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,06/06/2025,10
+Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,27/06/2025,10
+Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,19/05/2025,4
+Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,09/05/2025,17
+Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,11/09/2024,19
+Cust609,Digi149,21/08/2024,10/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,13/04/2025,13
+Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,03/12/2024,19
+Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,21/11/2024,13
+Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,09/11/2024,20
+Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,14/12/2024,5
+Cust659,Digi154,15/08/2024,04/09/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,08/03/2025,25
+Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,21/01/2025,4
+Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,17/04/2025,12
+Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,06/08/2025,23
+Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,04/07/2025,28
+Cust669,Digi155,04/11/2024,24/11/2024,5,awaiting f2f coaching,required a f2f coaching session,log in to digital channels,02/09/2025,10
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

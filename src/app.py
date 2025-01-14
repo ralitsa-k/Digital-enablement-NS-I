@@ -162,9 +162,9 @@ def plot_channeld(color_mapping):
     return fig
 
 def plot_channel_containment(color_mapping):
-    source = pd.read_csv(save_path+'Sankey.csv')['Left axis'].tolist()
-    target = pd.read_csv(save_path+'Sankey.csv')['Right axis'].tolist()
-    value = pd.read_csv(save_path+'Sankey.csv')['Unnamed: 2'].tolist()
+    source = pd.read_csv(save_path+'Sankey(1).csv', encoding='cp1252')['Left axis'].tolist()
+    target = pd.read_csv(save_path+'Sankey(1).csv',encoding='cp1252')['Right axis'].tolist()
+    value = pd.read_csv(save_path+'Sankey(1).csv',encoding='cp1252')['Unnamed: 2'].tolist()
           
     all_namesRGB = pd.DataFrame(source + target)
     all_namesRGB['colors'] = all_namesRGB[0].map(color_mapping)
@@ -188,7 +188,9 @@ def plot_channel_containment(color_mapping):
     ),layout = go.Layout(title=dict(text="Channel Containment"), margin=dict(t=60)))
     return fig
 
-
+def plot_personas_counts():
+    df = pd.read_csv(save_path+'Customer.csv')
+    df.groupby('Persona Nickname')['Customer ID'].count().reset_index()
 #%% App layout
 app.layout = html.Div([
     navbar,
